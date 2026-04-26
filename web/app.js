@@ -75,7 +75,7 @@ function nextCard() {
 
   const sentence = current.example.replace(
     new RegExp(`\\b${escapeRegex(correctWord)}\\b`, "i"),
-    `<span class="blank">＿＿＿＿</span>`
+    `<span class="blank"></span>`
   );
   document.getElementById("sentence-display").innerHTML = sentence;
 
