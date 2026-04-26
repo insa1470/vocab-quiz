@@ -1,4 +1,5 @@
 const SESSION_SIZE = 20;
+const GRADUATE_AT = 3; // 連續答對幾次視為畢業
 
 let words = [];
 let queue = [];
@@ -6,29 +7,55 @@ let current = null;
 let correctWord = "";
 let knowCount = 0;
 let againCount = 0;
+let graduatedCount = 0;
 let currentLevel = "";
+let currentMode = "all"; // "all" | "weak"
+
+// ── 啟動 ──────────────────────────────────────────────
+initStreak();
+updateWeakBadges();
 
 // ── 進入練習 ──────────────────────────────────────────
-async function startSession(level) {
+async function startSession(level, mode) {
   currentLevel = level;
+  currentMode = mode;
   knowCount = 0;
   againCount = 0;
+  graduatedCount = 0;
 
   try {
     const res = await fetch(`../data/${level}.json`);
-    if (!res.ok) throw new Error("找不到資料");
-    const allWords = await res.json();
-    words = allWords;
+    if (!res.ok) throw new Error();
+    words = await res.json();
   } catch {
-    // 用範例資料讓畫面可以運作
     words = getSampleWords(level);
   }
 
-  // 優先抽低頻率、之前標記「再複習」的字
-  const stored = getStoredAgain(level);
-  const prioritized = words.filter(w => stored.includes(w.word));
-  const rest = shuffle(words.filter(w => !stored.includes(w.word)));
-  queue = [...prioritized, ...rest].slice(0, SESSION_SIZE);
+  if (mode === "weak") {
+    const weakKeys = getWeakKeys(level);
+    if (weakKeys.length === 0) {
+      alert("目前沒有弱點單字！先練習一輪再來。");
+      return;
+    }
+    const weakWords = words.filter(w => weakKeys.includes(w.word));
+    queue = shuffle(weakWords).slice(0, SESSION_SIZE);
+  } else {
+    const weakKeys = getWeakKeys(level);
+    const prioritized = shuffle(words.filter(w => weakKeys.includes(w.word)));
+    const rest = shuffle(words.filter(w => !weakKeys.includes(w.word)));
+    queue = [...prioritized, ...rest].slice(0, SESSION_SIZE);
+  }
+
+  // 模式標籤
+  const tag = document.getElementById("mode-tag");
+  if (mode === "weak") {
+    tag.textContent = "⚡ 弱點練習模式";
+    tag.className = "mode-tag weak";
+  } else {
+    tag.textContent = "📖 全部單字模式";
+    tag.className = "mode-tag all";
+  }
+  tag.classList.remove("hidden");
 
   show("screen-quiz");
   nextCard();
@@ -36,10 +63,7 @@ async function startSession(level) {
 
 // ── 下一張卡 ──────────────────────────────────────────
 function nextCard() {
-  if (queue.length === 0) {
-    showDone();
-    return;
-  }
+  if (queue.length === 0) { showDone(); return; }
 
   current = queue.shift();
   correctWord = current.word;
@@ -47,16 +71,14 @@ function nextCard() {
   const total = SESSION_SIZE;
   const done = total - queue.length - 1;
   document.getElementById("progress-text").textContent = `${done + 1} / ${total}`;
-  document.getElementById("progress-fill").style.width = `${((done) / total) * 100}%`;
+  document.getElementById("progress-fill").style.width = `${(done / total) * 100}%`;
 
-  // 組例句，把正確單字換成空格
   const sentence = current.example.replace(
     new RegExp(`\\b${escapeRegex(correctWord)}\\b`, "i"),
     `<span class="blank">＿＿＿＿</span>`
   );
   document.getElementById("sentence-display").innerHTML = sentence;
 
-  // 選項：1個正確 + 3個干擾
   const distractors = shuffle(words.filter(w => w.word !== correctWord)).slice(0, 3);
   const options = shuffle([current, ...distractors]);
   const choicesEl = document.getElementById("choices");
@@ -74,27 +96,21 @@ function nextCard() {
 
 // ── 選答案 ──────────────────────────────────────────
 function selectAnswer(btn, chosen) {
-  // 停用所有選項
   document.querySelectorAll(".choice-btn").forEach(b => b.classList.add("disabled"));
-
   const isCorrect = chosen === correctWord;
   btn.classList.add(isCorrect ? "correct" : "wrong");
-
   if (!isCorrect) {
-    // 標出正確答案
     document.querySelectorAll(".choice-btn").forEach(b => {
       if (b.textContent === correctWord) b.classList.add("correct");
     });
   }
-
-  // 短暫停頓後翻面
   setTimeout(() => showBack(isCorrect), 600);
 }
 
-// ── 翻面顯示答案 ──────────────────────────────────────
+// ── 翻面 ──────────────────────────────────────────────
 function showBack(isCorrect) {
   const badge = document.getElementById("result-badge");
-  badge.textContent = isCorrect ? "✓ 正確！" : `✗ 正確答案是：${correctWord}`;
+  badge.textContent = isCorrect ? "✓  正確！" : `✗  正確答案是：${correctWord}`;
   badge.className = `result-badge ${isCorrect ? "correct" : "wrong"}`;
 
   document.getElementById("back-word").textContent = current.word;
@@ -104,19 +120,16 @@ function showBack(isCorrect) {
   document.getElementById("back-example").textContent = current.example || "";
   document.getElementById("back-example-zh").textContent = current.example_zh || "";
 
-  // 用法區塊
   const usageSection = document.getElementById("usage-section");
   const usageList = document.getElementById("usage-list");
   const toggleBtn = document.querySelector(".btn-usage-toggle");
-
   if (current.usage && current.usage.length > 0) {
     usageSection.style.display = "block";
     usageList.innerHTML = current.usage.map(u => `
       <div class="usage-item">
         <span class="usage-pattern">${u.pattern}</span>
         <span class="usage-meaning">${u.meaning_zh}</span>
-      </div>
-    `).join("");
+      </div>`).join("");
     usageList.classList.add("hidden");
     toggleBtn.textContent = "▶ 展開用法";
   } else {
@@ -126,17 +139,12 @@ function showBack(isCorrect) {
   showCard("card-back");
 }
 
-// ── 用法展開收起 ──────────────────────────────────────
+// ── 用法展開 ──────────────────────────────────────────
 function toggleUsage() {
   const list = document.getElementById("usage-list");
   const btn = document.querySelector(".btn-usage-toggle");
-  if (list.classList.contains("hidden")) {
-    list.classList.remove("hidden");
-    btn.textContent = "▼ 收起用法";
-  } else {
-    list.classList.add("hidden");
-    btn.textContent = "▶ 展開用法";
-  }
+  const open = list.classList.toggle("hidden");
+  btn.textContent = open ? "▶ 展開用法" : "▼ 收起用法";
 }
 
 // ── 發音 ──────────────────────────────────────────────
@@ -147,63 +155,139 @@ function speak() {
   speechSynthesis.speak(utt);
 }
 
-// ── 標記認識 / 再複習 ─────────────────────────────────
+// ── 標記認識 ──────────────────────────────────────────
 function markKnow() {
   knowCount++;
-  removeFromAgain(currentLevel, current.word);
+  const graduated = recordCorrect(currentLevel, current.word);
+  if (graduated) graduatedCount++;
   nextCard();
 }
 
+// ── 標記再複習 ────────────────────────────────────────
 function markAgain() {
   againCount++;
-  saveAgain(currentLevel, current.word);
+  addToWeak(currentLevel, current.word);
   nextCard();
 }
 
-// ── 結束 ──────────────────────────────────────────────
+// ── 結束畫面 ──────────────────────────────────────────
 function showDone() {
+  const streak = updateStreak();
   document.getElementById("stat-know").textContent = knowCount;
   document.getElementById("stat-again").textContent = againCount;
+  document.getElementById("stat-graduated").textContent = graduatedCount;
+  document.getElementById("done-streak").textContent = streak;
+  document.getElementById("streak-count").textContent = streak;
+  document.getElementById("streak-label").textContent = "今天已練習 ✓";
+
+  const weakInfo = document.getElementById("done-weak-info");
+  const remaining = getWeakKeys(currentLevel).length;
+  if (graduatedCount > 0) {
+    weakInfo.textContent = `🎓 本輪移除 ${graduatedCount} 個弱點，還剩 ${remaining} 個`;
+  } else if (againCount > 0) {
+    weakInfo.textContent = `📌 加入 ${againCount} 個到弱點清單，共 ${remaining} 個`;
+  } else {
+    weakInfo.textContent = "";
+  }
+
+  const gradStat = document.getElementById("graduated-stat");
+  gradStat.style.display = graduatedCount > 0 ? "flex" : "none";
+
+  updateWeakBadges();
   show("screen-done");
 }
 
-// ── 返回選擇畫面 ──────────────────────────────────────
+// ── 返回 ──────────────────────────────────────────────
 function goBack() {
+  document.getElementById("mode-tag").classList.add("hidden");
   show("screen-select");
 }
 
-// ── 畫面切換工具 ──────────────────────────────────────
+// ── 弱點庫 ────────────────────────────────────────────
+function weakKey(level) { return `vocab_weak_${level}`; }
+
+function getWeakData(level) {
+  try { return JSON.parse(localStorage.getItem(weakKey(level)) || "{}"); }
+  catch { return {}; }
+}
+
+function getWeakKeys(level) {
+  return Object.keys(getWeakData(level));
+}
+
+function addToWeak(level, word) {
+  const data = getWeakData(level);
+  if (!data[word]) {
+    data[word] = { wrongs: 1, streak: 0 };
+  } else {
+    data[word].wrongs++;
+    data[word].streak = 0;
+  }
+  localStorage.setItem(weakKey(level), JSON.stringify(data));
+}
+
+// 答對：增加連勝，達到 GRADUATE_AT 則畢業移除
+function recordCorrect(level, word) {
+  const data = getWeakData(level);
+  if (!data[word]) return false; // 不在弱點庫，不需處理
+  data[word].streak = (data[word].streak || 0) + 1;
+  if (data[word].streak >= GRADUATE_AT) {
+    delete data[word];
+    localStorage.setItem(weakKey(level), JSON.stringify(data));
+    return true; // 畢業
+  }
+  localStorage.setItem(weakKey(level), JSON.stringify(data));
+  return false;
+}
+
+function updateWeakBadges() {
+  ["國中", "高中"].forEach(level => {
+    const count = getWeakKeys(level).length;
+    const countEl = document.getElementById(`weak-count-${level}`);
+    const btn = document.getElementById(`btn-weak-${level}`);
+    if (countEl) countEl.textContent = count;
+    if (btn) btn.classList.toggle("empty", count === 0);
+  });
+}
+
+// ── Streak ────────────────────────────────────────────
+function initStreak() {
+  const { count, lastDate } = getStreak();
+  document.getElementById("streak-count").textContent = count;
+  document.getElementById("streak-label").textContent =
+    lastDate === todayStr() ? "今天已練習 ✓" : "今天還沒練習";
+}
+
+function todayStr() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function getStreak() {
+  try { return JSON.parse(localStorage.getItem("streak") || '{"count":0,"lastDate":""}'); }
+  catch { return { count: 0, lastDate: "" }; }
+}
+
+function updateStreak() {
+  const today = todayStr();
+  const s = getStreak();
+  if (s.lastDate === today) return s.count;
+  const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+  const newCount = s.lastDate === yesterday ? s.count + 1 : 1;
+  localStorage.setItem("streak", JSON.stringify({ count: newCount, lastDate: today }));
+  return newCount;
+}
+
+// ── 畫面工具 ──────────────────────────────────────────
 function show(id) {
   document.querySelectorAll(".screen").forEach(s => s.classList.remove("active"));
   document.getElementById(id).classList.add("active");
 }
 
-function showFront() {
-  showCard("card-front");
-}
+function showFront() { showCard("card-front"); }
 
 function showCard(id) {
   document.querySelectorAll(".card-face").forEach(c => c.classList.add("hidden"));
   document.getElementById(id).classList.remove("hidden");
-}
-
-// ── localStorage：記錄「再複習」的字 ─────────────────
-function storageKey(level) { return `vocab_again_${level}`; }
-
-function getStoredAgain(level) {
-  try { return JSON.parse(localStorage.getItem(storageKey(level)) || "[]"); }
-  catch { return []; }
-}
-
-function saveAgain(level, word) {
-  const list = getStoredAgain(level);
-  if (!list.includes(word)) list.push(word);
-  localStorage.setItem(storageKey(level), JSON.stringify(list));
-}
-
-function removeFromAgain(level, word) {
-  const list = getStoredAgain(level).filter(w => w !== word);
-  localStorage.setItem(storageKey(level), JSON.stringify(list));
 }
 
 // ── 工具 ──────────────────────────────────────────────
@@ -220,7 +304,7 @@ function escapeRegex(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
-// ── 範例資料（資料庫還沒建好時使用）────────────────────
+// ── 範例資料 ──────────────────────────────────────────
 function getSampleWords(level) {
   return [
     { word: "struggle", phonetic: "/ˈstrʌɡəl/", pos: "v.", definition_zh: "掙扎；奮鬥", example: "She struggled to finish the exam on time.", example_zh: "她努力在時間內完成考試。", usage: [{ pattern: "struggle to V", meaning_zh: "努力嘗試做某事" }, { pattern: "struggle with sth", meaning_zh: "與某事搏鬥" }] },

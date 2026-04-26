@@ -2,8 +2,10 @@
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#4f46e5">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="theme-color" content="#F2F2F7">
   <title>英文單字複習</title>
   <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="style.css">
@@ -13,28 +15,54 @@
 <!-- 選擇畫面 -->
 <div id="screen-select" class="screen active">
   <div class="select-container">
+    <div class="select-logo">📚</div>
     <h1>英文單字複習</h1>
-    <p class="subtitle">選擇你的版本</p>
-    <button class="btn-level" data-level="國中" onclick="startSession('國中')">
-      <span class="level-title">國中</span>
-      <span class="level-desc">會考準備・2000字</span>
-    </button>
-    <button class="btn-level" data-level="高中" onclick="startSession('高中')">
-      <span class="level-title">高中</span>
-      <span class="level-desc">學測準備・高頻單字</span>
-    </button>
+
+    <div class="streak-badge">
+      🔥 <strong id="streak-count">0</strong> 天連續
+      <span id="streak-label">今天還沒練習</span>
+    </div>
+
+    <!-- 國中 -->
+    <div class="level-group">
+      <button class="btn-level" data-level="國中" onclick="startSession('國中', 'all')">
+        <div class="level-icon">🏫</div>
+        <div class="level-text">
+          <span class="level-title">國中</span>
+          <span class="level-desc">會考準備・2000 字</span>
+        </div>
+      </button>
+      <button class="btn-weak" id="btn-weak-國中" onclick="startSession('國中', 'weak')">
+        ⚡ 弱點練習 <span class="weak-num" id="weak-count-國中">0</span> 個
+      </button>
+    </div>
+
+    <!-- 高中 -->
+    <div class="level-group">
+      <button class="btn-level" data-level="高中" onclick="startSession('高中', 'all')">
+        <div class="level-icon">🎓</div>
+        <div class="level-text">
+          <span class="level-title">高中</span>
+          <span class="level-desc">學測準備・高頻單字</span>
+        </div>
+      </button>
+      <button class="btn-weak" id="btn-weak-高中" onclick="startSession('高中', 'weak')">
+        ⚡ 弱點練習 <span class="weak-num" id="weak-count-高中">0</span> 個
+      </button>
+    </div>
   </div>
 </div>
 
 <!-- 答題畫面 -->
 <div id="screen-quiz" class="screen">
   <div class="quiz-header">
-    <button class="btn-back" onclick="goBack()">← 返回</button>
-    <div class="progress-info">
-      <span id="progress-text">1 / 20</span>
-    </div>
+    <button class="btn-back" onclick="goBack()">‹ 返回</button>
+    <span class="progress-info" id="progress-text">1 / 20</span>
   </div>
   <div class="progress-bar"><div id="progress-fill"></div></div>
+
+  <!-- 模式標籤 -->
+  <div id="mode-tag" class="mode-tag hidden"></div>
 
   <!-- 第一面：選擇題 -->
   <div id="card-front" class="card-face">
@@ -53,7 +81,7 @@
       </div>
       <div class="word-phonetic">
         <span id="back-phonetic"></span>
-        <button class="btn-speak" onclick="speak()" title="發音">🔊</button>
+        <button class="btn-speak" onclick="speak()">🔊</button>
       </div>
       <div class="word-definition" id="back-definition"></div>
       <div class="word-example">
@@ -77,10 +105,18 @@
   <div class="done-container">
     <div class="done-emoji">🎉</div>
     <h2>完成！</h2>
+    <div class="done-streak">
+      🔥 <span id="done-streak">1</span> 天連續
+      <small>繼續保持！</small>
+    </div>
     <div class="done-stats">
       <div class="stat"><span id="stat-know"></span><small>認識</small></div>
-      <div class="stat"><span id="stat-again"></span><small>還要複習</small></div>
+      <div class="stat"><span id="stat-again"></span><small>再複習</small></div>
+      <div class="stat graduated-stat" id="graduated-stat">
+        <span id="stat-graduated">0</span><small>已畢業 🎓</small>
+      </div>
     </div>
+    <p class="done-weak-info" id="done-weak-info"></p>
     <button class="btn-restart" onclick="goBack()">再練一輪</button>
   </div>
 </div>
