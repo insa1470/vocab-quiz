@@ -197,14 +197,19 @@ body {
   background: var(--bg2);
   border-radius: var(--r-xl);
   padding: 1.4rem 1.2rem;
-  font-size: 1.08rem;
-  line-height: 1.75;
-  text-align: center;
   box-shadow: var(--shadow-sm);
   min-height: 110px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.sentence-text {
+  font-size: 1.08rem;
+  line-height: 1.9;
+  text-align: center;
+  margin: 0;
+  word-break: keep-all;
 }
 
 .blank {
@@ -228,6 +233,8 @@ body {
   padding: 0.95rem 0.5rem;
   font-size: 1rem;
   font-family: inherit;
+  color: var(--label);
+  -webkit-text-fill-color: var(--label);
   cursor: pointer;
   transition: all 0.15s;
   text-align: center;

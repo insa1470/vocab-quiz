@@ -143,7 +143,7 @@ async function startSession(level, mode) {
   graduatedCount = 0;
 
   try {
-    const res = await fetch(`../data/${level}.json`);
+    const res = await fetch(`data/${level}.json`);
     if (!res.ok) throw new Error();
     words = await res.json();
   } catch {
@@ -196,7 +196,7 @@ function nextCard() {
     new RegExp(`\\b${escapeRegex(correctWord)}\\b`, "i"),
     `<span class="blank"></span>`
   );
-  document.getElementById("sentence-display").innerHTML = sentence;
+  document.getElementById("sentence-display").innerHTML = `<p class="sentence-text">${sentence}</p>`;
 
   const distractors = shuffle(words.filter(w => w.word !== correctWord)).slice(0, 3);
   const options = shuffle([current, ...distractors]);
