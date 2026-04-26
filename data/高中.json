@@ -1,0 +1,5827 @@
+[
+  {
+    "word": "enhance",
+    "phonetic": "/ɪnˈhæns/",
+    "pos": "v.",
+    "definition_zh": "提升；加強",
+    "example": "Gaps in the treetops resulting from crown shyness may allow trees to increase their exposure to light and enhance photosynthesis.",
+    "example_zh": "樹冠羞避所造成的樹冠間隙，可能讓樹木增加對光照的吸收並增強光合作用。",
+    "usage": [
+      {
+        "pattern": "enhance performance",
+        "meaning_zh": "提升表現"
+      },
+      {
+        "pattern": "enhance beauty",
+        "meaning_zh": "增添美感"
+      }
+    ],
+    "frequency_rank": 1,
+    "level": "高中"
+  },
+  {
+    "word": "effective",
+    "phonetic": "/ɪˈfɛktɪv/",
+    "pos": "adj.",
+    "definition_zh": "有效的",
+    "example": "Milk can actually be more effective than drinking water at restoring and maintaining a normal fluid status after exercise.",
+    "example_zh": "牛奶實際上比飲用水更能有效地在運動後恢復和維持正常的體液狀態。",
+    "usage": [
+      {
+        "pattern": "effective measure",
+        "meaning_zh": "有效措施"
+      },
+      {
+        "pattern": "be effective in V-ing",
+        "meaning_zh": "在...方面有效"
+      }
+    ],
+    "frequency_rank": 2,
+    "level": "高中"
+  },
+  {
+    "word": "precautions",
+    "phonetic": "/prɪˈkɔːʃənz/",
+    "pos": "n.",
+    "definition_zh": "預防措施；警惕",
+    "example": "Sullivan took precautions during lightning strikes, trying to avoid being hit.",
+    "example_zh": "沙利文在閃電擊中時採取了預防措施，試圖避免被擊中。",
+    "usage": [
+      {
+        "pattern": "take precautions",
+        "meaning_zh": "採取預防措施"
+      }
+    ],
+    "frequency_rank": 3,
+    "level": "高中"
+  },
+  {
+    "word": "discomfort",
+    "phonetic": "/dɪsˈkʌm.fət/",
+    "pos": "n.",
+    "definition_zh": "不適；不舒服",
+    "example": "If you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness.",
+    "example_zh": "如果你曾因為搖晃的船或顛簸的車程而胃部不適，你就會了解暈動病的難受。",
+    "usage": [
+      {
+        "pattern": "physical discomfort",
+        "meaning_zh": "身體不適"
+      },
+      {
+        "pattern": "ease the discomfort",
+        "meaning_zh": "緩解不適"
+      }
+    ],
+    "frequency_rank": 4,
+    "level": "高中"
+  },
+  {
+    "word": "medieval",
+    "phonetic": "/ˌmed.iˈiː.vəl/",
+    "pos": "adj.",
+    "definition_zh": "中世紀的",
+    "example": "Located at the heart of Paris, this medieval cathedral is renowned for its intricate architecture.",
+    "example_zh": "這座中世紀大教堂位於巴黎市中心，以其錯綜複雜的建築而聞名。",
+    "usage": [
+      {
+        "pattern": "medieval castle",
+        "meaning_zh": "中世紀城堡"
+      },
+      {
+        "pattern": "medieval history",
+        "meaning_zh": "中世紀歷史"
+      }
+    ],
+    "frequency_rank": 5,
+    "level": "高中"
+  },
+  {
+    "word": "typhoon",
+    "phonetic": "/taɪˈfuːn/",
+    "pos": "n.",
+    "definition_zh": "颱風",
+    "example": "Whenever a typhoon approaches Taiwan, local governments decide whether to suspend work and school the next day based on weather forecasts.",
+    "example_zh": "每逢颱風逼近臺灣,各縣市政府會依氣象預報的內容而決定隔日是否停止上班上課。",
+    "usage": [
+      {
+        "pattern": "typhoon warning",
+        "meaning_zh": "颱風警報"
+      },
+      {
+        "pattern": "hit by a typhoon",
+        "meaning_zh": "遭受颱風襲擊"
+      }
+    ],
+    "frequency_rank": 6,
+    "level": "高中"
+  },
+  {
+    "word": "consensus",
+    "phonetic": "/kənˈsɛnsəs/",
+    "pos": "n.",
+    "definition_zh": "共識",
+    "example": "Despite decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+    "example_zh": "儘管經過數十年的調查，對於導致樹冠羞避這一美麗而神秘現象的確切原因，仍未有共識。",
+    "usage": [
+      {
+        "pattern": "reach a consensus",
+        "meaning_zh": "達成共識"
+      }
+    ],
+    "frequency_rank": 7,
+    "level": "高中"
+  },
+  {
+    "word": "resembling",
+    "phonetic": "/rɪˈzem.blɪŋ/",
+    "pos": "v. (from resemble)",
+    "definition_zh": "類似；像",
+    "example": "Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director's gestures.",
+    "example_zh": "水平伸出的手臂指示駕駛員停車，而下放至45度角的手臂則告知駕駛員前進，類似交通指揮員的手勢。",
+    "usage": [
+      {
+        "pattern": "resemble a child",
+        "meaning_zh": "像個孩子"
+      },
+      {
+        "pattern": "bear a strong resemblance to",
+        "meaning_zh": "與...極其相似"
+      }
+    ],
+    "frequency_rank": 8,
+    "level": "高中"
+  },
+  {
+    "word": "nausea",
+    "phonetic": "/ˈnɔː.zi.ə/",
+    "pos": "n.",
+    "definition_zh": "噁心；反胃",
+    "example": "Soon, it can lead to dizziness, nausea, and vomiting.",
+    "example_zh": "很快，它會導致頭暈、噁心和嘔吐。",
+    "usage": [
+      {
+        "pattern": "feel nausea",
+        "meaning_zh": "感到噁心"
+      },
+      {
+        "pattern": "nausea and vomiting",
+        "meaning_zh": "噁心和嘔吐"
+      }
+    ],
+    "frequency_rank": 9,
+    "level": "高中"
+  },
+  {
+    "word": "initiative",
+    "phonetic": "/ɪˈnɪʃətɪv/",
+    "pos": "n.",
+    "definition_zh": "倡議；主動性",
+    "example": "Elephant Friendly Tea is an organization that takes the initiative to make it possible.",
+    "example_zh": "大象友善茶是一個主動使之成為可能的組織。",
+    "usage": [
+      {
+        "pattern": "take the initiative",
+        "meaning_zh": "採取主動"
+      },
+      {
+        "pattern": "a new initiative",
+        "meaning_zh": "一項新倡議"
+      }
+    ],
+    "frequency_rank": 10,
+    "level": "高中"
+  },
+  {
+    "word": "slender",
+    "phonetic": "/ˈslɛndər/",
+    "pos": "adj.",
+    "definition_zh": "纖細的；苗條的",
+    "example": "This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas.",
+    "example_zh": "這個受歡迎的海灘目的地現在以其白色沙灘、纖細的棕櫚樹和碧綠的海洋而聞名。",
+    "usage": [],
+    "frequency_rank": 11,
+    "level": "高中"
+  },
+  {
+    "word": "affordable",
+    "phonetic": "/əˈfɔː.də.bəl/",
+    "pos": "adj.",
+    "definition_zh": "負擔得起的",
+    "example": "A capsule hotel is a unique type of basic, affordable accommodation.",
+    "example_zh": "膠囊旅館是一種獨特的基本且價格實惠的住宿類型。",
+    "usage": [
+      {
+        "pattern": "affordable housing",
+        "meaning_zh": "經濟適用房"
+      },
+      {
+        "pattern": "affordable price",
+        "meaning_zh": "負擔得起的價格"
+      }
+    ],
+    "frequency_rank": 12,
+    "level": "高中"
+  },
+  {
+    "word": "stunning",
+    "phonetic": "/ˈstʌn.ɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "極美的；令人震驚的",
+    "example": "This medieval cathedral is renowned for its intricate architecture, stunning stained glass windows, and, above all, its bells.",
+    "example_zh": "這座中世紀大教堂以其錯綜複雜的建築、令人驚嘆的彩繪玻璃窗，以及最重要的是，它的鐘聲而聞名。",
+    "usage": [
+      {
+        "pattern": "stunning view",
+        "meaning_zh": "令人驚嘆的景色"
+      },
+      {
+        "pattern": "stunning performance",
+        "meaning_zh": "精彩的表演"
+      }
+    ],
+    "frequency_rank": 13,
+    "level": "高中"
+  },
+  {
+    "word": "innovation",
+    "phonetic": "/ˌɪn.əˈveɪ.ʃən/",
+    "pos": "n.",
+    "definition_zh": "創新；新方法，新事物",
+    "example": "None of them had any idea they were about to create a social innovation that spread rapidly around the world.",
+    "example_zh": "他們誰也沒想到自己即將創造出一種迅速傳遍全球的社會創新。",
+    "usage": [
+      {
+        "pattern": "technological innovation",
+        "meaning_zh": "科技創新"
+      },
+      {
+        "pattern": "embrace innovation",
+        "meaning_zh": "接受創新"
+      }
+    ],
+    "frequency_rank": 14,
+    "level": "高中"
+  },
+  {
+    "word": "naughty",
+    "phonetic": "/ˈnɔːti/",
+    "pos": "adj.",
+    "definition_zh": "淘氣的；不乖的",
+    "example": "Tom is really a naughty boy. He likes to tease his younger sister.",
+    "example_zh": "湯姆真是個淘氣的男孩。他喜歡戲弄他的妹妹。",
+    "usage": [],
+    "frequency_rank": 15,
+    "level": "高中"
+  },
+  {
+    "word": "tease",
+    "phonetic": "/tiːz/",
+    "pos": "v.",
+    "definition_zh": "戲弄；取笑",
+    "example": "He likes to tease and play jokes on his younger sister when their parents are not around.",
+    "example_zh": "當父母不在時，他喜歡戲弄妹妹和跟她開玩笑。",
+    "usage": [],
+    "frequency_rank": 16,
+    "level": "高中"
+  },
+  {
+    "word": "oppose",
+    "phonetic": "/əˈpoʊz/",
+    "pos": "v.",
+    "definition_zh": "反對；抗爭",
+    "example": "That idea led to strong protests from numerous animal rights groups who opposed the pigeon shooting.",
+    "example_zh": "那個想法引起了眾多動物權利團體的強烈抗議，他們反對射殺鴿子。",
+    "usage": [],
+    "frequency_rank": 17,
+    "level": "高中"
+  },
+  {
+    "word": "elderly",
+    "phonetic": "/ˈɛldərli/",
+    "pos": "adj.",
+    "definition_zh": "年長的；上了年紀的",
+    "example": "Elderly shoppers in this store are advised to take the elevator.",
+    "example_zh": "建議這家店裡的年長顧客搭電梯。",
+    "usage": [],
+    "frequency_rank": 18,
+    "level": "高中"
+  },
+  {
+    "word": "escalator",
+    "phonetic": "/ˈɛskəleɪtər/",
+    "pos": "n.",
+    "definition_zh": "手扶梯",
+    "example": "Elderly shoppers are advised to take the elevator rather than the escalator, which may move too fast.",
+    "example_zh": "建議年長顧客搭電梯而非手扶梯，因為手扶梯可能移動太快。",
+    "usage": [],
+    "frequency_rank": 19,
+    "level": "高中"
+  },
+  {
+    "word": "instrument",
+    "phonetic": "/ˈɪnstrəmənt/",
+    "pos": "n.",
+    "definition_zh": "儀器；工具；樂器",
+    "example": "He invented an instrument for which both Mozart and Beethoven composed music.",
+    "example_zh": "他發明了一種樂器，莫札特和貝多芬都為其作曲。",
+    "usage": [],
+    "frequency_rank": 20,
+    "level": "高中"
+  },
+  {
+    "word": "obediently",
+    "phonetic": "/əˈbiːdiəntli/",
+    "pos": "adv.",
+    "definition_zh": "服從地；順從地",
+    "example": "Upon hearing its master's call, the dog wagged its tail, and followed her out of the room obediently.",
+    "example_zh": "聽到主人的呼喚後，狗搖著尾巴，順從地跟著她走出房間。",
+    "usage": [],
+    "frequency_rank": 21,
+    "level": "高中"
+  },
+  {
+    "word": "thoroughly",
+    "phonetic": "/ˈθɜːroʊli/",
+    "pos": "adv.",
+    "definition_zh": "徹底地；完全地",
+    "example": "The staff thoroughly cleaned the hotel rooms after the guests checked out.",
+    "example_zh": "客人在退房後，員工徹底地清潔了飯店房間。",
+    "usage": [],
+    "frequency_rank": 22,
+    "level": "高中"
+  },
+  {
+    "word": "humid",
+    "phonetic": "/ˈhjuːmɪd/",
+    "pos": "adj.",
+    "definition_zh": "潮濕的",
+    "example": "Since many of our house plants are from humid jungle environments, they need moist air.",
+    "example_zh": "由於我們許多室內植物來自潮濕的叢林環境，它們需要潮濕的空氣。",
+    "usage": [],
+    "frequency_rank": 23,
+    "level": "高中"
+  },
+  {
+    "word": "fertile",
+    "phonetic": "/ˈfɜːrtl/",
+    "pos": "adj.",
+    "definition_zh": "肥沃的；豐饒的",
+    "example": "The fertile land in the valley is ideal for farming.",
+    "example_zh": "山谷中肥沃的土地非常適合耕種。",
+    "usage": [],
+    "frequency_rank": 24,
+    "level": "高中"
+  },
+  {
+    "word": "aircraft",
+    "phonetic": "/ˈɛrkræft/",
+    "pos": "n.",
+    "definition_zh": "飛行器；飛機",
+    "example": "The skydiver managed to land safely after jumping out of the aircraft.",
+    "example_zh": "跳傘員從飛機跳出後成功安全著陸。",
+    "usage": [],
+    "frequency_rank": 25,
+    "level": "高中"
+  },
+  {
+    "word": "parachute",
+    "phonetic": "/ˈpærəʃuːt/",
+    "pos": "n.",
+    "definition_zh": "降落傘",
+    "example": "The skydiver managed to land safely, even though her parachute failed to open in midair.",
+    "example_zh": "跳傘員成功安全著陸，儘管她的降落傘在半空中未能打開。",
+    "usage": [],
+    "frequency_rank": 26,
+    "level": "高中"
+  },
+  {
+    "word": "revolutionary",
+    "phonetic": "/ˌrɛvəˈluːʃəneri/",
+    "pos": "adj.",
+    "definition_zh": "革命性的；劃時代的",
+    "example": "The invention of the steam engine brought about a revolutionary change in society.",
+    "example_zh": "蒸汽機的發明為社會帶來了革命性的變化。",
+    "usage": [],
+    "frequency_rank": 27,
+    "level": "高中"
+  },
+  {
+    "word": "interaction",
+    "phonetic": "/ˌɪntərˈækʃən/",
+    "pos": "n.",
+    "definition_zh": "互動",
+    "example": "To encourage classroom interaction, the teacher divided the class into groups.",
+    "example_zh": "為了鼓勵課堂互動，老師將班級分組。",
+    "usage": [],
+    "frequency_rank": 28,
+    "level": "高中"
+  },
+  {
+    "word": "adjustment",
+    "phonetic": "/əˈdʒʌstmənt/",
+    "pos": "n.",
+    "definition_zh": "調整；適應",
+    "example": "The company made some adjustments to its operating hours.",
+    "example_zh": "公司對其營業時間做了一些調整。",
+    "usage": [],
+    "frequency_rank": 29,
+    "level": "高中"
+  },
+  {
+    "word": "tumble",
+    "phonetic": "/ˈtʌmbəl/",
+    "pos": "v.",
+    "definition_zh": "跌倒；翻滾",
+    "example": "Lisa tumbled onto the ground and injured her ankle while she was playing basketball.",
+    "example_zh": "麗莎在打籃球時跌倒在地，傷了腳踝。",
+    "usage": [],
+    "frequency_rank": 30,
+    "level": "高中"
+  },
+  {
+    "word": "award",
+    "phonetic": "/əˈwɔːrd/",
+    "pos": "v.",
+    "definition_zh": "頒發；授予",
+    "example": "The 2011 Nobel Peace Prize was awarded to three women for their efforts.",
+    "example_zh": "2011年的諾貝爾和平獎頒發給了三位女性，以表彰她們的努力。",
+    "usage": [],
+    "frequency_rank": 31,
+    "level": "高中"
+  },
+  {
+    "word": "jointly",
+    "phonetic": "/ˈdʒɔɪntli/",
+    "pos": "adv.",
+    "definition_zh": "共同地；聯合地",
+    "example": "The two companies jointly developed a new product.",
+    "example_zh": "這兩家公司共同開發了一款新產品。",
+    "usage": [],
+    "frequency_rank": 32,
+    "level": "高中"
+  },
+  {
+    "word": "flourish",
+    "phonetic": "/ˈflɜːrɪʃ/",
+    "pos": "v.",
+    "definition_zh": "繁榮；興盛",
+    "example": "The company is flourishing and making great profits under the wise leadership of the chief executive officer.",
+    "example_zh": "在執行長英明的領導下，公司蓬勃發展並獲取豐厚利潤。",
+    "usage": [],
+    "frequency_rank": 33,
+    "level": "高中"
+  },
+  {
+    "word": "absurd",
+    "phonetic": "/əbˈsɜːrd/",
+    "pos": "adj.",
+    "definition_zh": "荒謬的；不合理的",
+    "example": "It is absolutely absurd to waste your money on an expensive car when you cannot even get a driver's license.",
+    "example_zh": "當你連駕照都拿不到時，花錢買輛昂貴的車是絕對荒謬的。",
+    "usage": [],
+    "frequency_rank": 34,
+    "level": "高中"
+  },
+  {
+    "word": "cautious",
+    "phonetic": "/ˈkɔːʃəs/",
+    "pos": "adj.",
+    "definition_zh": "謹慎的；小心的",
+    "example": "The government is taking a cautious approach to economic reform.",
+    "example_zh": "政府對經濟改革採取謹慎的態度。",
+    "usage": [],
+    "frequency_rank": 35,
+    "level": "高中"
+  },
+  {
+    "word": "vigorous",
+    "phonetic": "/ˈvɪɡərəs/",
+    "pos": "adj.",
+    "definition_zh": "精力充沛的；強而有力的",
+    "example": "She maintains a vigorous exercise routine to stay healthy.",
+    "example_zh": "她保持精力充沛的運動習慣以保持健康。",
+    "usage": [],
+    "frequency_rank": 36,
+    "level": "高中"
+  },
+  {
+    "word": "obstinate",
+    "phonetic": "/ˈɑːbstɪnət/",
+    "pos": "adj.",
+    "definition_zh": "固執的；頑固的",
+    "example": "He was obstinate and refused to change his mind, despite all the evidence.",
+    "example_zh": "儘管有所有證據，他依然固執地拒絕改變主意。",
+    "usage": [],
+    "frequency_rank": 37,
+    "level": "高中"
+  },
+  {
+    "word": "complex",
+    "phonetic": "/kəmˈplɛks/",
+    "pos": "adj.",
+    "definition_zh": "複雜的；錯綜的",
+    "example": "The problem of illegal drug use is very complex and cannot be traced to merely one reason.",
+    "example_zh": "非法藥物使用的問題非常複雜，不能僅僅追溯到一個原因。",
+    "usage": [],
+    "frequency_rank": 38,
+    "level": "高中"
+  },
+  {
+    "word": "non-profit",
+    "phonetic": "/ˌnɑːnˈprɑːfɪt/",
+    "pos": "adj.",
+    "definition_zh": "非營利的",
+    "example": "The non-profit organization has committed $1 million to finance the construction of the medical center.",
+    "example_zh": "該非營利組織已承諾投入100萬美元資助醫療中心的建設。",
+    "usage": [],
+    "frequency_rank": 39,
+    "level": "高中"
+  },
+  {
+    "word": "commit",
+    "phonetic": "/kəˈmɪt/",
+    "pos": "v.",
+    "definition_zh": "承諾；致力於；犯（罪）",
+    "example": "The non-profit organization has committed $1 million over five years to finance the construction of the medical center.",
+    "example_zh": "該非營利組織已承諾在五年內投入100萬美元資助醫療中心的建設。",
+    "usage": [
+      {
+        "pattern": "commit to V-ing/N",
+        "meaning_zh": "致力於做某事/某物"
+      }
+    ],
+    "frequency_rank": 40,
+    "level": "高中"
+  },
+  {
+    "word": "resume",
+    "phonetic": "/rɪˈzuːm/",
+    "pos": "v.",
+    "definition_zh": "恢復；重新開始",
+    "example": "One week after the typhoon, some bridges were finally opened and bus service resumed.",
+    "example_zh": "颱風過後一週，一些橋樑終於重新開放，公車服務也恢復了。",
+    "usage": [],
+    "frequency_rank": 41,
+    "level": "高中"
+  },
+  {
+    "word": "threat",
+    "phonetic": "/θrɛt/",
+    "pos": "n.",
+    "definition_zh": "威脅；恐嚇",
+    "example": "Rising temperatures are posing an immediate threat to the last tropical glaciers in Indonesia's Papua region.",
+    "example_zh": "氣溫上升正對印尼巴布亞地區最後的熱帶冰川構成即時威脅。",
+    "usage": [
+      {
+        "pattern": "pose a threat to",
+        "meaning_zh": "對...構成威脅"
+      }
+    ],
+    "frequency_rank": 42,
+    "level": "高中"
+  },
+  {
+    "word": "monument",
+    "phonetic": "/ˈmɑːnjumənt/",
+    "pos": "n.",
+    "definition_zh": "紀念碑；歷史遺跡",
+    "example": "The birds are now threatening to break down the city's historic center, pooping on monuments, buildings, and even tourists.",
+    "example_zh": "這些鳥現在威脅著破壞城市的歷史中心，牠們在紀念碑、建築物甚至是遊客身上排便。",
+    "usage": [],
+    "frequency_rank": 43,
+    "level": "高中"
+  },
+  {
+    "word": "protest",
+    "phonetic": "/ˈproʊtɛst/",
+    "pos": "n.",
+    "definition_zh": "抗議；反對",
+    "example": "The idea of shooting pigeons led to strong protests from numerous animal rights groups.",
+    "example_zh": "射殺鴿子的想法引起了眾多動物權利團體的強烈抗議。",
+    "usage": [],
+    "frequency_rank": 44,
+    "level": "高中"
+  },
+  {
+    "word": "persuade",
+    "phonetic": "/pərˈsweɪd/",
+    "pos": "v.",
+    "definition_zh": "說服；勸說",
+    "example": "The government was finally persuaded to consider another effective method.",
+    "example_zh": "政府最終被說服考慮另一種有效的方法。",
+    "usage": [],
+    "frequency_rank": 45,
+    "level": "高中"
+  },
+  {
+    "word": "decrease",
+    "phonetic": "/dɪˈkriːs/",
+    "pos": "n.",
+    "definition_zh": "減少；降低",
+    "example": "It was predicted that there would be a decrease of 20 percent in the pigeon population.",
+    "example_zh": "預計鴿子數量將減少20%。",
+    "usage": [
+      {
+        "pattern": "a decrease in/of",
+        "meaning_zh": "在...方面的減少"
+      }
+    ],
+    "frequency_rank": 46,
+    "level": "高中"
+  },
+  {
+    "word": "glacier",
+    "phonetic": "/ˈɡleɪʃər/",
+    "pos": "n.",
+    "definition_zh": "冰川",
+    "example": "Glaciers are usually associated with colder climates, but some mountain ranges of South America also have glaciers.",
+    "example_zh": "冰川通常與寒冷氣候相關，但南美洲的一些山脈也有冰川。",
+    "usage": [],
+    "frequency_rank": 47,
+    "level": "高中"
+  },
+  {
+    "word": "reveal",
+    "phonetic": "/rɪˈviːl/",
+    "pos": "v.",
+    "definition_zh": "揭示；透露；顯示",
+    "example": "A newly published study revealed that rising temperatures are posing an immediate threat to the last tropical glaciers.",
+    "example_zh": "一項新發表的研究揭示，氣溫上升正對最後的熱帶冰川構成即時威脅。",
+    "usage": [],
+    "frequency_rank": 48,
+    "level": "高中"
+  },
+  {
+    "word": "impact",
+    "phonetic": "/ˈɪmpækt/",
+    "pos": "n.",
+    "definition_zh": "影響；衝擊",
+    "example": "The disappearance of the glaciers will also leave a significant impact.",
+    "example_zh": "冰川的消失也將帶來重大的影響。",
+    "usage": [
+      {
+        "pattern": "have an impact on",
+        "meaning_zh": "對...產生影響"
+      }
+    ],
+    "frequency_rank": 49,
+    "level": "高中"
+  },
+  {
+    "word": "indigenous",
+    "phonetic": "/ɪnˈdɪdʒənəs/",
+    "pos": "adj.",
+    "definition_zh": "原住民的；本土的",
+    "example": "For many indigenous Papuans, the ice sheets represent a sacred symbol.",
+    "example_zh": "對許多巴布亞原住民來說，冰蓋代表著神聖的象徵。",
+    "usage": [],
+    "frequency_rank": 50,
+    "level": "高中"
+  },
+  {
+    "word": "sacred",
+    "phonetic": "/ˈseɪkrɪd/",
+    "pos": "adj.",
+    "definition_zh": "神聖的；受尊崇的",
+    "example": "For many indigenous Papuans, the ice sheets represent a sacred symbol.",
+    "example_zh": "對許多巴布亞原住民來說，冰蓋代表著神聖的象徵。",
+    "usage": [],
+    "frequency_rank": 51,
+    "level": "高中"
+  },
+  {
+    "word": "depression",
+    "phonetic": "/dɪˈprɛʃən/",
+    "pos": "n.",
+    "definition_zh": "憂鬱症；沮喪",
+    "example": "Modest amounts of exercise can help ease depression and relieve stress.",
+    "example_zh": "適量的運動有助於緩解憂鬱和減輕壓力。",
+    "usage": [],
+    "frequency_rank": 52,
+    "level": "高中"
+  },
+  {
+    "word": "laborious",
+    "phonetic": "/ləˈbɔːriəs/",
+    "pos": "adj.",
+    "definition_zh": "費力的；艱辛的",
+    "example": "Exercise doesn't always have to be laborious; even just 15 minutes a day helps.",
+    "example_zh": "運動不一定要費力；即使每天只運動15分鐘也有幫助。",
+    "usage": [],
+    "frequency_rank": 53,
+    "level": "高中"
+  },
+  {
+    "word": "relieve",
+    "phonetic": "/rɪˈliːv/",
+    "pos": "v.",
+    "definition_zh": "減輕；緩解",
+    "example": "Modest amounts of exercise can help relieve stress and much more.",
+    "example_zh": "適量的運動有助於減輕壓力和更多。",
+    "usage": [
+      {
+        "pattern": "relieve stress/pain",
+        "meaning_zh": "減輕壓力/疼痛"
+      }
+    ],
+    "frequency_rank": 54,
+    "level": "高中"
+  },
+  {
+    "word": "motto",
+    "phonetic": "/ˈmɑːtoʊ/",
+    "pos": "n.",
+    "definition_zh": "座右銘；格言",
+    "example": "What you need to do is to make 'start slow and have fun' a motto to abide by.",
+    "example_zh": "你需要做的是把「慢慢開始並享受樂趣」作為座右銘來遵守。",
+    "usage": [],
+    "frequency_rank": 55,
+    "level": "高中"
+  },
+  {
+    "word": "utilize",
+    "phonetic": "/ˈjuːtəlaɪz/",
+    "pos": "v.",
+    "definition_zh": "利用；使用",
+    "example": "The vendors are enthusiastic about this new way to utilize the tons of cactus husks that once went directly into the trash.",
+    "example_zh": "小販們對這種利用大量仙人掌外皮的新方法感到很熱衷，這些外皮過去直接被當作垃圾丟棄。",
+    "usage": [],
+    "frequency_rank": 56,
+    "level": "高中"
+  },
+  {
+    "word": "advantage",
+    "phonetic": "/ədˈvæntɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "優勢；好處",
+    "example": "The prickly pear has a number of advantages over other biofuel crops.",
+    "example_zh": "仙人掌比其他生物燃料作物有許多優勢。",
+    "usage": [
+      {
+        "pattern": "have an advantage over",
+        "meaning_zh": "比...有優勢"
+      }
+    ],
+    "frequency_rank": 57,
+    "level": "高中"
+  },
+  {
+    "word": "agriculture",
+    "phonetic": "/ˈæɡrɪˌkʌltʃər/",
+    "pos": "n.",
+    "definition_zh": "農業",
+    "example": "The cactus requires minimum water and thus is not grown on traditional agricultural pasture.",
+    "example_zh": "仙人掌需要最少的水，因此不用在傳統農業牧場上種植。",
+    "usage": [
+      {
+        "pattern": "agricultural pasture",
+        "meaning_zh": "農業牧場"
+      }
+    ],
+    "frequency_rank": 58,
+    "level": "高中"
+  },
+  {
+    "word": "fossil fuel",
+    "phonetic": "/ˈfɑːsəl ˌfjuːəl/",
+    "pos": "n.",
+    "definition_zh": "化石燃料",
+    "example": "The project in Mexico City has brought new hope to reducing the use of fossil fuels.",
+    "example_zh": "墨西哥城的這項計畫為減少化石燃料的使用帶來了新希望。",
+    "usage": [],
+    "frequency_rank": 59,
+    "level": "高中"
+  },
+  {
+    "word": "concept",
+    "phonetic": "/ˈkɑːnsɛpt/",
+    "pos": "n.",
+    "definition_zh": "概念；想法",
+    "example": "The concept of a travel document has probably existed since rulers and states were first invented.",
+    "example_zh": "旅行證件的概念可能自統治者和國家首次出現以來就存在了。",
+    "usage": [],
+    "frequency_rank": 60,
+    "level": "高中"
+  },
+  {
+    "word": "authority",
+    "phonetic": "/əˈθɔːrəti/",
+    "pos": "n.",
+    "definition_zh": "當局；權力；權威",
+    "example": "In medieval Europe, travel documents were issued by local authorities.",
+    "example_zh": "在中世紀的歐洲，旅行證件是由地方當局發行的。",
+    "usage": [
+      {
+        "pattern": "local authorities",
+        "meaning_zh": "地方當局"
+      }
+    ],
+    "frequency_rank": 61,
+    "level": "高中"
+  },
+  {
+    "word": "credited",
+    "phonetic": "/ˈkrɛdɪtɪd/",
+    "pos": "adj.",
+    "definition_zh": "歸功於；被認為有（成就）",
+    "example": "King Henry V of England is credited with having invented the first true passport.",
+    "example_zh": "英格蘭國王亨利五世被認為發明了第一本真正的護照。",
+    "usage": [
+      {
+        "pattern": "be credited with",
+        "meaning_zh": "某事歸功於某人；某人被認為有..."
+      }
+    ],
+    "frequency_rank": 62,
+    "level": "高中"
+  },
+  {
+    "word": "parliament",
+    "phonetic": "/ˈpɑːrləmənt/",
+    "pos": "n.",
+    "definition_zh": "議會；國會",
+    "example": "The earliest reference to these documents is found in a 15th-century Act of Parliament.",
+    "example_zh": "這些文件的最早記載出現在15世紀的一項議會法案中。",
+    "usage": [],
+    "frequency_rank": 63,
+    "level": "高中"
+  },
+  {
+    "word": "accomplished",
+    "phonetic": "/əˈkɑːmplɪʃt/",
+    "pos": "adj.",
+    "definition_zh": "有成就的；技藝高超的",
+    "example": "Benjamin Franklin was not only a great politician but also a highly accomplished scientist and inventor.",
+    "example_zh": "班傑明·富蘭克林不僅是位偉大的政治家，也是一位成就斐然的科學家和發明家。",
+    "usage": [],
+    "frequency_rank": 64,
+    "level": "高中"
+  },
+  {
+    "word": "hemisphere",
+    "phonetic": "/ˈhɛmɪsfɪr/",
+    "pos": "n.",
+    "definition_zh": "半球體",
+    "example": "He had a glassmaker create thirty-seven hemispheres made of glass to produce different pitches.",
+    "example_zh": "他請一位玻璃製造商製作了三十七個玻璃半球體，以產生不同的音高。",
+    "usage": [],
+    "frequency_rank": 65,
+    "level": "高中"
+  },
+  {
+    "word": "master",
+    "phonetic": "/ˈmæstər/",
+    "pos": "v.",
+    "definition_zh": "精通；掌握",
+    "example": "He mastered the instrument and took it to parties and gatherings to play for his friends.",
+    "example_zh": "他精通這樂器，並將它帶到派對和聚會上為朋友演奏。",
+    "usage": [],
+    "frequency_rank": 66,
+    "level": "高中"
+  },
+  {
+    "word": "abandon",
+    "phonetic": "/əˈbændən/",
+    "pos": "v.",
+    "definition_zh": "放棄；遺棄",
+    "example": "Franklin's marvelous invention was ultimately abandoned as musical fashions changed.",
+    "example_zh": "隨著音樂潮流的改變，富蘭克林那奇妙的發明最終被放棄了。",
+    "usage": [],
+    "frequency_rank": 67,
+    "level": "高中"
+  },
+  {
+    "word": "accessible",
+    "phonetic": "/əkˈsɛsəbəl/",
+    "pos": "adj.",
+    "definition_zh": "可進入的；可使用的；無障礙的",
+    "example": "Completely wheelchair-accessible, the park features 25 acres of attractions.",
+    "example_zh": "該公園完全輪椅無障礙，佔地25英畝，設有多種遊樂設施。",
+    "usage": [
+      {
+        "pattern": "wheelchair-accessible",
+        "meaning_zh": "輪椅無障礙的"
+      }
+    ],
+    "frequency_rank": 68,
+    "level": "高中"
+  },
+  {
+    "word": "cognitive",
+    "phonetic": "/ˈkɑːɡnətɪv/",
+    "pos": "adj.",
+    "definition_zh": "認知的",
+    "example": "Morgan suffers from severe cognitive delay and physical challenges.",
+    "example_zh": "摩根患有嚴重的認知遲緩及身體上的挑戰。",
+    "usage": [
+      {
+        "pattern": "cognitive delay",
+        "meaning_zh": "認知遲緩"
+      }
+    ],
+    "frequency_rank": 69,
+    "level": "高中"
+  },
+  {
+    "word": "admission",
+    "phonetic": "/ədˈmɪʃən/",
+    "pos": "n.",
+    "definition_zh": "入場費；進入許可",
+    "example": "Admission for guests with special needs is free, and fees for the general public are set at a discounted price.",
+    "example_zh": "特殊需求客人的入場免費，一般大眾的費用則設定在折扣價。",
+    "usage": [],
+    "frequency_rank": 70,
+    "level": "高中"
+  },
+  {
+    "word": "attraction",
+    "phonetic": "/əˈtrækʃən/",
+    "pos": "n.",
+    "definition_zh": "景點；吸引力",
+    "example": "The park features 25 acres of attractions including rides, playgrounds, and picnic areas.",
+    "example_zh": "該公園佔地25英畝，設有遊樂設施、遊樂場和野餐區等景點。",
+    "usage": [],
+    "frequency_rank": 71,
+    "level": "高中"
+  },
+  {
+    "word": "accommodate",
+    "phonetic": "/əˈkɑːmədeɪt/",
+    "pos": "v.",
+    "definition_zh": "容納；提供住宿",
+    "example": "The rides are custom-designed to accommodate wheelchair riders so that every family member can enjoy the fun.",
+    "example_zh": "遊樂設施是客製化設計的，可容納輪椅使用者，讓每個家庭成員都能享受樂趣。",
+    "usage": [],
+    "frequency_rank": 72,
+    "level": "高中"
+  },
+  {
+    "word": "enable",
+    "phonetic": "/ɪˈneɪbəl/",
+    "pos": "v.",
+    "definition_zh": "使能夠；使可行",
+    "example": "The GPS band enables them to take part in electronic activities.",
+    "example_zh": "GPS手環使他們能夠參與電子活動。",
+    "usage": [],
+    "frequency_rank": 73,
+    "level": "高中"
+  },
+  {
+    "word": "expansion",
+    "phonetic": "/ɪkˈspænʃən/",
+    "pos": "n.",
+    "definition_zh": "擴建；擴張",
+    "example": "Morgan's Wonderland celebrated the opening of Morgan's Inspiration Island, a new expansion composed of five themed splash pads.",
+    "example_zh": "摩根奇樂園慶祝了摩根靈感島的開幕，這是一項包含五個主題水花墊的新擴建。",
+    "usage": [],
+    "frequency_rank": 74,
+    "level": "高中"
+  },
+  {
+    "word": "waterproof",
+    "phonetic": "/ˈwɑːtərˌpruːf/",
+    "pos": "adj.",
+    "definition_zh": "防水的",
+    "example": "Wheelchair guests can transfer out of their chairs into unique, waterproof chairs and enjoy the splash park.",
+    "example_zh": "輪椅客人可以從他們的椅子轉移到獨特的防水椅子上，並享受水上樂園。",
+    "usage": [],
+    "frequency_rank": 75,
+    "level": "高中"
+  },
+  {
+    "word": "ensure",
+    "phonetic": "/ɪnˈʃʊr/",
+    "pos": "v.",
+    "definition_zh": "確保；保證",
+    "example": "Traffic regulations must be strictly enforced to ensure the safety of all road users.",
+    "example_zh": "交通法規必須嚴格執行，以確保所有用路人的安全。",
+    "usage": [],
+    "frequency_rank": 76,
+    "level": "高中"
+  },
+  {
+    "word": "trample",
+    "phonetic": "/ˈtræmpəl/",
+    "pos": "v.",
+    "definition_zh": "踐踏；踩踏",
+    "example": "Welcome to enjoy the flowers and take photos, but please do not enter and trample.",
+    "example_zh": "歡迎賞花拍照，但請勿進入踐踏。",
+    "usage": [],
+    "frequency_rank": 77,
+    "level": "高中"
+  },
+  {
+    "word": "cooperation",
+    "phonetic": "/koʊˌɑːpəˈreɪʃən/",
+    "pos": "n.",
+    "definition_zh": "合作；配合",
+    "example": "Thank you for your cooperation!",
+    "example_zh": "謝謝合作！",
+    "usage": [],
+    "frequency_rank": 78,
+    "level": "高中"
+  },
+  {
+    "word": "recognize",
+    "phonetic": "/ˈrɛkəɡnaɪz/",
+    "pos": "v.",
+    "definition_zh": "辨識；認出；承認",
+    "example": "If the machine scanning cannot recognize the answers, it may affect your score.",
+    "example_zh": "如果機器掃描無法辨識答案，可能會影響你的成績。",
+    "usage": [],
+    "frequency_rank": 79,
+    "level": "高中"
+  },
+  {
+    "word": "influence",
+    "phonetic": "/ˈɪnfluəns/",
+    "pos": "v.",
+    "definition_zh": "影響",
+    "example": "Failure to follow the rules may influence your grades and rights.",
+    "example_zh": "未依規定可能影響你的成績並損及權益。",
+    "usage": [
+      {
+        "pattern": "influence on N",
+        "meaning_zh": "對...的影響"
+      }
+    ],
+    "frequency_rank": 80,
+    "level": "高中"
+  },
+  {
+    "word": "damage",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "損害；損失",
+    "example": "Failure to follow the rules may result in damage to your rights and interests.",
+    "example_zh": "未依規定可能導致你的權益受損。",
+    "usage": [
+      {
+        "pattern": "damage to N",
+        "meaning_zh": "對...的損害"
+      }
+    ],
+    "frequency_rank": 81,
+    "level": "高中"
+  },
+  {
+    "word": "sticky",
+    "phonetic": "/ˈstɪki/",
+    "pos": "adj.",
+    "definition_zh": "黏的；濕熱的",
+    "example": "The bus driver often complains about chewing gum found under passenger seats because it is very hard to remove and sticky.",
+    "example_zh": "公車司機常抱怨在乘客座位下發現口香糖，因為它很難清除又黏。",
+    "usage": [],
+    "frequency_rank": 82,
+    "level": "高中"
+  },
+  {
+    "word": "elegant",
+    "phonetic": "/ˈɛlɪɡənt/",
+    "pos": "adj.",
+    "definition_zh": "優雅的；雅緻的",
+    "example": "Jesse is a talented model. He can easily adopt an elegant pose for a camera shoot.",
+    "example_zh": "Jesse 是一位有才華的模特兒。他可以輕易地擺出優雅的姿勢進行拍攝。",
+    "usage": [
+      {
+        "pattern": "elegant dress",
+        "meaning_zh": "優雅的洋裝"
+      },
+      {
+        "pattern": "elegant design",
+        "meaning_zh": "精美的設計"
+      }
+    ],
+    "frequency_rank": 83,
+    "level": "高中"
+  },
+  {
+    "word": "pose",
+    "phonetic": "/poʊz/",
+    "pos": "n. / v.",
+    "definition_zh": "姿勢；擺姿勢",
+    "example": "Jesse can easily adopt an elegant pose for a camera shoot.",
+    "example_zh": "Jesse 可以輕易地擺出優雅的姿勢進行拍攝。",
+    "usage": [
+      {
+        "pattern": "strike a pose",
+        "meaning_zh": "擺姿勢"
+      },
+      {
+        "pattern": "pose a threat",
+        "meaning_zh": "構成威脅"
+      }
+    ],
+    "frequency_rank": 84,
+    "level": "高中"
+  },
+  {
+    "word": "trace",
+    "phonetic": "/treɪs/",
+    "pos": "v.",
+    "definition_zh": "追溯；追蹤；查出",
+    "example": "In order to draw her family tree, Mary tried to trace her ancestors back to their arrival in North America.",
+    "example_zh": "為了繪製族譜，Mary 試圖追溯她的祖先們抵達北美洲的歷史。",
+    "usage": [
+      {
+        "pattern": "trace back to",
+        "meaning_zh": "追溯到"
+      },
+      {
+        "pattern": "trace the origin",
+        "meaning_zh": "追溯起源"
+      }
+    ],
+    "frequency_rank": 85,
+    "level": "高中"
+  },
+  {
+    "word": "siblings",
+    "phonetic": "/ˈsɪblɪŋz/",
+    "pos": "n.",
+    "definition_zh": "兄弟姊妹",
+    "example": "She has two siblings, an older brother and a younger sister.",
+    "example_zh": "她有兩個兄弟姊妹，一個哥哥和一個妹妹。",
+    "usage": [],
+    "frequency_rank": 86,
+    "level": "高中"
+  },
+  {
+    "word": "commuters",
+    "phonetic": "/kəˈmjuːtərz/",
+    "pos": "n.",
+    "definition_zh": "通勤者",
+    "example": "Many commuters rely on public transportation to get to work.",
+    "example_zh": "許多通勤者依賴大眾運輸工具上班。",
+    "usage": [],
+    "frequency_rank": 87,
+    "level": "高中"
+  },
+  {
+    "word": "ancestors",
+    "phonetic": "/ˈænsɛstərz/",
+    "pos": "n.",
+    "definition_zh": "祖先",
+    "example": "Mary tried to trace her ancestors back to their arrival in North America.",
+    "example_zh": "Mary 試圖追溯她的祖先們抵達北美洲的歷史。",
+    "usage": [],
+    "frequency_rank": 88,
+    "level": "高中"
+  },
+  {
+    "word": "warning",
+    "phonetic": "/ˈwɔːrnɪŋ/",
+    "pos": "n.",
+    "definition_zh": "警告；警報",
+    "example": "Upon the super typhoon warning, Nancy rushed to the supermarket.",
+    "example_zh": "接到超級颱風警報後，Nancy 趕到超市。",
+    "usage": [
+      {
+        "pattern": "typhoon warning",
+        "meaning_zh": "颱風警報"
+      },
+      {
+        "pattern": "issue a warning",
+        "meaning_zh": "發出警告"
+      }
+    ],
+    "frequency_rank": 89,
+    "level": "高中"
+  },
+  {
+    "word": "bare",
+    "phonetic": "/bɛr/",
+    "pos": "adj.",
+    "definition_zh": "空的；光禿禿的",
+    "example": "Nancy rushed to the supermarket—only to find the shelves almost bare and the stock nearly gone.",
+    "example_zh": "Nancy 趕到超市—卻發現貨架幾乎空了，庫存也快沒了。",
+    "usage": [
+      {
+        "pattern": "bare feet",
+        "meaning_zh": "赤腳"
+      },
+      {
+        "pattern": "bare minimum",
+        "meaning_zh": "最低限度"
+      }
+    ],
+    "frequency_rank": 90,
+    "level": "高中"
+  },
+  {
+    "word": "sincerity",
+    "phonetic": "/sɪnˈsɛrəti/",
+    "pos": "n.",
+    "definition_zh": "真誠；誠摯",
+    "example": "Even though Jack said 'Sorry!' to me in person, I did not feel any sincerity in his apology.",
+    "example_zh": "儘管 Jack 當面跟我說「對不起！」，我卻感受不到他道歉的真誠。",
+    "usage": [],
+    "frequency_rank": 91,
+    "level": "高中"
+  },
+  {
+    "word": "liability",
+    "phonetic": "/ˌlaɪəˈbɪlɪti/",
+    "pos": "n.",
+    "definition_zh": "責任；負債",
+    "example": "The company accepted full liability for the accident.",
+    "example_zh": "該公司對這起事故承擔全部責任。",
+    "usage": [
+      {
+        "pattern": "take on liability",
+        "meaning_zh": "承擔責任"
+      }
+    ],
+    "frequency_rank": 92,
+    "level": "高中"
+  },
+  {
+    "word": "generosity",
+    "phonetic": "/ˌdʒɛnəˈrɒsəti/",
+    "pos": "n.",
+    "definition_zh": "慷慨",
+    "example": "His generosity towards charity is well-known.",
+    "example_zh": "他對慈善事業的慷慨是眾所皆知的。",
+    "usage": [],
+    "frequency_rank": 93,
+    "level": "高中"
+  },
+  {
+    "word": "integrity",
+    "phonetic": "/ɪnˈtɛɡrəti/",
+    "pos": "n.",
+    "definition_zh": "正直；廉正；完整",
+    "example": "The judge is known for his integrity and fairness.",
+    "example_zh": "這位法官以其正直和公正而聞名。",
+    "usage": [
+      {
+        "pattern": "maintain integrity",
+        "meaning_zh": "保持正直"
+      }
+    ],
+    "frequency_rank": 94,
+    "level": "高中"
+  },
+  {
+    "word": "astonishing",
+    "phonetic": "/əˈstɒnɪʃɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "令人驚訝的；驚人的",
+    "example": "My grandfather has astonishing powers of recall as a child.",
+    "example_zh": "我的祖父從小就擁有驚人的記憶力。",
+    "usage": [],
+    "frequency_rank": 95,
+    "level": "高中"
+  },
+  {
+    "word": "recall",
+    "phonetic": "/rɪˈkɔːl/",
+    "pos": "n. / v.",
+    "definition_zh": "回憶；召回",
+    "example": "My grandfather has astonishing powers of recall as a child.",
+    "example_zh": "我的祖父從小就擁有驚人的記憶力。",
+    "usage": [
+      {
+        "pattern": "recall a memory",
+        "meaning_zh": "回憶起記憶"
+      },
+      {
+        "pattern": "product recall",
+        "meaning_zh": "產品召回"
+      }
+    ],
+    "frequency_rank": 96,
+    "level": "高中"
+  },
+  {
+    "word": "evidence",
+    "phonetic": "/ˈɛvɪdəns/",
+    "pos": "n.",
+    "definition_zh": "證據",
+    "example": "Recent research has found lots of evidence to expose the drug company's claims about its “miracle” tablets for curing cancer.",
+    "example_zh": "最近的研究發現大量證據，揭露了該藥廠聲稱其「奇蹟」藥片能治癒癌症的說法。",
+    "usage": [
+      {
+        "pattern": "provide evidence",
+        "meaning_zh": "提供證據"
+      },
+      {
+        "pattern": "lack of evidence",
+        "meaning_zh": "缺乏證據"
+      }
+    ],
+    "frequency_rank": 97,
+    "level": "高中"
+  },
+  {
+    "word": "expose",
+    "phonetic": "/ɪkˈspoʊz/",
+    "pos": "v.",
+    "definition_zh": "揭露；使暴露",
+    "example": "Recent research has found lots of evidence to expose the drug company's claims.",
+    "example_zh": "最近的研究發現大量證據，揭露了該藥廠的聲稱。",
+    "usage": [
+      {
+        "pattern": "expose a secret",
+        "meaning_zh": "揭露秘密"
+      },
+      {
+        "pattern": "expose to danger",
+        "meaning_zh": "使暴露於危險"
+      }
+    ],
+    "frequency_rank": 98,
+    "level": "高中"
+  },
+  {
+    "word": "corrupt",
+    "phonetic": "/kəˈrʌpt/",
+    "pos": "adj.",
+    "definition_zh": "腐敗的；貪污的",
+    "example": "Corrupt officials and misguided policies have crippled the country's economy.",
+    "example_zh": "腐敗的官員和錯誤的政策嚴重損害了這個國家的經濟。",
+    "usage": [],
+    "frequency_rank": 99,
+    "level": "高中"
+  },
+  {
+    "word": "misguided",
+    "phonetic": "/ˌmɪsˈɡaɪdɪd/",
+    "pos": "adj.",
+    "definition_zh": "誤導的；錯誤的",
+    "example": "Corrupt officials and misguided policies have crippled the country's economy.",
+    "example_zh": "腐敗的官員和錯誤的政策嚴重損害了這個國家的經濟。",
+    "usage": [
+      {
+        "pattern": "misguided attempt",
+        "meaning_zh": "錯誤的嘗試"
+      }
+    ],
+    "frequency_rank": 100,
+    "level": "高中"
+  },
+  {
+    "word": "crippled",
+    "phonetic": "/ˈkrɪpəld/",
+    "pos": "v.",
+    "definition_zh": "使癱瘓；嚴重損害",
+    "example": "Corrupt officials and misguided policies have crippled the country's economy and burdened its people with enormous foreign debts.",
+    "example_zh": "腐敗的官員和錯誤的政策嚴重損害了這個國家的經濟，並使其人民背負巨額外債。",
+    "usage": [],
+    "frequency_rank": 101,
+    "level": "高中"
+  },
+  {
+    "word": "choked",
+    "phonetic": "/tʃoʊkt/",
+    "pos": "v.",
+    "definition_zh": "阻塞；使窒息",
+    "example": "As a record number of fans showed up for the baseball final, the highways around the stadium were choked with traffic all day.",
+    "example_zh": "由於創紀錄的球迷湧入棒球決賽，體育場周圍的高速公路全天交通堵塞。",
+    "usage": [
+      {
+        "pattern": "be choked with",
+        "meaning_zh": "被...阻塞"
+      }
+    ],
+    "frequency_rank": 102,
+    "level": "高中"
+  },
+  {
+    "word": "unbiased",
+    "phonetic": "/ʌnˈbaɪəst/",
+    "pos": "adj.",
+    "definition_zh": "公正的；無偏見的",
+    "example": "Studies show that the supposedly unbiased media are in fact often influenced by political ideology.",
+    "example_zh": "研究顯示，那些據稱公正的媒體事實上經常受到政治意識形態的影響。",
+    "usage": [],
+    "frequency_rank": 103,
+    "level": "高中"
+  },
+  {
+    "word": "supposedly",
+    "phonetic": "/səˈpoʊzɪdli/",
+    "pos": "adv.",
+    "definition_zh": "據稱；據說",
+    "example": "Studies show that the supposedly unbiased media are in fact often influenced by political ideology.",
+    "example_zh": "研究顯示，那些據稱公正的媒體事實上經常受到政治意識形態的影響。",
+    "usage": [],
+    "frequency_rank": 104,
+    "level": "高中"
+  },
+  {
+    "word": "network",
+    "phonetic": "/ˈnɛtwɜːrk/",
+    "pos": "n.",
+    "definition_zh": "網絡；網狀物",
+    "example": "In certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches.",
+    "example_zh": "在某些森林中，抬頭仰望會看到樹枝最外緣之間形成的裂縫網。",
+    "usage": [
+      {
+        "pattern": "social network",
+        "meaning_zh": "社交網絡"
+      },
+      {
+        "pattern": "a network of roads",
+        "meaning_zh": "道路網"
+      }
+    ],
+    "frequency_rank": 105,
+    "level": "高中"
+  },
+  {
+    "word": "cracks",
+    "phonetic": "/kræks/",
+    "pos": "n.",
+    "definition_zh": "裂縫；裂痕",
+    "example": "When you look up, you will see a network of cracks formed by gaps between tree branches.",
+    "example_zh": "當你抬頭看時，你會看到樹枝之間因空隙形成的裂縫網。",
+    "usage": [
+      {
+        "pattern": "crack in the wall",
+        "meaning_zh": "牆壁上的裂縫"
+      }
+    ],
+    "frequency_rank": 106,
+    "level": "高中"
+  },
+  {
+    "word": "gaps",
+    "phonetic": "/ɡæps/",
+    "pos": "n.",
+    "definition_zh": "間隙；空隙",
+    "example": "A network of cracks formed by gaps between the outermost edges of tree branches.",
+    "example_zh": "樹枝最外緣之間因空隙而形成的裂縫網。",
+    "usage": [
+      {
+        "pattern": "fill the gap",
+        "meaning_zh": "填補空缺"
+      },
+      {
+        "pattern": "generation gap",
+        "meaning_zh": "代溝"
+      }
+    ],
+    "frequency_rank": 107,
+    "level": "高中"
+  },
+  {
+    "word": "outermost",
+    "phonetic": "/ˈaʊtərmoʊst/",
+    "pos": "adj.",
+    "definition_zh": "最外層的",
+    "example": "The network of cracks is formed by gaps between the outermost edges of tree branches.",
+    "example_zh": "裂縫網是由樹枝最外緣之間的間隙形成。",
+    "usage": [],
+    "frequency_rank": 108,
+    "level": "高中"
+  },
+  {
+    "word": "edges",
+    "phonetic": "/ˈɛdʒɪz/",
+    "pos": "n.",
+    "definition_zh": "邊緣",
+    "example": "Gaps are formed between the outermost edges of tree branches.",
+    "example_zh": "空隙在樹枝最外緣之間形成。",
+    "usage": [
+      {
+        "pattern": "on the edge of",
+        "meaning_zh": "在...的邊緣"
+      }
+    ],
+    "frequency_rank": 109,
+    "level": "高中"
+  },
+  {
+    "word": "precisely",
+    "phonetic": "/prɪˈsaɪsli/",
+    "pos": "adv.",
+    "definition_zh": "精確地；恰好地",
+    "example": "It looks like a precisely engineered jigsaw puzzle.",
+    "example_zh": "它看起來像一個精確設計的拼圖。",
+    "usage": [],
+    "frequency_rank": 110,
+    "level": "高中"
+  },
+  {
+    "word": "engineered",
+    "phonetic": "/ˌɛndʒɪˈnɪrd/",
+    "pos": "adj.",
+    "definition_zh": "精心設計的；人為的",
+    "example": "It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly.",
+    "example_zh": "它看起來像一個精心設計的拼圖，每根樹枝都長得恰到好處。",
+    "usage": [
+      {
+        "pattern": "engineered wood",
+        "meaning_zh": "人造木材"
+      }
+    ],
+    "frequency_rank": 111,
+    "level": "高中"
+  },
+  {
+    "word": "phenomenon",
+    "phonetic": "/fəˈnɒmɪnən/",
+    "pos": "n.",
+    "definition_zh": "現象",
+    "example": "This beautiful phenomenon is called crown shyness.",
+    "example_zh": "這種美麗的現象被稱為「樹冠羞避」。",
+    "usage": [
+      {
+        "pattern": "natural phenomenon",
+        "meaning_zh": "自然現象"
+      }
+    ],
+    "frequency_rank": 112,
+    "level": "高中"
+  },
+  {
+    "word": "collide",
+    "phonetic": "/kəˈlaɪd/",
+    "pos": "v.",
+    "definition_zh": "碰撞；衝突",
+    "example": "As trees often grow close together, treetops can easily collide and break when swayed by the wind.",
+    "example_zh": "由於樹木經常緊密生長，樹冠在風中搖擺時很容易碰撞並折斷。",
+    "usage": [
+      {
+        "pattern": "collide with",
+        "meaning_zh": "與...碰撞"
+      }
+    ],
+    "frequency_rank": 113,
+    "level": "高中"
+  },
+  {
+    "word": "swayed",
+    "phonetic": "/sweɪd/",
+    "pos": "v.",
+    "definition_zh": "搖擺；動搖",
+    "example": "Treetops can easily collide and break when swayed by the wind.",
+    "example_zh": "樹冠在風中搖擺時很容易碰撞並折斷。",
+    "usage": [
+      {
+        "pattern": "sway back and forth",
+        "meaning_zh": "來回搖擺"
+      }
+    ],
+    "frequency_rank": 114,
+    "level": "高中"
+  },
+  {
+    "word": "maintain",
+    "phonetic": "/meɪnˈteɪn/",
+    "pos": "v.",
+    "definition_zh": "維持；保持",
+    "example": "In order to protect their branches from breakage, trees maintain 'shyness gaps'.",
+    "example_zh": "為了保護樹枝不被折斷，樹木會保持「羞避間隙」。",
+    "usage": [
+      {
+        "pattern": "maintain order",
+        "meaning_zh": "維持秩序"
+      },
+      {
+        "pattern": "maintain a relationship",
+        "meaning_zh": "維持關係"
+      }
+    ],
+    "frequency_rank": 115,
+    "level": "高中"
+  },
+  {
+    "word": "struggle",
+    "phonetic": "/ˈstrʌɡəl/",
+    "pos": "n. / v.",
+    "definition_zh": "鬥爭；努力；掙扎",
+    "example": "In forested areas with thick tree crowns, there is intense struggle for resources.",
+    "example_zh": "在樹冠茂密的森林地區，對於資源存在激烈的爭奪。",
+    "usage": [
+      {
+        "pattern": "struggle to V",
+        "meaning_zh": "努力去做某事"
+      },
+      {
+        "pattern": "struggle for survival",
+        "meaning_zh": "為生存而奮鬥"
+      }
+    ],
+    "frequency_rank": 116,
+    "level": "高中"
+  },
+  {
+    "word": "limit",
+    "phonetic": "/ˈlɪmɪt/",
+    "pos": "v.",
+    "definition_zh": "限制",
+    "example": "By having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects.",
+    "example_zh": "透過讓樹枝不接觸鄰近樹木的樹枝，樹木可能可以限制食葉昆蟲的傳播。",
+    "usage": [
+      {
+        "pattern": "limit access",
+        "meaning_zh": "限制進入"
+      }
+    ],
+    "frequency_rank": 117,
+    "level": "高中"
+  },
+  {
+    "word": "spread",
+    "phonetic": "/sprɛd/",
+    "pos": "n. / v.",
+    "definition_zh": "擴散；傳播",
+    "example": "Trees may be able to limit the spread of leaf-eating insects.",
+    "example_zh": "樹木可能可以限制食葉昆蟲的傳播。",
+    "usage": [
+      {
+        "pattern": "spread awareness",
+        "meaning_zh": "傳播意識"
+      },
+      {
+        "pattern": "spread like wildfire",
+        "meaning_zh": "迅速蔓延"
+      }
+    ],
+    "frequency_rank": 118,
+    "level": "高中"
+  },
+  {
+    "word": "transmission",
+    "phonetic": "/trænzˈmɪʃən/",
+    "pos": "n.",
+    "definition_zh": "傳播；傳送",
+    "example": "Trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree.",
+    "example_zh": "樹木可能可以限制食葉昆蟲的傳播，並可能限制疾病在樹木間的傳播。",
+    "usage": [
+      {
+        "pattern": "disease transmission",
+        "meaning_zh": "疾病傳播"
+      },
+      {
+        "pattern": "data transmission",
+        "meaning_zh": "數據傳輸"
+      }
+    ],
+    "frequency_rank": 119,
+    "level": "高中"
+  },
+  {
+    "word": "compete for",
+    "phonetic": "/kəmˈpiːt fɔːr/",
+    "pos": "phr. v.",
+    "definition_zh": "競爭",
+    "example": "Other scientists suggest that plants, like animals, compete for resources—nutrients, water, space, and light.",
+    "example_zh": "其他科學家認為，植物和動物一樣，會競爭資源——養分、水、空間和光線。",
+    "usage": [],
+    "frequency_rank": 120,
+    "level": "高中"
+  },
+  {
+    "word": "exposure",
+    "phonetic": "/ɪkˈspoʊʒər/",
+    "pos": "n.",
+    "definition_zh": "暴露；接觸",
+    "example": "Gaps in the treetops may allow trees to increase their exposure to light and enhance photosynthesis.",
+    "example_zh": "樹冠間隙可能讓樹木增加對光照的吸收並增強光合作用。",
+    "usage": [
+      {
+        "pattern": "exposure to sunlight",
+        "meaning_zh": "曝曬在陽光下"
+      },
+      {
+        "pattern": "media exposure",
+        "meaning_zh": "媒體曝光"
+      }
+    ],
+    "frequency_rank": 121,
+    "level": "高中"
+  },
+  {
+    "word": "despite",
+    "phonetic": "/dɪˈspaɪt/",
+    "pos": "prep.",
+    "definition_zh": "儘管；雖然",
+    "example": "Despite decades of investigation, there is no consensus on exactly what causes the phenomenon.",
+    "example_zh": "儘管經過數十年的調查，對於導致這種現象的確切原因，仍未有共識。",
+    "usage": [
+      {
+        "pattern": "despite the fact that",
+        "meaning_zh": "儘管事實上"
+      }
+    ],
+    "frequency_rank": 122,
+    "level": "高中"
+  },
+  {
+    "word": "agenda",
+    "phonetic": "/əˈdʒɛndə/",
+    "pos": "n.",
+    "definition_zh": "議程；待辦事項",
+    "example": "Gravity has been at the top of the science agenda since the start of Mars missions.",
+    "example_zh": "自火星任務開始以來，重力一直是科學議程上的首要議題。",
+    "usage": [
+      {
+        "pattern": "on the agenda",
+        "meaning_zh": "在議程上"
+      },
+      {
+        "pattern": "a hidden agenda",
+        "meaning_zh": "潛藏的議程"
+      }
+    ],
+    "frequency_rank": 123,
+    "level": "高中"
+  },
+  {
+    "word": "overcome",
+    "phonetic": "/ˌoʊvərˈkʌm/",
+    "pos": "v.",
+    "definition_zh": "克服；戰勝",
+    "example": "In the earlier days of space travel, scientists tried to overcome the force of gravity.",
+    "example_zh": "在太空旅行的早期，科學家們試圖克服重力。",
+    "usage": [
+      {
+        "pattern": "overcome difficulties",
+        "meaning_zh": "克服困難"
+      }
+    ],
+    "frequency_rank": 124,
+    "level": "高中"
+  },
+  {
+    "word": "reduced",
+    "phonetic": "/rɪˈdjuːst/",
+    "pos": "adj.",
+    "definition_zh": "減少的；降低的",
+    "example": "Today, they are more interested in how reduced gravity affects the astronauts' physical condition.",
+    "example_zh": "今天，他們更感興趣的是微重力如何影響太空人的身體狀況。",
+    "usage": [
+      {
+        "pattern": "reduced price",
+        "meaning_zh": "減價"
+      }
+    ],
+    "frequency_rank": 125,
+    "level": "高中"
+  },
+  {
+    "word": "evolved",
+    "phonetic": "/ɪˈvɒlvd/",
+    "pos": "v.",
+    "definition_zh": "進化；發展",
+    "example": "Our bodies have evolved to exist within Earth's gravity, not in the weightlessness of space.",
+    "example_zh": "我們的身體已進化到在地球重力下生存，而非在太空的失重狀態中。",
+    "usage": [
+      {
+        "pattern": "evolve from",
+        "meaning_zh": "從...進化而來"
+      }
+    ],
+    "frequency_rank": 126,
+    "level": "高中"
+  },
+  {
+    "word": "weightlessness",
+    "phonetic": "/ˈweɪtləsnəs/",
+    "pos": "n.",
+    "definition_zh": "失重狀態",
+    "example": "Our bodies have evolved to exist within Earth's gravity, not in the weightlessness of space.",
+    "example_zh": "我們的身體已進化到在地球重力下生存，而非在太空的失重狀態中。",
+    "usage": [],
+    "frequency_rank": 127,
+    "level": "高中"
+  },
+  {
+    "word": "microgravity",
+    "phonetic": "/ˌmaɪkroʊˈɡrævɪti/",
+    "pos": "n.",
+    "definition_zh": "微重力",
+    "example": "Our bodies have evolved to exist within Earth's gravity, not in the weightlessness of space or the microgravity of Mars.",
+    "example_zh": "我們的身體已進化到在地球重力下生存，而非在太空的失重或火星的微重力狀態中。",
+    "usage": [],
+    "frequency_rank": 128,
+    "level": "高中"
+  },
+  {
+    "word": "fluids",
+    "phonetic": "/ˈfluːɪdz/",
+    "pos": "n.",
+    "definition_zh": "液體",
+    "example": "When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity.",
+    "example_zh": "在地球上，我們下半身有較多液體，因為它們被地球重力向下拉。",
+    "usage": [
+      {
+        "pattern": "body fluids",
+        "meaning_zh": "體液"
+      }
+    ],
+    "frequency_rank": 129,
+    "level": "高中"
+  },
+  {
+    "word": "absence",
+    "phonetic": "/ˈæbsəns/",
+    "pos": "n.",
+    "definition_zh": "缺席；缺乏",
+    "example": "However, with the absence of gravity in the outer space, our body fluids start shifting toward the upper body and the head.",
+    "example_zh": "然而，在外太空缺乏重力的情況下，我們的體液開始向上半身和頭部移動。",
+    "usage": [
+      {
+        "pattern": "in the absence of",
+        "meaning_zh": "在缺乏...的情況下"
+      }
+    ],
+    "frequency_rank": 130,
+    "level": "高中"
+  },
+  {
+    "word": "redistribute",
+    "phonetic": "/ˌriːdɪˈstrɪbjuːt/",
+    "pos": "v.",
+    "definition_zh": "重新分配",
+    "example": "With the absence of gravity in the outer space, our body fluids start redistributing toward the upper body and the head.",
+    "example_zh": "在外太空缺乏重力的情況下，我們的體液開始重新分配到上半身和頭部。",
+    "usage": [
+      {
+        "pattern": "redistribute wealth",
+        "meaning_zh": "重新分配財富"
+      }
+    ],
+    "frequency_rank": 131,
+    "level": "高中"
+  },
+  {
+    "word": "swollen",
+    "phonetic": "/ˈswoʊlən/",
+    "pos": "adj.",
+    "definition_zh": "腫脹的",
+    "example": "As a result, the astronauts have swollen, puffy faces, very much resembling that of Charlie Brown.",
+    "example_zh": "結果，太空人會有腫脹、浮腫的臉，非常像查理布朗的臉。",
+    "usage": [
+      {
+        "pattern": "swollen ankles",
+        "meaning_zh": "腳踝腫脹"
+      }
+    ],
+    "frequency_rank": 132,
+    "level": "高中"
+  },
+  {
+    "word": "puffy",
+    "phonetic": "/ˈpʌfi/",
+    "pos": "adj.",
+    "definition_zh": "浮腫的",
+    "example": "The astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown.",
+    "example_zh": "太空人有腫脹、浮腫的臉，非常像圓頭的查理布朗。",
+    "usage": [
+      {
+        "pattern": "puffy eyes",
+        "meaning_zh": "浮腫的眼睛"
+      }
+    ],
+    "frequency_rank": 133,
+    "level": "高中"
+  },
+  {
+    "word": "comic strip",
+    "phonetic": "/ˈkɒmɪk strɪp/",
+    "pos": "n.",
+    "definition_zh": "連環漫畫",
+    "example": "The astronauts' puffy faces are resembling that of Charlie Brown in the famous comic strip.",
+    "example_zh": "太空人的浮腫臉龐非常像著名漫畫中的查理布朗。",
+    "usage": [],
+    "frequency_rank": 134,
+    "level": "高中"
+  },
+  {
+    "word": "severe",
+    "phonetic": "/sɪˈvɪr/",
+    "pos": "adj.",
+    "definition_zh": "嚴重的；嚴峻的",
+    "example": "This 'Charlie Brown effect' will be more severe when the astronauts go on their Mars missions.",
+    "example_zh": "當太空人執行火星任務時，這種「查理布朗效應」將會更嚴重。",
+    "usage": [
+      {
+        "pattern": "severe pain",
+        "meaning_zh": "劇痛"
+      },
+      {
+        "pattern": "severe weather",
+        "meaning_zh": "惡劣天氣"
+      }
+    ],
+    "frequency_rank": 135,
+    "level": "高中"
+  },
+  {
+    "word": "syndrome",
+    "phonetic": "/ˈsɪndroʊm/",
+    "pos": "n.",
+    "definition_zh": "症候群",
+    "example": "Such a syndrome is considered the top health risk for the astronauts.",
+    "example_zh": "這種症候群被認為是太空人最大的健康風險。",
+    "usage": [
+      {
+        "pattern": "metabolic syndrome",
+        "meaning_zh": "代謝症候群"
+      }
+    ],
+    "frequency_rank": 136,
+    "level": "高中"
+  },
+  {
+    "word": "prevented",
+    "phonetic": "/prɪˈvɛntɪd/",
+    "pos": "v.",
+    "definition_zh": "預防；阻止",
+    "example": "Scientists are still trying to figure out how it may be prevented.",
+    "example_zh": "科學家仍在努力找出如何預防它。",
+    "usage": [
+      {
+        "pattern": "prevent illness",
+        "meaning_zh": "預防疾病"
+      }
+    ],
+    "frequency_rank": 137,
+    "level": "高中"
+  },
+  {
+    "word": "accompanied by",
+    "phonetic": "/əˈkʌmpənid baɪ/",
+    "pos": "phr. v.",
+    "definition_zh": "伴隨；隨著",
+    "example": "The effect is often accompanied by space motion sickness, headaches, and nausea.",
+    "example_zh": "這種影響常伴隨著太空暈動病、頭痛和噁心。",
+    "usage": [],
+    "frequency_rank": 138,
+    "level": "高中"
+  },
+  {
+    "word": "sustain",
+    "phonetic": "/səˈsteɪn/",
+    "pos": "v.",
+    "definition_zh": "維持；保持",
+    "example": "To sustain this amount of fluid in our bodies, plain water is considered our best choice.",
+    "example_zh": "為了維持我們體內如此多的液體，純水被認為是我們的最佳選擇。",
+    "usage": [
+      {
+        "pattern": "sustain life",
+        "meaning_zh": "維持生命"
+      },
+      {
+        "pattern": "sustain an injury",
+        "meaning_zh": "遭受傷害"
+      }
+    ],
+    "frequency_rank": 139,
+    "level": "高中"
+  },
+  {
+    "word": "reach for",
+    "phonetic": "/riːtʃ fɔːr/",
+    "pos": "phr. v.",
+    "definition_zh": "伸手拿取；選擇",
+    "example": "Is water always the healthiest drink we can reach for?",
+    "example_zh": "水總是我們能選擇的最健康的飲料嗎？",
+    "usage": [],
+    "frequency_rank": 140,
+    "level": "高中"
+  },
+  {
+    "word": "active",
+    "phonetic": "/ˈæktɪv/",
+    "pos": "adj.",
+    "definition_zh": "活躍的；積極的",
+    "example": "A physically active person with an outdoor job will need to drink more fluid.",
+    "example_zh": "一個從事戶外工作的體力活躍者將需要喝更多的水。",
+    "usage": [
+      {
+        "pattern": "active lifestyle",
+        "meaning_zh": "活躍的生活方式"
+      }
+    ],
+    "frequency_rank": 141,
+    "level": "高中"
+  },
+  {
+    "word": "even (things out)",
+    "phonetic": "/ˈiːvən/",
+    "pos": "v.",
+    "definition_zh": "使平衡；找平",
+    "example": "To even things out, the body will get rid of water by producing urine.",
+    "example_zh": "為了使身體平衡，身體會透過排尿來排出水分。",
+    "usage": [
+      {
+        "pattern": "even out",
+        "meaning_zh": "使平衡；找平"
+      }
+    ],
+    "frequency_rank": 142,
+    "level": "高中"
+  },
+  {
+    "word": "absorption",
+    "phonetic": "/əbˈzɔːrpʃən/",
+    "pos": "n.",
+    "definition_zh": "吸收",
+    "example": "Milk naturally contains salt and lactose, which the human body needs to help stimulate water absorption.",
+    "example_zh": "牛奶天然含有鹽和乳糖，人體需要它們來幫助刺激水分吸收。",
+    "usage": [
+      {
+        "pattern": "nutrient absorption",
+        "meaning_zh": "營養吸收"
+      }
+    ],
+    "frequency_rank": 143,
+    "level": "高中"
+  },
+  {
+    "word": "status",
+    "phonetic": "/ˈstætəs/",
+    "pos": "n.",
+    "definition_zh": "狀態；地位",
+    "example": "Coconut water is more functional than water at restoring and maintaining a normal fluid status after exercise.",
+    "example_zh": "椰子水在運動後恢復和維持正常體液狀態方面比水更具功能性。",
+    "usage": [
+      {
+        "pattern": "social status",
+        "meaning_zh": "社會地位"
+      },
+      {
+        "pattern": "hydration status",
+        "meaning_zh": "水合狀態"
+      }
+    ],
+    "frequency_rank": 144,
+    "level": "高中"
+  },
+  {
+    "word": "option",
+    "phonetic": "/ˈɒpʃən/",
+    "pos": "n.",
+    "definition_zh": "選擇；選項",
+    "example": "For the average person, however, water remains a very good option for keeping hydrated.",
+    "example_zh": "然而，對於一般人來說，水仍然是保持水分的一個很好的選擇。",
+    "usage": [
+      {
+        "pattern": "have an option",
+        "meaning_zh": "有選擇"
+      },
+      {
+        "pattern": "no other option",
+        "meaning_zh": "沒有其他選擇"
+      }
+    ],
+    "frequency_rank": 145,
+    "level": "高中"
+  },
+  {
+    "word": "alert",
+    "phonetic": "/əˈlɜːrt/",
+    "pos": "v.",
+    "definition_zh": "提醒；使警覺",
+    "example": "Never wait until the body is telling you you're thirsty, since there must already have been significant changes in your body for it to eventually alert your consciousness.",
+    "example_zh": "永遠不要等到身體告訴你口渴了，因為那時身體肯定已經發生了顯著變化，最終才能警覺你的意識。",
+    "usage": [
+      {
+        "pattern": "alert sb. to sth.",
+        "meaning_zh": "提醒某人注意某事"
+      }
+    ],
+    "frequency_rank": 146,
+    "level": "高中"
+  },
+  {
+    "word": "pass through",
+    "phonetic": "/pæs θruː/",
+    "pos": "phr. v.",
+    "definition_zh": "通過；穿過",
+    "example": "Drinking a lot of liquid in one go can cause more water to pass through the body quickly and come out as urine.",
+    "example_zh": "一次性喝大量液體會導致更多水分快速通過身體並以尿液形式排出。",
+    "usage": [],
+    "frequency_rank": 147,
+    "level": "高中"
+  },
+  {
+    "word": "combat",
+    "phonetic": "/ˈkɒmbæt/",
+    "pos": "v.",
+    "definition_zh": "對抗；打擊",
+    "example": "To combat this, you need to drink water throughout the day to maintain your hydration levels.",
+    "example_zh": "為了對抗這種情況（指水分快速流失），你需要全天飲水以維持水分水平。",
+    "usage": [
+      {
+        "pattern": "combat crime",
+        "meaning_zh": "打擊犯罪"
+      },
+      {
+        "pattern": "combat climate change",
+        "meaning_zh": "對抗氣候變遷"
+      }
+    ],
+    "frequency_rank": 148,
+    "level": "高中"
+  },
+  {
+    "word": "synesthesia",
+    "phonetic": "/ˌsɪnɪsˈθiːziə/",
+    "pos": "n.",
+    "definition_zh": "聯覺（一種感官交錯的現象）",
+    "example": "If Mozart's music tastes like an apple pie to you, it is very likely that you have synesthesia.",
+    "example_zh": "如果莫札特的音樂對你來說嚐起來像蘋果派，那麼你很可能有聯覺。",
+    "usage": [],
+    "frequency_rank": 149,
+    "level": "高中"
+  },
+  {
+    "word": "intermix",
+    "phonetic": "/ˌɪntərˈmɪks/",
+    "pos": "v.",
+    "definition_zh": "混合；混雜",
+    "example": "Synesthesia is a condition in which people's senses intermix.",
+    "example_zh": "聯覺是一種人們感官交錯的狀況。",
+    "usage": [],
+    "frequency_rank": 150,
+    "level": "高中"
+  },
+  {
+    "word": "trigger",
+    "phonetic": "/ˈtrɪɡər/",
+    "pos": "v.",
+    "definition_zh": "觸發；引起",
+    "example": "In some cases, people with synesthesia may experience colors when they hear, read, or even think of letters and numbers, and words can trigger a real sensation of taste on their tongue.",
+    "example_zh": "在某些情況下，聯覺者在聽到、閱讀甚至想到字母和數字時可能會看到顏色，而詞語則可能在他們的舌頭上引發真實的味覺。",
+    "usage": [
+      {
+        "pattern": "trigger an alarm",
+        "meaning_zh": "觸發警報"
+      },
+      {
+        "pattern": "trigger a reaction",
+        "meaning_zh": "引起反應"
+      }
+    ],
+    "frequency_rank": 151,
+    "level": "高中"
+  },
+  {
+    "word": "sensation",
+    "phonetic": "/sɛnˈseɪʃən/",
+    "pos": "n.",
+    "definition_zh": "感覺；知覺",
+    "example": "Words can trigger a real sensation of taste on their tongue.",
+    "example_zh": "詞語可能在他們的舌頭上引發真實的味覺。",
+    "usage": [
+      {
+        "pattern": "a burning sensation",
+        "meaning_zh": "灼熱感"
+      }
+    ],
+    "frequency_rank": 152,
+    "level": "高中"
+  },
+  {
+    "word": "persistently",
+    "phonetic": "/pərˈsɪstəntli/",
+    "pos": "adv.",
+    "definition_zh": "持續地；堅持不懈地",
+    "example": "When asked what color is evoked by a letter or number, synesthetic people would persistently give the same answer even if tested months or years apart.",
+    "example_zh": "當被問到一個字母或數字會引發什麼顏色時，聯覺者即使在數月或數年後再次測試，也會持續給出相同的答案。",
+    "usage": [],
+    "frequency_rank": 153,
+    "level": "高中"
+  },
+  {
+    "word": "compelling",
+    "phonetic": "/kəmˈpɛlɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "引人注目的；有說服力的",
+    "example": "The most compelling support, however, comes from brain scans, which show that color processing areas in the brain light up when these people listen to certain words.",
+    "example_zh": "然而，最具說服力的證據來自於腦部掃描，這些掃描顯示當這些人聽到某些詞語時，大腦中的顏色處理區域會亮起來。",
+    "usage": [
+      {
+        "pattern": "compelling argument",
+        "meaning_zh": "有說服力的論點"
+      }
+    ],
+    "frequency_rank": 154,
+    "level": "高中"
+  },
+  {
+    "word": "inherited",
+    "phonetic": "/ɪnˈhɛrɪtɪd/",
+    "pos": "adj.",
+    "definition_zh": "遺傳的；繼承的",
+    "example": "Is synesthesia genetically inherited or acquired after birth?",
+    "example_zh": "聯覺是基因遺傳的還是後天習得的？",
+    "usage": [],
+    "frequency_rank": 155,
+    "level": "高中"
+  },
+  {
+    "word": "acquired",
+    "phonetic": "/əˈkwaɪərd/",
+    "pos": "adj.",
+    "definition_zh": "後天習得的；獲得的",
+    "example": "Is synesthesia genetically inherited or acquired after birth?",
+    "example_zh": "聯覺是基因遺傳的還是後天習得的？",
+    "usage": [
+      {
+        "pattern": "acquired taste",
+        "meaning_zh": "後天養成的品味"
+      }
+    ],
+    "frequency_rank": 156,
+    "level": "高中"
+  },
+  {
+    "word": "genetic",
+    "phonetic": "/dʒɪˈnɛtɪk/",
+    "pos": "adj.",
+    "definition_zh": "基因的；遺傳的",
+    "example": "Scientists agree that synesthesia has a genetic basis, because it frequently runs in families.",
+    "example_zh": "科學家們同意聯覺有基因基礎，因為它常在家族中出現。",
+    "usage": [
+      {
+        "pattern": "genetic disease",
+        "meaning_zh": "遺傳疾病"
+      }
+    ],
+    "frequency_rank": 157,
+    "level": "高中"
+  },
+  {
+    "word": "frequently",
+    "phonetic": "/ˈfriːkwəntli/",
+    "pos": "adv.",
+    "definition_zh": "頻繁地；經常地",
+    "example": "Synesthesia frequently runs in families.",
+    "example_zh": "聯覺頻繁地在家族中出現。",
+    "usage": [],
+    "frequency_rank": 158,
+    "level": "高中"
+  },
+  {
+    "word": "identified",
+    "phonetic": "/aɪˈdɛntɪfaɪd/",
+    "pos": "v.",
+    "definition_zh": "識別；確認",
+    "example": "An actual synesthesia gene (or genes) has not been identified yet.",
+    "example_zh": "一個實際的聯覺基因（或多個基因）尚未被識別出來。",
+    "usage": [
+      {
+        "pattern": "identify the problem",
+        "meaning_zh": "找出問題"
+      }
+    ],
+    "frequency_rank": 159,
+    "level": "高中"
+  },
+  {
+    "word": "infancy",
+    "phonetic": "/ˈɪnfənsi/",
+    "pos": "n.",
+    "definition_zh": "嬰兒期",
+    "example": "In most people synesthesia is active only during the first months of their infancy.",
+    "example_zh": "在大多數人身上，聯覺只在他們嬰兒期的最初幾個月活躍。",
+    "usage": [
+      {
+        "pattern": "from infancy",
+        "meaning_zh": "從嬰兒期起"
+      }
+    ],
+    "frequency_rank": 160,
+    "level": "高中"
+  },
+  {
+    "word": "consistency",
+    "phonetic": "/kənˈsɪstənsi/",
+    "pos": "n.",
+    "definition_zh": "一致性；連貫性",
+    "example": "This consistency serves as a proof that synesthesia is real.",
+    "example_zh": "這種一致性證明了聯覺是真實的。",
+    "usage": [
+      {
+        "pattern": "maintain consistency",
+        "meaning_zh": "保持一致性"
+      }
+    ],
+    "frequency_rank": 161,
+    "level": "高中"
+  },
+  {
+    "word": "environmental",
+    "phonetic": "/ɪnˌvaɪrənˈmɛntəl/",
+    "pos": "adj.",
+    "definition_zh": "環境的",
+    "example": "Environmental influences seem to shape a person's synesthesia.",
+    "example_zh": "環境因素似乎會塑造一個人的聯覺。",
+    "usage": [
+      {
+        "pattern": "environmental protection",
+        "meaning_zh": "環境保護"
+      }
+    ],
+    "frequency_rank": 162,
+    "level": "高中"
+  },
+  {
+    "word": "influences",
+    "phonetic": "/ˈɪnfluənsɪz/",
+    "pos": "n.",
+    "definition_zh": "影響",
+    "example": "Environmental influences seem to shape a person's synesthesia.",
+    "example_zh": "環境因素似乎會塑造一個人的聯覺。",
+    "usage": [
+      {
+        "pattern": "under the influence of",
+        "meaning_zh": "在...的影響下"
+      }
+    ],
+    "frequency_rank": 163,
+    "level": "高中"
+  },
+  {
+    "word": "accused",
+    "phonetic": "/əˈkjuːzd/",
+    "pos": "v.",
+    "definition_zh": "指控",
+    "example": "People with synesthesia used to be accused of making their experiences up.",
+    "example_zh": "過去，聯覺者常被指控是捏造他們的經驗。",
+    "usage": [
+      {
+        "pattern": "accused of crime",
+        "meaning_zh": "被控犯罪"
+      }
+    ],
+    "frequency_rank": 164,
+    "level": "高中"
+  },
+  {
+    "word": "emerge",
+    "phonetic": "/ɪˈmɜːrdʒ/",
+    "pos": "v.",
+    "definition_zh": "出現；浮現",
+    "example": "Although the term 'hula hoop' did not emerge until the 18th century, toy hoops twirled around the waist can be traced back to ancient times.",
+    "example_zh": "儘管「呼拉圈」這個詞直到18世紀才出現，但腰間轉動的玩具圈可以追溯到古代。",
+    "usage": [
+      {
+        "pattern": "emerge from",
+        "meaning_zh": "從...中浮現"
+      }
+    ],
+    "frequency_rank": 165,
+    "level": "高中"
+  },
+  {
+    "word": "twirled",
+    "phonetic": "/twɜːrld/",
+    "pos": "v.",
+    "definition_zh": "轉動；旋轉",
+    "example": "Toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times.",
+    "example_zh": "在腰部、四肢或頸部轉動的玩具圈可以追溯到古代。",
+    "usage": [],
+    "frequency_rank": 166,
+    "level": "高中"
+  },
+  {
+    "word": "traced",
+    "phonetic": "/treɪst/",
+    "pos": "v.",
+    "definition_zh": "追溯；追蹤",
+    "example": "Toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times.",
+    "example_zh": "在腰部、四肢或頸部轉動的玩具圈可以追溯到古代。",
+    "usage": [
+      {
+        "pattern": "be traced back to",
+        "meaning_zh": "可追溯至"
+      }
+    ],
+    "frequency_rank": 167,
+    "level": "高中"
+  },
+  {
+    "word": "grapevine",
+    "phonetic": "/ˈɡreɪpvaɪn/",
+    "pos": "n.",
+    "definition_zh": "葡萄藤",
+    "example": "As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine.",
+    "example_zh": "早在西元前1000年，埃及兒童就玩乾燥葡萄藤製成的圈狀玩具。",
+    "usage": [
+      {
+        "pattern": "hear through the grapevine",
+        "meaning_zh": "經由小道消息得知"
+      }
+    ],
+    "frequency_rank": 168,
+    "level": "高中"
+  },
+  {
+    "word": "slung",
+    "phonetic": "/slʌŋ/",
+    "pos": "v.",
+    "definition_zh": "拋；掛 (sling 的過去式和過去分詞)",
+    "example": "They threw, jumped, and slung them around their bodies as we do today.",
+    "example_zh": "他們像我們今天一樣，拋、跳並把它們掛在身體周圍。",
+    "usage": [
+      {
+        "pattern": "sling a bag over one's shoulder",
+        "meaning_zh": "把包包掛在肩上"
+      }
+    ],
+    "frequency_rank": 169,
+    "level": "高中"
+  },
+  {
+    "word": "struck",
+    "phonetic": "/strʌk/",
+    "pos": "v.",
+    "definition_zh": "敲打；擊中 (strike 的過去式和過去分詞)",
+    "example": "They also struck them with sticks to roll them down the road.",
+    "example_zh": "他們還用棍子敲打它們，讓它們沿路滾動。",
+    "usage": [
+      {
+        "pattern": "be struck by lightning",
+        "meaning_zh": "被閃電擊中"
+      }
+    ],
+    "frequency_rank": 170,
+    "level": "高中"
+  },
+  {
+    "word": "recreation",
+    "phonetic": "/ˌrɛkriˈeɪʃən/",
+    "pos": "n.",
+    "definition_zh": "娛樂；消遣",
+    "example": "In the 14th century, hoops were popular as a form of recreation in Great Britain.",
+    "example_zh": "在14世紀，圓圈在英國作為一種娛樂形式很受歡迎。",
+    "usage": [
+      {
+        "pattern": "recreation center",
+        "meaning_zh": "休閒中心"
+      }
+    ],
+    "frequency_rank": 171,
+    "level": "高中"
+  },
+  {
+    "word": "craze",
+    "phonetic": "/kreɪz/",
+    "pos": "n.",
+    "definition_zh": "熱潮；狂熱",
+    "example": "The craze for hoops even resulted in dislocated backs and heart attacks.",
+    "example_zh": "對圓圈的狂熱甚至導致了背部脫臼和心臟病發作。",
+    "usage": [
+      {
+        "pattern": "a fashion craze",
+        "meaning_zh": "時尚熱潮"
+      }
+    ],
+    "frequency_rank": 172,
+    "level": "高中"
+  },
+  {
+    "word": "dislocated",
+    "phonetic": "/ˌdɪsloʊˈkeɪtɪd/",
+    "pos": "adj.",
+    "definition_zh": "脫臼的；錯位的",
+    "example": "The craze for hoops even resulted in dislocated backs and heart attacks.",
+    "example_zh": "對圓圈的狂熱甚至導致了背部脫臼和心臟病發作。",
+    "usage": [
+      {
+        "pattern": "dislocated shoulder",
+        "meaning_zh": "肩膀脫臼"
+      }
+    ],
+    "frequency_rank": 173,
+    "level": "高中"
+  },
+  {
+    "word": "witnessed",
+    "phonetic": "/ˈwɪtnəst/",
+    "pos": "v.",
+    "definition_zh": "目睹；見證",
+    "example": "The term “hula” did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands.",
+    "example_zh": "「呼拉」這個詞直到18世紀才進入英語，當時英國水手首次在夏威夷群島目睹了呼拉舞。",
+    "usage": [],
+    "frequency_rank": 174,
+    "level": "高中"
+  },
+  {
+    "word": "ritual",
+    "phonetic": "/ˈrɪtʃuəl/",
+    "pos": "adj. / n.",
+    "definition_zh": "儀式的；儀式",
+    "example": "The movements of the ritual dances looked very similar to those in hooping.",
+    "example_zh": "這些儀式舞蹈的動作與轉圈的動作非常相似。",
+    "usage": [
+      {
+        "pattern": "ritual dance",
+        "meaning_zh": "儀式性舞蹈"
+      }
+    ],
+    "frequency_rank": 175,
+    "level": "高中"
+  },
+  {
+    "word": "prominently",
+    "phonetic": "/ˈprɒmɪnəntli/",
+    "pos": "adv.",
+    "definition_zh": "顯著地；突出地",
+    "example": "Hoops featured prominently in the ritual dances of Native Americans.",
+    "example_zh": "圓圈在美洲原住民的儀式舞蹈中佔有重要地位。",
+    "usage": [
+      {
+        "pattern": "feature prominently",
+        "meaning_zh": "突出呈現"
+      }
+    ],
+    "frequency_rank": 176,
+    "level": "高中"
+  },
+  {
+    "word": "symbolic",
+    "phonetic": "/sɪmˈbɒlɪk/",
+    "pos": "adj.",
+    "definition_zh": "象徵性的",
+    "example": "Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes.",
+    "example_zh": "舞者使用小蘆葦圈作為老鷹或蛇等動物的象徵性代表。",
+    "usage": [
+      {
+        "pattern": "symbolic meaning",
+        "meaning_zh": "象徵意義"
+      }
+    ],
+    "frequency_rank": 177,
+    "level": "高中"
+  },
+  {
+    "word": "construct",
+    "phonetic": "/kənˈstrʌkt/",
+    "pos": "v.",
+    "definition_zh": "建造；構成",
+    "example": "With very rapid movements, they used the hoops to construct the symbolic forms around their bodies.",
+    "example_zh": "他們以非常快速的動作，用圓圈在身體周圍構成象徵性形狀。",
+    "usage": [
+      {
+        "pattern": "construct a building",
+        "meaning_zh": "建造建築物"
+      }
+    ],
+    "frequency_rank": 178,
+    "level": "高中"
+  },
+  {
+    "word": "marketed",
+    "phonetic": "/ˈmɑːrkɪtɪd/",
+    "pos": "v.",
+    "definition_zh": "銷售；推銷",
+    "example": "The hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California's Wham-O toy company.",
+    "example_zh": "呼拉圈在1950年代後期獲得國際知名度，當時一家加州的Wham-O玩具公司成功地銷售了塑膠版本。",
+    "usage": [
+      {
+        "pattern": "market a product",
+        "meaning_zh": "推銷產品"
+      }
+    ],
+    "frequency_rank": 179,
+    "level": "高中"
+  },
+  {
+    "word": "fad",
+    "phonetic": "/fæd/",
+    "pos": "n.",
+    "definition_zh": "時尚；一時的流行",
+    "example": "The hula hoop 'fad' is still going strong today.",
+    "example_zh": "呼拉圈的「流行」至今仍很盛行。",
+    "usage": [],
+    "frequency_rank": 180,
+    "level": "高中"
+  },
+  {
+    "word": "roaming",
+    "phonetic": "/ˈroʊmɪŋ/",
+    "pos": "v. (present participle)",
+    "definition_zh": "漫遊；遊蕩",
+    "example": "Those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.",
+    "example_zh": "那些茶葉對在印度茶園漫遊的亞洲象來說，可能意味著傷害，甚至死亡。",
+    "usage": [
+      {
+        "pattern": "roam around",
+        "meaning_zh": "四處遊蕩"
+      }
+    ],
+    "frequency_rank": 181,
+    "level": "高中"
+  },
+  {
+    "word": "habitats",
+    "phonetic": "/ˈhæbɪtæts/",
+    "pos": "n.",
+    "definition_zh": "棲息地",
+    "example": "Growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population.",
+    "example_zh": "越來越多的茶園正在破壞亞洲象的棲息地並危及牠們的族群。",
+    "usage": [
+      {
+        "pattern": "natural habitat",
+        "meaning_zh": "自然棲息地"
+      }
+    ],
+    "frequency_rank": 182,
+    "level": "高中"
+  },
+  {
+    "word": "endangering",
+    "phonetic": "/ɪnˈdeɪndʒərɪŋ/",
+    "pos": "v. (present participle)",
+    "definition_zh": "危及；使瀕臨危險",
+    "example": "Growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population.",
+    "example_zh": "越來越多的茶園正在破壞亞洲象的棲息地並危及牠們的族群。",
+    "usage": [
+      {
+        "pattern": "endanger wildlife",
+        "meaning_zh": "危及野生動物"
+      }
+    ],
+    "frequency_rank": 183,
+    "level": "高中"
+  },
+  {
+    "word": "population",
+    "phonetic": "/ˌpɒpjuˈleɪʃən/",
+    "pos": "n.",
+    "definition_zh": "人口；族群",
+    "example": "Growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population.",
+    "example_zh": "越來越多的茶園正在破壞亞洲象的棲息地並危及牠們的族群。",
+    "usage": [
+      {
+        "pattern": "dwindling population",
+        "meaning_zh": "數量減少的族群"
+      }
+    ],
+    "frequency_rank": 184,
+    "level": "高中"
+  },
+  {
+    "word": "drainage",
+    "phonetic": "/ˈdreɪnɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "排水；排水系統",
+    "example": "Farmers must dig drainage trenches to prevent water from accumulating.",
+    "example_zh": "農民必須挖排水溝以防止積水。",
+    "usage": [
+      {
+        "pattern": "drainage system",
+        "meaning_zh": "排水系統"
+      }
+    ],
+    "frequency_rank": 185,
+    "level": "高中"
+  },
+  {
+    "word": "trenches",
+    "phonetic": "/ˈtrɛntʃɪz/",
+    "pos": "n.",
+    "definition_zh": "溝渠；壕溝",
+    "example": "Farmers must dig drainage trenches to prevent water from accumulating, but the trenches, however, can be death traps for the elephants.",
+    "example_zh": "農民必須挖排水溝以防止積水，然而，這些溝渠卻可能成為大象的死亡陷阱。",
+    "usage": [
+      {
+        "pattern": "dig trenches",
+        "meaning_zh": "挖溝"
+      }
+    ],
+    "frequency_rank": 186,
+    "level": "高中"
+  },
+  {
+    "word": "accumulating",
+    "phonetic": "/əˈkjuːmjəleɪtɪŋ/",
+    "pos": "v. (present participle)",
+    "definition_zh": "累積；積聚",
+    "example": "Farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs.",
+    "example_zh": "農民必須挖排水溝以防止積水並傷害灌木。",
+    "usage": [
+      {
+        "pattern": "accumulate wealth",
+        "meaning_zh": "累積財富"
+      }
+    ],
+    "frequency_rank": 187,
+    "level": "高中"
+  },
+  {
+    "word": "shrubs",
+    "phonetic": "/ʃrʌbz/",
+    "pos": "n.",
+    "definition_zh": "灌木",
+    "example": "Farmers dig drainage trenches to prevent water from accumulating and hurting the shrubs.",
+    "example_zh": "農民挖排水溝以防止積水並傷害灌木。",
+    "usage": [],
+    "frequency_rank": 188,
+    "level": "高中"
+  },
+  {
+    "word": "traps",
+    "phonetic": "/træps/",
+    "pos": "n.",
+    "definition_zh": "陷阱",
+    "example": "The trenches can be death traps for the elephants.",
+    "example_zh": "這些溝渠可能成為大象的死亡陷阱。",
+    "usage": [
+      {
+        "pattern": "set a trap",
+        "meaning_zh": "設陷阱"
+      }
+    ],
+    "frequency_rank": 189,
+    "level": "高中"
+  },
+  {
+    "word": "inevitably",
+    "phonetic": "/ɪnˈɛvɪtəbli/",
+    "pos": "adv.",
+    "definition_zh": "不可避免地",
+    "example": "Elephants use tea plantations as landmarks when navigating forests, so they almost inevitably have to move through the farms.",
+    "example_zh": "大象在森林中導航時會將茶園作為地標，因此牠們幾乎不可避免地會穿過這些農場。",
+    "usage": [],
+    "frequency_rank": 190,
+    "level": "高中"
+  },
+  {
+    "word": "pregnant",
+    "phonetic": "/ˈprɛɡnənt/",
+    "pos": "adj.",
+    "definition_zh": "懷孕的",
+    "example": "Pregnant females often use tea-growing areas as safe shelters to give birth.",
+    "example_zh": "懷孕的母象常利用茶園作為安全的庇護所來生產。",
+    "usage": [
+      {
+        "pattern": "get pregnant",
+        "meaning_zh": "懷孕"
+      }
+    ],
+    "frequency_rank": 191,
+    "level": "高中"
+  },
+  {
+    "word": "negotiating",
+    "phonetic": "/nɪˈɡoʊʃieɪtɪŋ/",
+    "pos": "v. (present participle)",
+    "definition_zh": "談判；通過 (困難地形)",
+    "example": "Baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt.",
+    "example_zh": "小象不習慣在崎嶇不平的地面上行走，可能輕易掉入溝渠並受傷。",
+    "usage": [
+      {
+        "pattern": "negotiate a deal",
+        "meaning_zh": "談判協議"
+      },
+      {
+        "pattern": "negotiate a turn",
+        "meaning_zh": "轉彎時謹慎通過"
+      }
+    ],
+    "frequency_rank": 192,
+    "level": "高中"
+  },
+  {
+    "word": "smothered",
+    "phonetic": "/ˈsmʌðərd/",
+    "pos": "v.",
+    "definition_zh": "悶死；覆蓋",
+    "example": "When mothers try to dig their babies out, both may be trapped and smothered by thick mud.",
+    "example_zh": "當母象試圖把小象挖出來時，兩者都可能被困住並被厚泥悶死。",
+    "usage": [
+      {
+        "pattern": "smother with love",
+        "meaning_zh": "溺愛"
+      }
+    ],
+    "frequency_rank": 193,
+    "level": "高中"
+  },
+  {
+    "word": "linger",
+    "phonetic": "/ˈlɪŋɡər/",
+    "pos": "v.",
+    "definition_zh": "逗留；徘徊",
+    "example": "A herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.",
+    "example_zh": "一群象可能會在有受困幼象的溝渠旁逗留數小時，不願離開直到所有希望都破滅。",
+    "usage": [
+      {
+        "pattern": "linger on",
+        "meaning_zh": "持續存在"
+      }
+    ],
+    "frequency_rank": 194,
+    "level": "高中"
+  },
+  {
+    "word": "reluctant",
+    "phonetic": "/rɪˈlʌktənt/",
+    "pos": "adj.",
+    "definition_zh": "不情願的；勉強的",
+    "example": "A herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.",
+    "example_zh": "一群象可能會在有受困幼象的溝渠旁逗留數小時，不願離開直到所有希望都破滅。",
+    "usage": [
+      {
+        "pattern": "be reluctant to V",
+        "meaning_zh": "不情願做某事"
+      }
+    ],
+    "frequency_rank": 195,
+    "level": "高中"
+  },
+  {
+    "word": "coexist",
+    "phonetic": "/ˌkoʊɪɡˈzɪst/",
+    "pos": "v.",
+    "definition_zh": "共存",
+    "example": "Is it possible for elephants to coexist with the prosperous tea business?",
+    "example_zh": "大象有可能與繁榮的茶葉生意共存嗎？",
+    "usage": [
+      {
+        "pattern": "coexist peacefully",
+        "meaning_zh": "和平共存"
+      }
+    ],
+    "frequency_rank": 196,
+    "level": "高中"
+  },
+  {
+    "word": "prosperous",
+    "phonetic": "/ˈprɒspərəs/",
+    "pos": "adj.",
+    "definition_zh": "繁榮的；昌盛的",
+    "example": "Is it possible for elephants to coexist with the prosperous tea business?",
+    "example_zh": "大象有可能與繁榮的茶葉生意共存嗎？",
+    "usage": [
+      {
+        "pattern": "prosperous economy",
+        "meaning_zh": "繁榮的經濟"
+      }
+    ],
+    "frequency_rank": 197,
+    "level": "高中"
+  },
+  {
+    "word": "certification",
+    "phonetic": "/ˌsɜːrtɪfɪˈkeɪʃən/",
+    "pos": "n.",
+    "definition_zh": "認證",
+    "example": "The organization has set up a certification program to reward tea growers who are doing it right.",
+    "example_zh": "該組織已建立一個認證計畫，以獎勵做得好的茶農。",
+    "usage": [
+      {
+        "pattern": "certification program",
+        "meaning_zh": "認證計畫"
+      }
+    ],
+    "frequency_rank": 198,
+    "level": "高中"
+  },
+  {
+    "word": "reward",
+    "phonetic": "/rɪˈwɔːrd/",
+    "pos": "v.",
+    "definition_zh": "獎勵",
+    "example": "The organization has set up a certification program to reward tea growers who are doing it right.",
+    "example_zh": "該組織已建立一個認證計畫，以獎勵做得好的茶農。",
+    "usage": [
+      {
+        "pattern": "reward for hard work",
+        "meaning_zh": "辛勤工作的獎勵"
+      }
+    ],
+    "frequency_rank": 199,
+    "level": "高中"
+  },
+  {
+    "word": "motivated",
+    "phonetic": "/ˈmoʊtɪveɪtɪd/",
+    "pos": "adj.",
+    "definition_zh": "有動機的；被激勵的",
+    "example": "The organization believes that people may be motivated to buy elephant-friendly brands.",
+    "example_zh": "該組織相信，人們可能會被激勵購買對大象友善的品牌。",
+    "usage": [
+      {
+        "pattern": "be motivated to V",
+        "meaning_zh": "有動力做某事"
+      }
+    ],
+    "frequency_rank": 200,
+    "level": "高中"
+  },
+  {
+    "word": "endangered",
+    "phonetic": "/ɪnˈdeɪndʒərd/",
+    "pos": "adj.",
+    "definition_zh": "瀕臨絕種的",
+    "example": "People may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.",
+    "example_zh": "當人們更多地了解茶葉對這些瀕臨絕種動物可能造成的風險時，他們可能會被激勵購買對大象友善的品牌。",
+    "usage": [
+      {
+        "pattern": "endangered species",
+        "meaning_zh": "瀕危物種"
+      }
+    ],
+    "frequency_rank": 201,
+    "level": "高中"
+  },
+  {
+    "word": "situated",
+    "phonetic": "/ˈsɪtʃueɪtɪd/",
+    "pos": "adj.",
+    "definition_zh": "位於",
+    "example": "Situated off the coast of Tanzania and washed by the warm, clean waters of the Indian Ocean, Zanzibar is a tropical archipelago.",
+    "example_zh": "尚吉巴坐落於坦尚尼亞海岸外，印度洋溫暖、潔淨的海水沖刷著它，是一個熱帶群島。",
+    "usage": [
+      {
+        "pattern": "be situated in",
+        "meaning_zh": "位於"
+      }
+    ],
+    "frequency_rank": 202,
+    "level": "高中"
+  },
+  {
+    "word": "archipelago",
+    "phonetic": "/ˌɑːrkɪˈpɛləɡoʊ/",
+    "pos": "n.",
+    "definition_zh": "群島",
+    "example": "Zanzibar is a tropical archipelago comprised of several scattered islands.",
+    "example_zh": "尚吉巴是一個由幾個分散島嶼組成的熱帶群島。",
+    "usage": [],
+    "frequency_rank": 203,
+    "level": "高中"
+  },
+  {
+    "word": "comprised of",
+    "phonetic": "/kəmˈpraɪzd ɒv/",
+    "pos": "phr. v.",
+    "definition_zh": "由...組成",
+    "example": "Zanzibar is a tropical archipelago comprised of several scattered islands.",
+    "example_zh": "尚吉巴是一個由幾個分散島嶼組成的熱帶群島。",
+    "usage": [],
+    "frequency_rank": 204,
+    "level": "高中"
+  },
+  {
+    "word": "scattered",
+    "phonetic": "/ˈskætərd/",
+    "pos": "adj.",
+    "definition_zh": "分散的；散佈的",
+    "example": "Zanzibar is a tropical archipelago comprised of several scattered islands.",
+    "example_zh": "尚吉巴是一個由幾個分散島嶼組成的熱帶群島。",
+    "usage": [
+      {
+        "pattern": "scattered light",
+        "meaning_zh": "散射光"
+      }
+    ],
+    "frequency_rank": 205,
+    "level": "高中"
+  },
+  {
+    "word": "turquoise",
+    "phonetic": "/ˈtɜːrkɔɪz/",
+    "pos": "adj. / n.",
+    "definition_zh": "綠松石色的；綠松石",
+    "example": "The island is famous for its white sand beaches, slender palms, and turquoise seas.",
+    "example_zh": "這個島嶼以其白色沙灘、纖細的棕櫚樹和碧綠的海洋而聞名。",
+    "usage": [],
+    "frequency_rank": 206,
+    "level": "高中"
+  },
+  {
+    "word": "unimaginable",
+    "phonetic": "/ˌʌnɪˈmædʒɪnəbəl/",
+    "pos": "adj.",
+    "definition_zh": "難以想像的",
+    "example": "Control of Zanzibar meant access to unimaginable wealth.",
+    "example_zh": "控制尚吉巴意味著可以獲得難以想像的財富。",
+    "usage": [],
+    "frequency_rank": 207,
+    "level": "高中"
+  },
+  {
+    "word": "hotspot",
+    "phonetic": "/ˈhɒtspɒt/",
+    "pos": "n.",
+    "definition_zh": "熱點；熱門地點",
+    "example": "From ancient times, Zanzibar has been a trading hotspot.",
+    "example_zh": "從古至今，尚吉巴一直是貿易熱點。",
+    "usage": [
+      {
+        "pattern": "tourist hotspot",
+        "meaning_zh": "旅遊熱點"
+      }
+    ],
+    "frequency_rank": 208,
+    "level": "高中"
+  },
+  {
+    "word": "permanent",
+    "phonetic": "/ˈpɜːrmənənt/",
+    "pos": "adj.",
+    "definition_zh": "永久的；固定的",
+    "example": "Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland.",
+    "example_zh": "來自亞洲的商人早在非洲大陸第一批永久定居者到來前900年就已造訪這些島嶼。",
+    "usage": [
+      {
+        "pattern": "permanent resident",
+        "meaning_zh": "永久居民"
+      }
+    ],
+    "frequency_rank": 209,
+    "level": "高中"
+  },
+  {
+    "word": "settlers",
+    "phonetic": "/ˈsɛtlərz/",
+    "pos": "n.",
+    "definition_zh": "移民；定居者",
+    "example": "The first permanent settlers arrived from the African mainland.",
+    "example_zh": "第一批永久定居者來自非洲大陸。",
+    "usage": [],
+    "frequency_rank": 210,
+    "level": "高中"
+  },
+  {
+    "word": "merchants",
+    "phonetic": "/ˈmɜːrtʃənts/",
+    "pos": "n.",
+    "definition_zh": "商人",
+    "example": "In the 8th century, Persian merchants built settlements here.",
+    "example_zh": "在8世紀，波斯商人在這裡建立了聚居地。",
+    "usage": [],
+    "frequency_rank": 211,
+    "level": "高中"
+  },
+  {
+    "word": "boomed",
+    "phonetic": "/buːmd/",
+    "pos": "v.",
+    "definition_zh": "蓬勃發展；繁榮",
+    "example": "During the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade.",
+    "example_zh": "在大航海時代，尚吉巴的商業迅速蓬勃發展，主要歸因於香料貿易的興起。",
+    "usage": [
+      {
+        "pattern": "business boomed",
+        "meaning_zh": "生意興隆"
+      }
+    ],
+    "frequency_rank": 212,
+    "level": "高中"
+  },
+  {
+    "word": "crossroads",
+    "phonetic": "/ˈkrɒsroʊdz/",
+    "pos": "n.",
+    "definition_zh": "十字路口；交匯點",
+    "example": "In 1499, Vasco da Gama arrived at Zanzibar, an archipelago sitting at the crossroads of the Spice Route.",
+    "example_zh": "1499年，瓦斯科·達·伽馬抵達尚吉巴，這個群島位於香料之路的交匯點。",
+    "usage": [
+      {
+        "pattern": "at a crossroads",
+        "meaning_zh": "處於關鍵時刻"
+      }
+    ],
+    "frequency_rank": 213,
+    "level": "高中"
+  },
+  {
+    "word": "docked",
+    "phonetic": "/dɒkt/",
+    "pos": "v.",
+    "definition_zh": "停靠碼頭",
+    "example": "Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction.",
+    "example_zh": "數百艘航行香料之路的船隻在此停靠，帶來香料和商品進行交易。",
+    "usage": [],
+    "frequency_rank": 214,
+    "level": "高中"
+  },
+  {
+    "word": "transaction",
+    "phonetic": "/trænˈzækʃən/",
+    "pos": "n.",
+    "definition_zh": "交易",
+    "example": "Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction.",
+    "example_zh": "數百艘航行香料之路的船隻在此停靠，帶來香料和商品進行交易。",
+    "usage": [
+      {
+        "pattern": "financial transaction",
+        "meaning_zh": "金融交易"
+      }
+    ],
+    "frequency_rank": 215,
+    "level": "高中"
+  },
+  {
+    "word": "rule",
+    "phonetic": "/ruːl/",
+    "pos": "n.",
+    "definition_zh": "統治；規則",
+    "example": "Since the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British.",
+    "example_zh": "自16世紀以來，尚吉巴先後受到葡萄牙人、阿拉伯人，然後是英國人的統治。",
+    "usage": [
+      {
+        "pattern": "rule of law",
+        "meaning_zh": "法治"
+      }
+    ],
+    "frequency_rank": 216,
+    "level": "高中"
+  },
+  {
+    "word": "cultural",
+    "phonetic": "/ˈkʌltʃərəl/",
+    "pos": "adj.",
+    "definition_zh": "文化的",
+    "example": "The unique cultural intersections, scented with the aroma of cloves, give these jewels on the Indian Ocean an amazing charm.",
+    "example_zh": "獨特的文化交匯，飄散著丁香的香氣，賦予印度洋上的這些寶石迷人的魅力。",
+    "usage": [
+      {
+        "pattern": "cultural exchange",
+        "meaning_zh": "文化交流"
+      }
+    ],
+    "frequency_rank": 217,
+    "level": "高中"
+  },
+  {
+    "word": "intersections",
+    "phonetic": "/ˌɪntərˈsɛkʃənz/",
+    "pos": "n.",
+    "definition_zh": "交叉點；交匯處",
+    "example": "The unique cultural intersections, scented with the aroma of cloves, give these jewels on the Indian Ocean an amazing charm.",
+    "example_zh": "獨特的文化交匯，飄散著丁香的香氣，賦予印度洋上的這些寶石迷人的魅力。",
+    "usage": [
+      {
+        "pattern": "road intersection",
+        "meaning_zh": "道路交叉口"
+      }
+    ],
+    "frequency_rank": 218,
+    "level": "高中"
+  },
+  {
+    "word": "scented",
+    "phonetic": "/ˈsɛntɪd/",
+    "pos": "adj.",
+    "definition_zh": "有香味的",
+    "example": "The unique cultural intersections, scented with the aroma of cloves, vanilla, and cinnamon, give these jewels on the Indian Ocean an amazing charm.",
+    "example_zh": "獨特的文化交匯，飄散著丁香、香草和肉桂的香氣，賦予印度洋上的這些寶石迷人的魅力。",
+    "usage": [
+      {
+        "pattern": "scented candle",
+        "meaning_zh": "香氛蠟燭"
+      }
+    ],
+    "frequency_rank": 219,
+    "level": "高中"
+  },
+  {
+    "word": "aroma",
+    "phonetic": "/əˈroʊmə/",
+    "pos": "n.",
+    "definition_zh": "香氣；芬芳",
+    "example": "The unique cultural intersections, scented with the aroma of cloves, vanilla, and cinnamon, give these jewels on the Indian Ocean an amazing charm.",
+    "example_zh": "獨特的文化交匯，飄散著丁香、香草和肉桂的香氣，賦予印度洋上的這些寶石迷人的魅力。",
+    "usage": [
+      {
+        "pattern": "the aroma of coffee",
+        "meaning_zh": "咖啡的香氣"
+      }
+    ],
+    "frequency_rank": 220,
+    "level": "高中"
+  },
+  {
+    "word": "cloves",
+    "phonetic": "/kloʊvz/",
+    "pos": "n.",
+    "definition_zh": "丁香（香料）",
+    "example": "The cultural intersections are scented with the aroma of cloves, vanilla, and cinnamon.",
+    "example_zh": "文化交匯處飄散著丁香、香草和肉桂的香氣。",
+    "usage": [],
+    "frequency_rank": 221,
+    "level": "高中"
+  },
+  {
+    "word": "vanilla",
+    "phonetic": "/vəˈnɪlə/",
+    "pos": "n.",
+    "definition_zh": "香草",
+    "example": "The cultural intersections are scented with the aroma of cloves, vanilla, and cinnamon.",
+    "example_zh": "文化交匯處飄散著丁香、香草和肉桂的香氣。",
+    "usage": [],
+    "frequency_rank": 222,
+    "level": "高中"
+  },
+  {
+    "word": "cinnamon",
+    "phonetic": "/ˈsɪnəmən/",
+    "pos": "n.",
+    "definition_zh": "肉桂",
+    "example": "The cultural intersections are scented with the aroma of cloves, vanilla, and cinnamon.",
+    "example_zh": "文化交匯處飄散著丁香、香草和肉桂的香氣。",
+    "usage": [],
+    "frequency_rank": 223,
+    "level": "高中"
+  },
+  {
+    "word": "plant-based",
+    "phonetic": "/ˈplænt beɪst/",
+    "pos": "adj.",
+    "definition_zh": "植物性的；植物為主的",
+    "example": "Even if you're not a vegetarian, there's a good chance you've heard of plant-based meat.",
+    "example_zh": "即使你不是素食者，你也很可能聽過植物性肉類。",
+    "usage": [
+      {
+        "pattern": "plant-based diet",
+        "meaning_zh": "植物性飲食"
+      }
+    ],
+    "frequency_rank": 224,
+    "level": "高中"
+  },
+  {
+    "word": "substitutes",
+    "phonetic": "/ˈsʌbstɪtuːts/",
+    "pos": "n.",
+    "definition_zh": "替代品",
+    "example": "These meat substitutes are often advertised as beneficial for the environment.",
+    "example_zh": "這些肉類替代品通常被宣傳為對環境有益。",
+    "usage": [
+      {
+        "pattern": "sugar substitutes",
+        "meaning_zh": "代糖"
+      }
+    ],
+    "frequency_rank": 225,
+    "level": "高中"
+  },
+  {
+    "word": "beneficial",
+    "phonetic": "/ˌbɛnɪˈfɪʃəl/",
+    "pos": "adj.",
+    "definition_zh": "有益的",
+    "example": "These meat substitutes are often advertised as beneficial for the environment.",
+    "example_zh": "這些肉類替代品通常被宣傳為對環境有益。",
+    "usage": [
+      {
+        "pattern": "beneficial to health",
+        "meaning_zh": "有益健康的"
+      }
+    ],
+    "frequency_rank": 226,
+    "level": "高中"
+  },
+  {
+    "word": "patties",
+    "phonetic": "/ˈpætiːz/",
+    "pos": "n.",
+    "definition_zh": "肉餅",
+    "example": "Read the following chatroom discussions about GreenBurger, a product using alternative-meat patties.",
+    "example_zh": "閱讀以下關於 GreenBurger（一種使用替代肉餅的產品）的聊天室討論。",
+    "usage": [
+      {
+        "pattern": "burger patties",
+        "meaning_zh": "漢堡肉餅"
+      }
+    ],
+    "frequency_rank": 227,
+    "level": "高中"
+  },
+  {
+    "word": "prep cook",
+    "phonetic": "/prɛp kʊk/",
+    "pos": "n.",
+    "definition_zh": "準備廚師（負責準備食材）",
+    "example": "I tried one when I was a prep cook for Next Level Burgers.",
+    "example_zh": "我當 Next Level Burgers 的準備廚師時曾試過一次。",
+    "usage": [],
+    "frequency_rank": 228,
+    "level": "高中"
+  },
+  {
+    "word": "awful",
+    "phonetic": "/ˈɔːfəl/",
+    "pos": "adj.",
+    "definition_zh": "糟糕的；可怕的",
+    "example": "It tasted awful, just like mashed peas gone to rot.",
+    "example_zh": "它嚐起來很糟糕，就像爛掉的豌豆泥。",
+    "usage": [
+      {
+        "pattern": "feel awful",
+        "meaning_zh": "感覺糟透了"
+      }
+    ],
+    "frequency_rank": 229,
+    "level": "高中"
+  },
+  {
+    "word": "mashed",
+    "phonetic": "/mæʃt/",
+    "pos": "adj.",
+    "definition_zh": "搗碎的",
+    "example": "It tasted awful, just like mashed peas gone to rot.",
+    "example_zh": "它嚐起來很糟糕，就像爛掉的豌豆泥。",
+    "usage": [
+      {
+        "pattern": "mashed potatoes",
+        "meaning_zh": "馬鈴薯泥"
+      }
+    ],
+    "frequency_rank": 230,
+    "level": "高中"
+  },
+  {
+    "word": "processed",
+    "phonetic": "/ˈprɒsɛst/",
+    "pos": "adj.",
+    "definition_zh": "加工的",
+    "example": "They are heavily processed with more calories and sodium than meat and are more expensive too!",
+    "example_zh": "它們經過大量加工，比肉類含有更多卡路里和鈉，而且也更貴！",
+    "usage": [
+      {
+        "pattern": "processed food",
+        "meaning_zh": "加工食品"
+      }
+    ],
+    "frequency_rank": 231,
+    "level": "高中"
+  },
+  {
+    "word": "sodium",
+    "phonetic": "/ˈsoʊdiəm/",
+    "pos": "n.",
+    "definition_zh": "鈉",
+    "example": "They are heavily processed with more calories and sodium than meat.",
+    "example_zh": "它們經過大量加工，比肉類含有更多卡路里和鈉。",
+    "usage": [],
+    "frequency_rank": 232,
+    "level": "高中"
+  },
+  {
+    "word": "eschew",
+    "phonetic": "/ɪsˈtʃuː/",
+    "pos": "v.",
+    "definition_zh": "避開；戒除",
+    "example": "Unless you are a strict vegetarian and eschew meat for ethical reasons, meat is surely a better deal.",
+    "example_zh": "除非你是嚴格的素食者並出於道德原因而避開肉類，否則肉類肯定更划算。",
+    "usage": [],
+    "frequency_rank": 233,
+    "level": "高中"
+  },
+  {
+    "word": "ethical",
+    "phonetic": "/ˈɛθɪkəl/",
+    "pos": "adj.",
+    "definition_zh": "倫理的；道德的",
+    "example": "Unless you are a strict vegetarian and eschew meat for ethical reasons, meat is surely a better deal.",
+    "example_zh": "除非你是嚴格的素食者並出於道德原因而避開肉類，否則肉類肯定更划算。",
+    "usage": [
+      {
+        "pattern": "ethical dilemma",
+        "meaning_zh": "道德困境"
+      }
+    ],
+    "frequency_rank": 234,
+    "level": "高中"
+  },
+  {
+    "word": "carnivore",
+    "phonetic": "/ˈkɑːrnɪvɔːr/",
+    "pos": "n.",
+    "definition_zh": "肉食動物；肉食者",
+    "example": "I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while.",
+    "example_zh": "我絕對是個肉食者，也偏愛肉類，但我偶爾選擇那些假肉產品也沒什麼不對。",
+    "usage": [],
+    "frequency_rank": 235,
+    "level": "高中"
+  },
+  {
+    "word": "craving",
+    "phonetic": "/ˈkreɪvɪŋ/",
+    "pos": "n.",
+    "definition_zh": "渴望；渴求",
+    "example": "Especially when a burger craving hits...a GreenBurger does the trick.",
+    "example_zh": "特別是當漢堡癮來襲時...GreenBurger 就能派上用場。",
+    "usage": [
+      {
+        "pattern": "food craving",
+        "meaning_zh": "對食物的渴望"
+      }
+    ],
+    "frequency_rank": 236,
+    "level": "高中"
+  },
+  {
+    "word": "killer",
+    "phonetic": "/ˈkɪlər/",
+    "pos": "n.",
+    "definition_zh": "殺手；致命的東西",
+    "example": "It's a killer for sure if eaten regularly.",
+    "example_zh": "如果經常吃，那肯定會要命。",
+    "usage": [
+      {
+        "pattern": "a real killer",
+        "meaning_zh": "真正的難題（或非常棒的東西）"
+      }
+    ],
+    "frequency_rank": 237,
+    "level": "高中"
+  },
+  {
+    "word": "concerns",
+    "phonetic": "/kənˈsɜːrnz/",
+    "pos": "n.",
+    "definition_zh": "關注點；擔憂",
+    "example": "The chatroom discussions about GreenBurger mainly focus on the issues of price and health concerns.",
+    "example_zh": "聊天室中關於 GreenBurger 的討論主要集中在價格和健康問題上。",
+    "usage": [
+      {
+        "pattern": "raise concerns",
+        "meaning_zh": "引起關注"
+      }
+    ],
+    "frequency_rank": 238,
+    "level": "高中"
+  },
+  {
+    "word": "circumstances",
+    "phonetic": "/ˈsɜːrkəmstænsɪz/",
+    "pos": "n.",
+    "definition_zh": "情況；環境",
+    "example": "GreenBurger can be a choice for the chatroom participants themselves only under certain circumstances.",
+    "example_zh": "GreenBurger 只能在某些特定情況下成為聊天室參與者們的選擇。",
+    "usage": [
+      {
+        "pattern": "under no circumstances",
+        "meaning_zh": "在任何情況下都不"
+      }
+    ],
+    "frequency_rank": 239,
+    "level": "高中"
+  },
+  {
+    "word": "purpose",
+    "phonetic": "/ˈpɜːrpəs/",
+    "pos": "n.",
+    "definition_zh": "目的；用途",
+    "example": "The phrase 'does the trick' means 'serves the purpose' or 'works well'.",
+    "example_zh": "片語 'does the trick' 的意思是「達到目的」或「效果很好」。",
+    "usage": [
+      {
+        "pattern": "for the purpose of",
+        "meaning_zh": "為了...的目的"
+      }
+    ],
+    "frequency_rank": 240,
+    "level": "高中"
+  },
+  {
+    "word": "humidity",
+    "phonetic": "/hjuːˈmɪdəti/",
+    "pos": "n.",
+    "definition_zh": "濕度",
+    "example": "The roasting heat and high humidity made me feel hot and sticky.",
+    "example_zh": "炙熱的高濕度讓我覺得又熱又黏。",
+    "usage": [
+      {
+        "pattern": "high/low humidity",
+        "meaning_zh": "高/低濕度"
+      }
+    ],
+    "frequency_rank": 241,
+    "level": "高中"
+  },
+  {
+    "word": "compulsory",
+    "phonetic": "/kəmˈpʌlsəri/",
+    "pos": "adj.",
+    "definition_zh": "義務的；強制的",
+    "example": "In some countries, military service is compulsory for men only.",
+    "example_zh": "在某些國家，兵役僅對男性是強制性的。",
+    "usage": [
+      {
+        "pattern": "compulsory education",
+        "meaning_zh": "義務教育"
+      }
+    ],
+    "frequency_rank": 242,
+    "level": "高中"
+  },
+  {
+    "word": "credit",
+    "phonetic": "/ˈkrɛdɪt/",
+    "pos": "n.",
+    "definition_zh": "功勞；讚揚；學分",
+    "example": "The team complained that its leader always took the credit for all the hard work done by the team members.",
+    "example_zh": "團隊抱怨他們的領導者總是將所有團隊成員的辛勤工作歸功於自己。",
+    "usage": [
+      {
+        "pattern": "take credit for",
+        "meaning_zh": "將...歸功於自己"
+      }
+    ],
+    "frequency_rank": 243,
+    "level": "高中"
+  },
+  {
+    "word": "critically",
+    "phonetic": "/ˈkrɪtɪkli/",
+    "pos": "adv.",
+    "definition_zh": "危急地；嚴峻地",
+    "example": "As blood supplies have fallen to a critically low level, many hospitals are making an appeal for the public to donate blood.",
+    "example_zh": "由於血庫供應量已降至危急水平，許多醫院正在呼籲民眾捐血。",
+    "usage": [
+      {
+        "pattern": "critically ill",
+        "meaning_zh": "病危的"
+      }
+    ],
+    "frequency_rank": 244,
+    "level": "高中"
+  },
+  {
+    "word": "randomly",
+    "phonetic": "/ˈrændəmli/",
+    "pos": "adv.",
+    "definition_zh": "隨機地；任意地",
+    "example": "David felt disappointed when he found out that he could not choose his study partners, but would be randomly placed in a study group.",
+    "example_zh": "大衛得知他不能選擇學習夥伴，而是將被隨機分配到學習小組時感到失望。",
+    "usage": [],
+    "frequency_rank": 245,
+    "level": "高中"
+  },
+  {
+    "word": "potentially",
+    "phonetic": "/pəˈtɛnʃəli/",
+    "pos": "adv.",
+    "definition_zh": "潛在地；可能地",
+    "example": "Mystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served.",
+    "example_zh": "神秘顧客是受僱於商店購物並收集資料的付費消費者。他們被派往各種服務型企業，包括商店、餐廳和銀行——潛在的任何有顧客服務的地方。",
+    "usage": [],
+    "frequency_rank": 246,
+    "level": "高中"
+  },
+  {
+    "word": "competitive edge",
+    "phonetic": "/kəmˈpɛtɪtɪv ɛdʒ/",
+    "pos": "n.",
+    "definition_zh": "競爭優勢",
+    "example": "In this way, these secret shoppers may help a business gain a competitive edge.",
+    "example_zh": "透過這種方式，這些神秘顧客可以幫助企業獲得競爭優勢。",
+    "usage": [],
+    "frequency_rank": 247,
+    "level": "高中"
+  },
+  {
+    "word": "reluctantly",
+    "phonetic": "/rɪˈlʌktəntli/",
+    "pos": "adv.",
+    "definition_zh": "不情願地；勉強地",
+    "example": "The modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work.",
+    "example_zh": "現代上班族起床，呻吟一聲，關掉鬧鐘，然後不情願地起身開始一天的工作。",
+    "usage": [],
+    "frequency_rank": 248,
+    "level": "高中"
+  },
+  {
+    "word": "toil",
+    "phonetic": "/tɔɪl/",
+    "pos": "v.",
+    "definition_zh": "辛勞工作；艱苦勞動",
+    "example": "During the second Industrial Age, people toiled at unusual hours in mines or factories.",
+    "example_zh": "在第二次工業革命期間，人們在礦山或工廠裡不分晝夜地辛勞工作。",
+    "usage": [
+      {
+        "pattern": "toil away",
+        "meaning_zh": "埋頭苦幹"
+      }
+    ],
+    "frequency_rank": 249,
+    "level": "高中"
+  },
+  {
+    "word": "unreliable",
+    "phonetic": "/ˌʌnrɪˈlaɪəbəl/",
+    "pos": "adj.",
+    "definition_zh": "不可靠的；不值得信賴的",
+    "example": "But the new device was still relatively expensive and unreliable.",
+    "example_zh": "但這個新設備仍然相對昂貴且不可靠。",
+    "usage": [],
+    "frequency_rank": 250,
+    "level": "高中"
+  },
+  {
+    "word": "rely on",
+    "phonetic": "/rɪˈlaɪ ɒn/",
+    "pos": "ph.v.",
+    "definition_zh": "依賴；依靠",
+    "example": "British workers thus relied on a human alarm clock known as a “knocker-up.”",
+    "example_zh": "因此，英國工人依賴一位被稱為「叫醒工」的人體鬧鐘。",
+    "usage": [],
+    "frequency_rank": 251,
+    "level": "高中"
+  },
+  {
+    "word": "widespread",
+    "phonetic": "/ˈwaɪdsprɛd/",
+    "pos": "adj.",
+    "definition_zh": "廣泛的；普遍的",
+    "example": "While the practice continued in some parts of the country until the 1970s, it declined as alarm clocks became more widespread and affordable.",
+    "example_zh": "儘管這種做法在該國部分地區持續到1970年代，但隨著鬧鐘變得更為普及和負擔得起，它逐漸式微。",
+    "usage": [],
+    "frequency_rank": 252,
+    "level": "高中"
+  },
+  {
+    "word": "distinctive",
+    "phonetic": "/dɪˈstɪŋktɪv/",
+    "pos": "adj.",
+    "definition_zh": "獨特的；有特色的",
+    "example": "Beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot match the personal attention coming from the distinctive tap of a pea shooter.",
+    "example_zh": "嘟嘟作響的鬧鐘和播放早晨音樂的智慧型手機當然更簡單方便。然而，它們無法比擬豆槍獨特輕敲所帶來的個人關注。",
+    "usage": [],
+    "frequency_rank": 253,
+    "level": "高中"
+  },
+  {
+    "word": "overlook",
+    "phonetic": "/ˌoʊvərˈlʊk/",
+    "pos": "v.",
+    "definition_zh": "俯瞰；忽略",
+    "example": "On a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind.",
+    "example_zh": "在日本東北部俯瞰著2011年海嘯襲擊的大槌町的山頂上，有一座白色電話亭孤零零地立在風中。",
+    "usage": [],
+    "frequency_rank": 254,
+    "level": "高中"
+  },
+  {
+    "word": "tsunami",
+    "phonetic": "/tsuːˈnɑːmi/",
+    "pos": "n.",
+    "definition_zh": "海嘯",
+    "example": "On a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind.",
+    "example_zh": "在日本東北部俯瞰著2011年海嘯襲擊的大槌町的山頂上，有一座白色電話亭孤零零地立在風中。",
+    "usage": [],
+    "frequency_rank": 255,
+    "level": "高中"
+  },
+  {
+    "word": "grieve",
+    "phonetic": "/ɡriːv/",
+    "pos": "v.",
+    "definition_zh": "悲傷；哀悼",
+    "example": "Grieving is a natural mechanism for coping with loss of a loved one, and people grieve in various ways.",
+    "example_zh": "悲傷是應對摯愛逝去的自然機制，人們悲傷的方式各異。",
+    "usage": [
+      {
+        "pattern": "grieve over",
+        "meaning_zh": "為...悲傷"
+      }
+    ],
+    "frequency_rank": 256,
+    "level": "高中"
+  },
+  {
+    "word": "departed",
+    "phonetic": "/dɪˈpɑːrtɪd/",
+    "pos": "adj.",
+    "definition_zh": "已故的；逝去的",
+    "example": "The lonely \"wind phone\" serves to connect family members to their departed loved ones who died in the tsunami that claimed 18,000 lives.",
+    "example_zh": "這座孤獨的「風之電話」用來連結家人與他們在奪走18,000條生命的這場海嘯中逝去的摯愛。",
+    "usage": [
+      {
+        "pattern": "the departed",
+        "meaning_zh": "逝者"
+      }
+    ],
+    "frequency_rank": 257,
+    "level": "高中"
+  },
+  {
+    "word": "fateful",
+    "phonetic": "/ˈfeɪtfʊl/",
+    "pos": "adj.",
+    "definition_zh": "命運攸關的；重大的",
+    "example": "People come to speak to those they have lost, to say the words they never got to say on that fateful day.",
+    "example_zh": "人們來這裡對他們失去的親人說話，說出他們在那命運攸關的一天沒能說出的話。",
+    "usage": [
+      {
+        "pattern": "fateful encounter",
+        "meaning_zh": "命運的邂逅"
+      }
+    ],
+    "frequency_rank": 258,
+    "level": "高中"
+  },
+  {
+    "word": "sorrow",
+    "phonetic": "/ˈsɒroʊ/",
+    "pos": "n.",
+    "definition_zh": "悲傷；悲痛",
+    "example": "Feeling that he needed a private space to help him navigate through the sorrow, Sasaki positioned a booth where he could \"speak\" to the dead relative.",
+    "example_zh": "佐佐木覺得他需要一個私人空間來幫助他度過悲傷，於是設置了一個電話亭，在那裡他可以「對話」已故的親戚。",
+    "usage": [
+      {
+        "pattern": "deep sorrow",
+        "meaning_zh": "深切的悲痛"
+      }
+    ],
+    "frequency_rank": 259,
+    "level": "高中"
+  },
+  {
+    "word": "manageable",
+    "phonetic": "/ˈmænɪdʒəbəl/",
+    "pos": "adj.",
+    "definition_zh": "易處理的；可管理的",
+    "example": "Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more manageable for him.",
+    "example_zh": "因此，風之電話讓佐佐木創造了一種具有深沉個人意義的單向對話，並使他的悲傷過程更易於應對。",
+    "usage": [],
+    "frequency_rank": 260,
+    "level": "高中"
+  },
+  {
+    "word": "bridge",
+    "phonetic": "/brɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "橋樑；連結",
+    "example": "News about the phone gradually spread, and the booth has become a bridge between the living and the dead.",
+    "example_zh": "關於這個電話亭的消息逐漸傳開，它已成為生者與逝者之間的橋樑。",
+    "usage": [
+      {
+        "pattern": "build a bridge",
+        "meaning_zh": "建立連結"
+      }
+    ],
+    "frequency_rank": 261,
+    "level": "高中"
+  },
+  {
+    "word": "mechanism",
+    "phonetic": "/ˈmɛkənɪzəm/",
+    "pos": "n.",
+    "definition_zh": "機制；機械裝置",
+    "example": "Grieving is a natural mechanism for coping with loss of a loved one, and people grieve in various ways.",
+    "example_zh": "悲傷是應對摯愛逝去的自然機制，人們悲傷的方式各異。",
+    "usage": [
+      {
+        "pattern": "defense mechanism",
+        "meaning_zh": "防禦機制"
+      }
+    ],
+    "frequency_rank": 262,
+    "level": "高中"
+  },
+  {
+    "word": "cope with",
+    "phonetic": "/koʊp wɪð/",
+    "pos": "ph.v.",
+    "definition_zh": "應對；處理",
+    "example": "Grieving is a natural mechanism for coping with loss of a loved one.",
+    "example_zh": "悲傷是應對摯愛逝去的自然機制。",
+    "usage": [],
+    "frequency_rank": 263,
+    "level": "高中"
+  },
+  {
+    "word": "surgeon",
+    "phonetic": "/ˈsɜːrdʒən/",
+    "pos": "n.",
+    "definition_zh": "外科醫生",
+    "example": "While Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his back.",
+    "example_zh": "當達特茅斯學院的外科醫生溫斯坦博士試圖搬起一個沉重的箱子時，他扭傷了背部。",
+    "usage": [],
+    "frequency_rank": 264,
+    "level": "高中"
+  },
+  {
+    "word": "agonizing",
+    "phonetic": "/ˈæɡənaɪzɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "痛苦難忍的；令人極度痛苦的",
+    "example": "The pain was agonizing.",
+    "example_zh": "疼痛難忍。",
+    "usage": [],
+    "frequency_rank": 265,
+    "level": "高中"
+  },
+  {
+    "word": "outdated",
+    "phonetic": "/ˌaʊtˈdeɪtɪd/",
+    "pos": "adj.",
+    "definition_zh": "過時的；陳舊的",
+    "example": "But Dr. Weinstein says that approach is outdated and counterproductive.",
+    "example_zh": "但溫斯坦博士表示，這種方法已經過時且適得其反。",
+    "usage": [],
+    "frequency_rank": 266,
+    "level": "高中"
+  },
+  {
+    "word": "counterproductive",
+    "phonetic": "/ˌkaʊntərprəˈdʌktɪv/",
+    "pos": "adj.",
+    "definition_zh": "適得其反的",
+    "example": "But Dr. Weinstein says that approach is outdated and counterproductive.",
+    "example_zh": "但溫斯坦博士表示，這種方法已經過時且適得其反。",
+    "usage": [],
+    "frequency_rank": 267,
+    "level": "高中"
+  },
+  {
+    "word": "consult",
+    "phonetic": "/kənˈsʌlt/",
+    "pos": "v.",
+    "definition_zh": "諮詢；請教",
+    "example": "In fact, when active people consult him, he usually tells them to just keep exercising.",
+    "example_zh": "事實上，當活躍的人們向他諮詢時，他通常會告訴他們繼續運動。",
+    "usage": [
+      {
+        "pattern": "consult a doctor",
+        "meaning_zh": "看醫生"
+      }
+    ],
+    "frequency_rank": 268,
+    "level": "高中"
+  },
+  {
+    "word": "nevertheless",
+    "phonetic": "/ˌnɛvərðəˈlɛs/",
+    "pos": "adv.",
+    "definition_zh": "儘管如此；然而",
+    "example": "They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly.",
+    "example_zh": "儘管如此，他們仍告誡可能需要減少運動量，例如縮短跑步距離或放慢速度。",
+    "usage": [],
+    "frequency_rank": 269,
+    "level": "高中"
+  },
+  {
+    "word": "moderate",
+    "phonetic": "/ˈmɒdərɪt/",
+    "pos": "adj.",
+    "definition_zh": "適度的；中等的",
+    "example": "Unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.",
+    "example_zh": "除非受傷涉及骨折或肌肉撕裂等嚴重情況，適度運動實際上可以加速癒合。",
+    "usage": [
+      {
+        "pattern": "moderate exercise",
+        "meaning_zh": "適度運動"
+      }
+    ],
+    "frequency_rank": 270,
+    "level": "高中"
+  },
+  {
+    "word": "rule out",
+    "phonetic": "/ruːl aʊt/",
+    "pos": "ph.v.",
+    "definition_zh": "排除；排除可能性",
+    "example": "If a serious injury is ruled out and the pain is not getting worse after exercising, then the exercise “makes a lot of sense.\"",
+    "example_zh": "如果排除了嚴重的傷害，並且運動後疼痛沒有加劇，那麼運動就「很有道理」。",
+    "usage": [],
+    "frequency_rank": 271,
+    "level": "高中"
+  },
+  {
+    "word": "burr",
+    "phonetic": "/bɜːr/",
+    "pos": "n.",
+    "definition_zh": "芒刺；帶刺的果實",
+    "example": "Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants.",
+    "example_zh": "他們回家後，他發現狗的毛皮和他的褲子上沾滿了許多芒刺（植物的）。",
+    "usage": [],
+    "frequency_rank": 272,
+    "level": "高中"
+  },
+  {
+    "word": "microscope",
+    "phonetic": "/ˈmaɪkrəskoʊp/",
+    "pos": "n.",
+    "definition_zh": "顯微鏡",
+    "example": "He immediately rushed to his microscope and examined the burrs attached on his pants.",
+    "example_zh": "他立刻衝到顯微鏡前，檢查褲子上的芒刺。",
+    "usage": [
+      {
+        "pattern": "under a microscope",
+        "meaning_zh": "在顯微鏡下"
+      }
+    ],
+    "frequency_rank": 273,
+    "level": "高中"
+  },
+  {
+    "word": "lightbulb moment",
+    "phonetic": "/ˈlaɪtbʌlb ˈmoʊmənt/",
+    "pos": "n.",
+    "definition_zh": "靈光一閃；頓悟時刻",
+    "example": "He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.",
+    "example_zh": "他立刻衝到顯微鏡前，檢查褲子上的芒刺——感覺靈光一閃。",
+    "usage": [],
+    "frequency_rank": 274,
+    "level": "高中"
+  },
+  {
+    "word": "cling to",
+    "phonetic": "/klɪŋ tuː/",
+    "pos": "ph.v.",
+    "definition_zh": "緊抓；依附",
+    "example": "De Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants.",
+    "example_zh": "德梅斯特拉觀察到，這些芒刺，肉眼看來是直的，實際上含有許多小鉤子，緊緊抓住他褲子織物上的環圈。",
+    "usage": [],
+    "frequency_rank": 275,
+    "level": "高中"
+  },
+  {
+    "word": "fabric",
+    "phonetic": "/ˈfæbrɪk/",
+    "pos": "n.",
+    "definition_zh": "織物；布料",
+    "example": "De Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants.",
+    "example_zh": "德梅斯特拉觀察到，這些芒刺，肉眼看來是直的，實際上含有許多小鉤子，緊緊抓住他褲子織物上的環圈。",
+    "usage": [],
+    "frequency_rank": 276,
+    "level": "高中"
+  },
+  {
+    "word": "fastener",
+    "phonetic": "/ˈfæsnər/",
+    "pos": "n.",
+    "definition_zh": "扣件；緊固件",
+    "example": "He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.",
+    "example_zh": "他決定，如果他能重現同樣的效果，製造出能牢固結合的鉤環，他就能生產出多用途的強效扣件。",
+    "usage": [],
+    "frequency_rank": 277,
+    "level": "高中"
+  },
+  {
+    "word": "withstand",
+    "phonetic": "/wɪðˈstænd/",
+    "pos": "v.",
+    "definition_zh": "承受；禁得起",
+    "example": "De Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures.",
+    "example_zh": "德梅斯特拉的首要挑戰是為一個強效黏合系統找到一種織物。他首先嘗試了棉花，但它被證明太軟，無法承受反覆的開合。",
+    "usage": [
+      {
+        "pattern": "withstand pressure",
+        "meaning_zh": "承受壓力"
+      }
+    ],
+    "frequency_rank": 278,
+    "level": "高中"
+  },
+  {
+    "word": "durable",
+    "phonetic": "/ˈdʊrəbəl/",
+    "pos": "adj.",
+    "definition_zh": "耐用的；持久的",
+    "example": "He eventually settled on heat-treated nylon, a strong and durable substance.",
+    "example_zh": "他最終選定了經過熱處理的尼龍，這是一種堅固耐用的物質。",
+    "usage": [],
+    "frequency_rank": 279,
+    "level": "高中"
+  },
+  {
+    "word": "patent",
+    "phonetic": "/ˈpætənt/",
+    "pos": "n.",
+    "definition_zh": "專利",
+    "example": "Named “Velcro,” from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955.",
+    "example_zh": "這個新產品被命名為「Velcro」（取自法語詞彙velours，意為天鵝絨，和crochet，意為鉤子），並於1955年獲得瑞士政府的專利。",
+    "usage": [
+      {
+        "pattern": "apply for a patent",
+        "meaning_zh": "申請專利"
+      }
+    ],
+    "frequency_rank": 280,
+    "level": "高中"
+  },
+  {
+    "word": "mass-produce",
+    "phonetic": "/ˈmæs prəˈduːs/",
+    "pos": "v.",
+    "definition_zh": "大量生產",
+    "example": "De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.",
+    "example_zh": "德梅斯特拉因此開始大量生產魔鬼氈，在歐洲以及後來在加拿大和美國開設工廠。",
+    "usage": [],
+    "frequency_rank": 281,
+    "level": "高中"
+  },
+  {
+    "word": "fare well",
+    "phonetic": "/fɛər wɛl/",
+    "pos": "ph.v.",
+    "definition_zh": "表現好；進展順利",
+    "example": "Initially Velcro did not fare well.",
+    "example_zh": "最初，魔鬼氈的銷路並不好。",
+    "usage": [],
+    "frequency_rank": 282,
+    "level": "高中"
+  },
+  {
+    "word": "astronaut",
+    "phonetic": "/ˈæstrənɔːt/",
+    "pos": "n.",
+    "definition_zh": "太空人",
+    "example": "In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts.",
+    "example_zh": "在1960年代初期，當美國國家航空暨太空總署（NASA）開始將其用於太空設備及太空人裝備中時，這項產品的普及率大幅提升。",
+    "usage": [],
+    "frequency_rank": 283,
+    "level": "高中"
+  },
+  {
+    "word": "transplantation",
+    "phonetic": "/ˌtrænsplænˈteɪʃən/",
+    "pos": "n.",
+    "definition_zh": "移植",
+    "example": "Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.",
+    "example_zh": "最令人印象深刻的是，這個神奇的扣件被用於首次人類人工心臟移植中，以固定裝置的各個部件。",
+    "usage": [
+      {
+        "pattern": "organ transplantation",
+        "meaning_zh": "器官移植"
+      }
+    ],
+    "frequency_rank": 284,
+    "level": "高中"
+  },
+  {
+    "word": "splendor",
+    "phonetic": "/ˈsplɛndər/",
+    "pos": "n.",
+    "definition_zh": "壯麗；輝煌",
+    "example": "His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people.",
+    "example_zh": "他生動的畫作將非凡景觀的壯麗呈現在美國人民眼前。",
+    "usage": [],
+    "frequency_rank": 285,
+    "level": "高中"
+  },
+  {
+    "word": "extraordinary",
+    "phonetic": "/ɪkˈstrɔːrdɪnɛri/",
+    "pos": "adj.",
+    "definition_zh": "非凡的；卓越的",
+    "example": "His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people.",
+    "example_zh": "他生動的畫作將非凡景觀的壯麗呈現在美國人民眼前。",
+    "usage": [],
+    "frequency_rank": 286,
+    "level": "高中"
+  },
+  {
+    "word": "illustrator",
+    "phonetic": "/ˈɪləstreɪtər/",
+    "pos": "n.",
+    "definition_zh": "插畫家",
+    "example": "Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly.",
+    "example_zh": "莫蘭在繪畫方面展現出卓越的天賦，很快被《斯克里布納月刊》聘為插畫家。",
+    "usage": [],
+    "frequency_rank": 287,
+    "level": "高中"
+  },
+  {
+    "word": "expedition",
+    "phonetic": "/ˌɛkspəˈdɪʃən/",
+    "pos": "n.",
+    "definition_zh": "探險；遠征",
+    "example": "In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone.",
+    "example_zh": "1871年，他被任命為納撒尼爾·P·蘭福德（Nathaniel P. Langford）所著《黃石奇觀》一書繪製插畫，蘭福德曾參與黃石地區的探險。",
+    "usage": [
+      {
+        "pattern": "mount an expedition",
+        "meaning_zh": "組織遠征"
+      }
+    ],
+    "frequency_rank": 288,
+    "level": "高中"
+  },
+  {
+    "word": "captivate",
+    "phonetic": "/ˈkæptɪveɪt/",
+    "pos": "v.",
+    "definition_zh": "迷住；吸引",
+    "example": "Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.",
+    "example_zh": "莫蘭被蘭福德所描述的極其奇幻的景象所吸引，渴望親自一睹這片奇特的地區。",
+    "usage": [],
+    "frequency_rank": 289,
+    "level": "高中"
+  },
+  {
+    "word": "utterly",
+    "phonetic": "/ˈʌtərli/",
+    "pos": "adv.",
+    "definition_zh": "完全地；徹底地",
+    "example": "Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.",
+    "example_zh": "莫蘭被蘭福德所描述的極其奇幻的景象所吸引，渴望親自一睹這片奇特的地區。",
+    "usage": [],
+    "frequency_rank": 290,
+    "level": "高中"
+  },
+  {
+    "word": "picturesque",
+    "phonetic": "/ˌpɪktʃərˈɛsk/",
+    "pos": "adj.",
+    "definition_zh": "如畫般的；風景如畫的",
+    "example": "Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland.",
+    "example_zh": "自從這位畫家的作品問世以來，黃石國家公園已成為一個風景如畫的仙境。",
+    "usage": [],
+    "frequency_rank": 291,
+    "level": "高中"
+  },
+  {
+    "word": "utilization",
+    "phonetic": "/ˌjuːtəlaɪˈzeɪʃən/",
+    "pos": "n.",
+    "definition_zh": "利用；使用",
+    "example": "It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.",
+    "example_zh": "它旨在鼓勵充分利用捕獲的每一條魚，並加強海鮮產品的創新。",
+    "usage": [
+      {
+        "pattern": "resource utilization",
+        "meaning_zh": "資源利用"
+      }
+    ],
+    "frequency_rank": 292,
+    "level": "高中"
+  },
+  {
+    "word": "strengthen",
+    "phonetic": "/ˈstrɛŋθən/",
+    "pos": "v.",
+    "definition_zh": "加強；鞏固",
+    "example": "It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.",
+    "example_zh": "它旨在鼓勵充分利用捕獲的每一條魚，並加強海鮮產品的創新。",
+    "usage": [
+      {
+        "pattern": "strengthen ties",
+        "meaning_zh": "加強關係"
+      }
+    ],
+    "frequency_rank": 293,
+    "level": "高中"
+  },
+  {
+    "word": "detritus",
+    "phonetic": "/dɪˈtraɪtəs/",
+    "pos": "n.",
+    "definition_zh": "廢料；碎屑",
+    "example": "Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.",
+    "example_zh": "其他開創性產品，包括Omega-3膠囊、感冒病毒預防噴劑和狗零食，都是由曾經是鱈魚捕撈廢料製成的。",
+    "usage": [],
+    "frequency_rank": 294,
+    "level": "高中"
+  },
+  {
+    "word": "accomplish",
+    "phonetic": "/əˈkɒmplɪʃ/",
+    "pos": "v.",
+    "definition_zh": "完成；實現",
+    "example": "The Icelandic success is accomplished largely through cooperative efforts across various industries.",
+    "example_zh": "冰島的成功主要透過各行業的合作努力來實現。",
+    "usage": [
+      {
+        "pattern": "accomplish a goal",
+        "meaning_zh": "達成目標"
+      }
+    ],
+    "frequency_rank": 295,
+    "level": "高中"
+  },
+  {
+    "word": "facilitate",
+    "phonetic": "/fəˈsɪlɪteɪt/",
+    "pos": "v.",
+    "definition_zh": "促進；使便利",
+    "example": "100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project.",
+    "example_zh": "「100%漁獲」主動向海產公司展示合作的重要性，並促進漁業公司與專案其他參與者之間建立寶貴的聯繫。",
+    "usage": [
+      {
+        "pattern": "facilitate communication",
+        "meaning_zh": "促進溝通"
+      }
+    ],
+    "frequency_rank": 296,
+    "level": "高中"
+  },
+  {
+    "word": "academia",
+    "phonetic": "/ˌækəˈdiːmiə/",
+    "pos": "n.",
+    "definition_zh": "學術界",
+    "example": "100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams.",
+    "example_zh": "「100%漁獲」主動向海產公司展示合作的重要性，並促進漁業公司與專案其他參與者之間建立寶貴的聯繫，包括學術界、新創公司和研發團隊。",
+    "usage": [],
+    "frequency_rank": 297,
+    "level": "高中"
+  },
+  {
+    "word": "sectors",
+    "phonetic": "/ˈsɛktərz/",
+    "pos": "n.",
+    "definition_zh": "部門；領域",
+    "example": "By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible.",
+    "example_zh": "透過知識和資訊共享，不同部門能夠提出改進的加工和處理方法，從而實現各種創新產品的創造。",
+    "usage": [
+      {
+        "pattern": "public sector",
+        "meaning_zh": "公共部門"
+      }
+    ],
+    "frequency_rank": 298,
+    "level": "高中"
+  },
+  {
+    "word": "efficiency",
+    "phonetic": "/ɪˈfɪʃənsi/",
+    "pos": "n.",
+    "definition_zh": "效率",
+    "example": "By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.",
+    "example_zh": "透過集體合作，螞蟻能夠提高其網絡的效率，並適應不斷變化的環境。",
+    "usage": [
+      {
+        "pattern": "improve efficiency",
+        "meaning_zh": "提高效率"
+      }
+    ],
+    "frequency_rank": 299,
+    "level": "高中"
+  },
+  {
+    "word": "disturbance",
+    "phonetic": "/dɪˈstɜːrbəns/",
+    "pos": "n.",
+    "definition_zh": "干擾；騷亂",
+    "example": "Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group.",
+    "example_zh": "多年來，人們一直好奇動物如何應對來自環境的干擾，以及牠們作為群體反應的潛在運作機制。",
+    "usage": [],
+    "frequency_rank": 300,
+    "level": "高中"
+  },
+  {
+    "word": "underlying",
+    "phonetic": "/ˌʌndərˈlaɪɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "根本的；潛在的",
+    "example": "Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group.",
+    "example_zh": "多年來，人們一直好奇動物如何應對來自環境的干擾，以及牠們作為群體反應的潛在運作機制。",
+    "usage": [
+      {
+        "pattern": "underlying cause",
+        "meaning_zh": "根本原因"
+      }
+    ],
+    "frequency_rank": 301,
+    "level": "高中"
+  },
+  {
+    "word": "insight",
+    "phonetic": "/ˈɪnsaɪt/",
+    "pos": "n.",
+    "definition_zh": "洞察力；見解",
+    "example": "Studies on jackdaws and turtle ants may provide some insights into the issue.",
+    "example_zh": "對寒鴉和烏龜蟻的研究可能為這個問題提供一些見解。",
+    "usage": [
+      {
+        "pattern": "gain insight into",
+        "meaning_zh": "深入了解"
+      }
+    ],
+    "frequency_rank": 302,
+    "level": "高中"
+  },
+  {
+    "word": "predator",
+    "phonetic": "/ˈprɛdətər/",
+    "pos": "n.",
+    "definition_zh": "捕食者",
+    "example": "However, if a predator (such as a fox) is present, the pattern of their flight will change immediately.",
+    "example_zh": "然而，如果捕食者（如狐狸）出現，牠們的飛行模式將立即改變。",
+    "usage": [
+      {
+        "pattern": "predator and prey",
+        "meaning_zh": "捕食者與獵物"
+      }
+    ],
+    "frequency_rank": 303,
+    "level": "高中"
+  },
+  {
+    "word": "flee",
+    "phonetic": "/fliː/",
+    "pos": "v.",
+    "definition_zh": "逃跑；逃離",
+    "example": "By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.",
+    "example_zh": "透過這樣做，鳥群成員能夠保持彼此的安全距離，從而在逃離捕食者時避免互相碰撞。",
+    "usage": [
+      {
+        "pattern": "flee from danger",
+        "meaning_zh": "逃離危險"
+      }
+    ],
+    "frequency_rank": 304,
+    "level": "高中"
+  },
+  {
+    "word": "evolve",
+    "phonetic": "/ɪˈvɒlv/",
+    "pos": "v.",
+    "definition_zh": "演化；發展",
+    "example": "Turtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests.",
+    "example_zh": "烏龜蟻常棲息在美國森林枯枝的洞穴中。牠們已經演化出搜尋策略，將食物來源與蟻巢連結起來。",
+    "usage": [
+      {
+        "pattern": "evolve into",
+        "meaning_zh": "演變成"
+      }
+    ],
+    "frequency_rank": 305,
+    "level": "高中"
+  },
+  {
+    "word": "pheromone",
+    "phonetic": "/ˈfɛrəˌmoʊn/",
+    "pos": "n.",
+    "definition_zh": "費洛蒙",
+    "example": "They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow.",
+    "example_zh": "牠們完全沿著樹枝和藤蔓移動，沿途留下費洛蒙（一種化學物質）的痕跡，以便其他螞蟻可以跟隨。",
+    "usage": [],
+    "frequency_rank": 306,
+    "level": "高中"
+  },
+  {
+    "word": "adapt to",
+    "phonetic": "/əˈdæpt tuː/",
+    "pos": "ph.v.",
+    "definition_zh": "適應",
+    "example": "By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.",
+    "example_zh": "透過集體合作，螞蟻能夠提高其網絡的效率，並適應不斷變化的環境。",
+    "usage": [],
+    "frequency_rank": 307,
+    "level": "高中"
+  },
+  {
+    "word": "academic pressure",
+    "phonetic": "/ˌækəˈdɛmɪk ˈprɛʃər/",
+    "pos": "n.",
+    "definition_zh": "學業壓力",
+    "example": "Teenagers of this generation, in addition to academic pressure, often face troubles and challenges in their lives.",
+    "example_zh": "這個世代的青少年除了有課業壓力外，生活上也常面對一些困擾與挑戰。",
+    "usage": [],
+    "frequency_rank": 308,
+    "level": "高中"
+  },
+  {
+    "word": "mood swing",
+    "phonetic": "/muːd swɪŋ/",
+    "pos": "n.",
+    "definition_zh": "情緒波動",
+    "example": "The following three images respectively show three common problems encountered by teenagers: first heartbreak, caring what others think, and mood swings.",
+    "example_zh": "下列三張圖分別呈現青少年經常遭遇的三種問題：第一次失戀、在乎他人看法、情緒波動。",
+    "usage": [],
+    "frequency_rank": 309,
+    "level": "高中"
+  },
+  {
+    "word": "faucet",
+    "phonetic": "/ˈfɔː.sɪt/",
+    "pos": "n.",
+    "definition_zh": "水龍頭",
+    "example": "If you put a container under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.",
+    "example_zh": "如果你把一個容器放在漏水的水龍頭下，你將會驚訝於24小時內收集到的水量。",
+    "usage": [
+      {
+        "pattern": "leaking faucet",
+        "meaning_zh": "漏水的水龍頭"
+      },
+      {
+        "pattern": "turn on/off the faucet",
+        "meaning_zh": "打開/關閉水龍頭"
+      }
+    ],
+    "frequency_rank": 310,
+    "level": "高中"
+  },
+  {
+    "word": "container",
+    "phonetic": "/kənˈteɪ.nər/",
+    "pos": "n.",
+    "definition_zh": "容器",
+    "example": "If you put a container under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.",
+    "example_zh": "如果你把一個容器放在漏水的水龍頭下，你將會驚訝於24小時內收集到的水量。",
+    "usage": [
+      {
+        "pattern": "food container",
+        "meaning_zh": "食物容器"
+      },
+      {
+        "pattern": "storage container",
+        "meaning_zh": "儲存容器"
+      }
+    ],
+    "frequency_rank": 311,
+    "level": "高中"
+  },
+  {
+    "word": "produce",
+    "phonetic": "/ˈprɒd.juːs/",
+    "pos": "n.",
+    "definition_zh": "農產品；產品",
+    "example": "The local farmers' market is popular as it offers a variety of fresh seasonal produce to people in the community.",
+    "example_zh": "當地農夫市集很受歡迎，因為它為社區居民提供各式各樣新鮮的時令農產品。",
+    "usage": [
+      {
+        "pattern": "fresh produce",
+        "meaning_zh": "新鮮農產品"
+      },
+      {
+        "pattern": "local produce",
+        "meaning_zh": "當地農產品"
+      }
+    ],
+    "frequency_rank": 312,
+    "level": "高中"
+  },
+  {
+    "word": "blurring",
+    "phonetic": "/ˈblɜːr.ɪŋ/",
+    "pos": "n./v. (from blur)",
+    "definition_zh": "模糊；變得模糊不清",
+    "example": "As the years have passed by, many of my childhood memories are already blurring.",
+    "example_zh": "隨著歲月流逝，許多我童年的記憶已經模糊了。",
+    "usage": [
+      {
+        "pattern": "blur the lines between A and B",
+        "meaning_zh": "模糊A和B之間的界線"
+      },
+      {
+        "pattern": "a blur of colors",
+        "meaning_zh": "色彩的模糊一片"
+      }
+    ],
+    "frequency_rank": 313,
+    "level": "高中"
+  },
+  {
+    "word": "offensive",
+    "phonetic": "/əˈfen.sɪv/",
+    "pos": "adj.",
+    "definition_zh": "冒犯的；無禮的；攻擊性的",
+    "example": "Racist remarks are by nature offensive and hurtful, and should be avoided on all occasions.",
+    "example_zh": "種族主義言論本質上是冒犯且傷人的，應在任何情況下避免。",
+    "usage": [
+      {
+        "pattern": "offensive language",
+        "meaning_zh": "冒犯性言論"
+      },
+      {
+        "pattern": "take offense",
+        "meaning_zh": "感到冒犯"
+      }
+    ],
+    "frequency_rank": 314,
+    "level": "高中"
+  },
+  {
+    "word": "draft",
+    "phonetic": "/drɑːft/",
+    "pos": "n.",
+    "definition_zh": "草稿；草案",
+    "example": "Not satisfied with the first draft of her essay, Mary revised it several times before turning it in to the teacher.",
+    "example_zh": "瑪麗對她論文的第一稿不滿意，修改了好幾次才交給老師。",
+    "usage": [
+      {
+        "pattern": "first draft",
+        "meaning_zh": "初稿"
+      },
+      {
+        "pattern": "rough draft",
+        "meaning_zh": "草圖"
+      }
+    ],
+    "frequency_rank": 315,
+    "level": "高中"
+  },
+  {
+    "word": "fragile",
+    "phonetic": "/ˈfrædʒ.aɪl/",
+    "pos": "adj.",
+    "definition_zh": "易碎的；脆弱的",
+    "example": "Left vacant for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood, making everything fragile.",
+    "example_zh": "閒置多年的廢棄房屋裡滿是厚厚的灰塵，以及一股老舊潮濕木頭的味道，讓一切都顯得脆弱。",
+    "usage": [
+      {
+        "pattern": "fragile ecosystem",
+        "meaning_zh": "脆弱的生態系統"
+      },
+      {
+        "pattern": "fragile peace",
+        "meaning_zh": "脆弱的和平"
+      }
+    ],
+    "frequency_rank": 316,
+    "level": "高中"
+  },
+  {
+    "word": "courage",
+    "phonetic": "/ˈkʌr.ɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "勇氣",
+    "example": "The high school student showed enormous courage when she helped the old man escape from the fire.",
+    "example_zh": "這名高中生在幫助老人逃離火災時展現了巨大的勇氣。",
+    "usage": [
+      {
+        "pattern": "have the courage to do sth",
+        "meaning_zh": "有勇氣做某事"
+      },
+      {
+        "pattern": "summon up courage",
+        "meaning_zh": "鼓起勇氣"
+      }
+    ],
+    "frequency_rank": 317,
+    "level": "高中"
+  },
+  {
+    "word": "enormous",
+    "phonetic": "/ɪˈnɔː.məs/",
+    "pos": "adj.",
+    "definition_zh": "巨大的；龐大的",
+    "example": "The high school student showed enormous courage when she helped the old man escape from the fire.",
+    "example_zh": "這名高中生在幫助老人逃離火災時展現了巨大的勇氣。",
+    "usage": [
+      {
+        "pattern": "enormous pressure",
+        "meaning_zh": "巨大壓力"
+      },
+      {
+        "pattern": "enormous sum of money",
+        "meaning_zh": "一大筆錢"
+      }
+    ],
+    "frequency_rank": 318,
+    "level": "高中"
+  },
+  {
+    "word": "halted",
+    "phonetic": "/ˈhɒl.tɪd/",
+    "pos": "v. (from halt)",
+    "definition_zh": "停止；暫停",
+    "example": "Publicly financed projects are often halted or delayed during tough economic times due to a lack of resources.",
+    "example_zh": "由於資源匱乏，公共資助的計畫在艱難的經濟時期常常被中止或延遲。",
+    "usage": [
+      {
+        "pattern": "come to a halt",
+        "meaning_zh": "停止"
+      },
+      {
+        "pattern": "halt production",
+        "meaning_zh": "停止生產"
+      }
+    ],
+    "frequency_rank": 319,
+    "level": "高中"
+  },
+  {
+    "word": "graced",
+    "phonetic": "/ɡreɪst/",
+    "pos": "v. (from grace)",
+    "definition_zh": "為...增光；使優美",
+    "example": "Despite his busy schedule, the President graced the school's graduation ceremony with his presence and a heartwarming speech.",
+    "example_zh": "儘管行程繁忙，總統仍親臨學校畢業典禮，並發表了溫暖人心的演講，為典禮增光。",
+    "usage": [
+      {
+        "pattern": "grace with one's presence",
+        "meaning_zh": "（親臨）為...增光"
+      },
+      {
+        "pattern": "grace the pages of a magazine",
+        "meaning_zh": "登上雜誌版面"
+      }
+    ],
+    "frequency_rank": 320,
+    "level": "高中"
+  },
+  {
+    "word": "abusing",
+    "phonetic": "/əˈbjuː.zɪŋ/",
+    "pos": "v. (from abuse)",
+    "definition_zh": "辱罵；虐待；濫用",
+    "example": "The manager of the company was sued for verbally abusing his colleagues, calling them \"hopeless losers.\"",
+    "example_zh": "該公司經理因口頭辱罵同事，稱他們為「無藥可救的失敗者」而被起訴。",
+    "usage": [
+      {
+        "pattern": "abuse one's power",
+        "meaning_zh": "濫用權力"
+      },
+      {
+        "pattern": "child abuse",
+        "meaning_zh": "虐待兒童"
+      }
+    ],
+    "frequency_rank": 321,
+    "level": "高中"
+  },
+  {
+    "word": "disrupted",
+    "phonetic": "/dɪsˈrʌp.tɪd/",
+    "pos": "v. (from disrupt)",
+    "definition_zh": "打斷；擾亂；中斷",
+    "example": "With their plan disrupted by the rain, the two dozen participants squeezed into the living room.",
+    "example_zh": "由於他們的計畫被雨水打亂，二十多位參與者擠進了客廳。",
+    "usage": [
+      {
+        "pattern": "disrupt the peace",
+        "meaning_zh": "破壞和平"
+      },
+      {
+        "pattern": "disrupt supply chains",
+        "meaning_zh": "中斷供應鏈"
+      }
+    ],
+    "frequency_rank": 322,
+    "level": "高中"
+  },
+  {
+    "word": "insights",
+    "phonetic": "/ˈɪn.saɪt/",
+    "pos": "n.",
+    "definition_zh": "洞察力；見解",
+    "example": "They broke into small, intimate table conversations, recording their insights on paper tablecloths.",
+    "example_zh": "他們分成小組進行私密的餐桌談話，將他們的見解記錄在紙桌布上。",
+    "usage": [
+      {
+        "pattern": "gain insight into",
+        "meaning_zh": "深入了解"
+      },
+      {
+        "pattern": "offer insights",
+        "meaning_zh": "提供見解"
+      }
+    ],
+    "frequency_rank": 323,
+    "level": "高中"
+  },
+  {
+    "word": "circulate",
+    "phonetic": "/ˈsɜː.kjə.leɪt/",
+    "pos": "v.",
+    "definition_zh": "循環；流通；傳播",
+    "example": "They periodically stopped their conversations to switch tables so the insights and ideas might circulate and deepen.",
+    "example_zh": "他們定期停止談話以更換餐桌，好讓見解和想法得以流通和深化。",
+    "usage": [
+      {
+        "pattern": "circulate rumors",
+        "meaning_zh": "散播謠言"
+      },
+      {
+        "pattern": "blood circulates",
+        "meaning_zh": "血液循環"
+      }
+    ],
+    "frequency_rank": 324,
+    "level": "高中"
+  },
+  {
+    "word": "collective",
+    "phonetic": "/kəˈlek.tɪv/",
+    "pos": "adj.",
+    "definition_zh": "集體的；共同的",
+    "example": "The innovative discussion process gave rise to a new form of collective effort that transformed the depth, scope, and quality of their discussion.",
+    "example_zh": "這種創新的討論過程催生了一種新的集體努力形式，它改變了他們討論的深度、廣度和品質。",
+    "usage": [
+      {
+        "pattern": "collective effort",
+        "meaning_zh": "集體努力"
+      },
+      {
+        "pattern": "collective responsibility",
+        "meaning_zh": "共同責任"
+      }
+    ],
+    "frequency_rank": 325,
+    "level": "高中"
+  },
+  {
+    "word": "stationary",
+    "phonetic": "/ˈsteɪ.ʃən.ər.i/",
+    "pos": "adj.",
+    "definition_zh": "靜止不動的；固定的",
+    "example": "Your brain doesn't know whether you are stationary or moving when these parts send conflicting information.",
+    "example_zh": "當這些部位傳送衝突的資訊時，你的大腦不知道你是靜止不動還是正在移動。",
+    "usage": [
+      {
+        "pattern": "remain stationary",
+        "meaning_zh": "保持不動"
+      },
+      {
+        "pattern": "stationary bike",
+        "meaning_zh": "健身車"
+      }
+    ],
+    "frequency_rank": 326,
+    "level": "高中"
+  },
+  {
+    "word": "conflicting",
+    "phonetic": "/kənˈflɪk.tɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "衝突的；不一致的",
+    "example": "Your brain doesn't know whether you are stationary or moving when these parts send conflicting information.",
+    "example_zh": "當這些部位傳送衝突的資訊時，你的大腦不知道你是靜止不動還是正在移動。",
+    "usage": [
+      {
+        "pattern": "conflicting reports",
+        "meaning_zh": "相互矛盾的報導"
+      },
+      {
+        "pattern": "conflicting interests",
+        "meaning_zh": "利益衝突"
+      }
+    ],
+    "frequency_rank": 327,
+    "level": "高中"
+  },
+  {
+    "word": "preventive",
+    "phonetic": "/prɪˈven.tɪv/",
+    "pos": "adj.",
+    "definition_zh": "預防性的",
+    "example": "You can take some preventive measures to help avoid the discomfort.",
+    "example_zh": "你可以採取一些預防措施來幫助避免不適。",
+    "usage": [
+      {
+        "pattern": "preventive measures",
+        "meaning_zh": "預防措施"
+      },
+      {
+        "pattern": "preventive medicine",
+        "meaning_zh": "預防醫學"
+      }
+    ],
+    "frequency_rank": 328,
+    "level": "高中"
+  },
+  {
+    "word": "intricate",
+    "phonetic": "/ˈɪn.trɪ.kət/",
+    "pos": "adj.",
+    "definition_zh": "錯綜複雜的；精緻的",
+    "example": "This medieval cathedral is renowned for its intricate architecture, stunning stained glass windows, and, above all, its bells.",
+    "example_zh": "這座中世紀大教堂以其錯綜複雜的建築、令人驚嘆的彩繪玻璃窗，以及最重要的是，它的鐘聲而聞名。",
+    "usage": [
+      {
+        "pattern": "intricate design",
+        "meaning_zh": "精緻的設計"
+      },
+      {
+        "pattern": "intricate details",
+        "meaning_zh": "錯綜複雜的細節"
+      }
+    ],
+    "frequency_rank": 329,
+    "level": "高中"
+  },
+  {
+    "word": "documented",
+    "phonetic": "/ˈdɒk.jə.men.tɪd/",
+    "pos": "adj. (from document)",
+    "definition_zh": "有文件證明（或記載）的",
+    "example": "In fact, there is documented reference to the ringing of bells even before the cathedral's construction was completed.",
+    "example_zh": "事實上，早在這座大教堂建造完成之前，就有關於敲鐘的文獻記載。",
+    "usage": [
+      {
+        "pattern": "documented evidence",
+        "meaning_zh": "書面證據"
+      },
+      {
+        "pattern": "well-documented",
+        "meaning_zh": "有充分文獻記載的"
+      }
+    ],
+    "frequency_rank": 330,
+    "level": "高中"
+  },
+  {
+    "word": "retained",
+    "phonetic": "/rɪˈteɪnd/",
+    "pos": "v. (from retain)",
+    "definition_zh": "保留；保持",
+    "example": "All of the bells were replaced in 2013—except for Emmanuel, which retained its renowned, excellent sound.",
+    "example_zh": "2013年所有鐘聲都被替換——除了埃馬紐埃爾，它保留了其聞名遐邇、優美的聲音。",
+    "usage": [
+      {
+        "pattern": "retain control",
+        "meaning_zh": "保持控制"
+      },
+      {
+        "pattern": "retain staff",
+        "meaning_zh": "留住員工"
+      }
+    ],
+    "frequency_rank": 331,
+    "level": "高中"
+  },
+  {
+    "word": "renowned",
+    "phonetic": "/rɪˈnaʊnd/",
+    "pos": "adj.",
+    "definition_zh": "著名的；有名的",
+    "example": "All of the bells were replaced in 2013—except for Emmanuel, which retained its renowned, excellent sound.",
+    "example_zh": "2013年所有鐘聲都被替換——除了埃馬紐埃爾，它保留了其聞名遐邇、優美的聲音。",
+    "usage": [
+      {
+        "pattern": "renowned artist",
+        "meaning_zh": "著名藝術家"
+      },
+      {
+        "pattern": "renowned for",
+        "meaning_zh": "以...聞名"
+      }
+    ],
+    "frequency_rank": 332,
+    "level": "高中"
+  },
+  {
+    "word": "coronations",
+    "phonetic": "/ˌkɒr.əˈneɪ.ʃən/",
+    "pos": "n.",
+    "definition_zh": "加冕典禮",
+    "example": "They have also rung in times of celebration and of mourning, announcing such events as royal weddings and coronations of kings.",
+    "example_zh": "它們也在慶祝和哀悼之時響起，宣布諸如皇家婚禮和國王加冕典禮等事件。",
+    "usage": [
+      {
+        "pattern": "royal coronation",
+        "meaning_zh": "皇家加冕"
+      },
+      {
+        "pattern": "attend a coronation",
+        "meaning_zh": "出席加冕典禮"
+      }
+    ],
+    "frequency_rank": 333,
+    "level": "高中"
+  },
+  {
+    "word": "devastating",
+    "phonetic": "/ˈdev.ə.steɪ.tɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "毀滅性的；破壞力極大的",
+    "example": "However, after the devastating fire that damaged the cathedral in 2019, the bells fell silent.",
+    "example_zh": "然而，在2019年那場毀滅性大火損壞大教堂後，鐘聲沉寂了。",
+    "usage": [
+      {
+        "pattern": "devastating effect",
+        "meaning_zh": "毀滅性影響"
+      },
+      {
+        "pattern": "devastating criticism",
+        "meaning_zh": "毀滅性的批評"
+      }
+    ],
+    "frequency_rank": 334,
+    "level": "高中"
+  },
+  {
+    "word": "restoration",
+    "phonetic": "/ˌres.təˈreɪ.ʃən/",
+    "pos": "n.",
+    "definition_zh": "修復；恢復",
+    "example": "The building went through a complex and time-consuming process of restoration and the famous monument was finally reopened on December 8, 2024.",
+    "example_zh": "這座建築經過了複雜且耗時的修復過程，這座著名紀念碑最終於2024年12月8日重新開放。",
+    "usage": [
+      {
+        "pattern": "restoration project",
+        "meaning_zh": "修復計畫"
+      },
+      {
+        "pattern": "ecological restoration",
+        "meaning_zh": "生態恢復"
+      }
+    ],
+    "frequency_rank": 335,
+    "level": "高中"
+  },
+  {
+    "word": "accommodation",
+    "phonetic": "/əˌkɒm.əˈdeɪ.ʃən/",
+    "pos": "n.",
+    "definition_zh": "住宿；住處",
+    "example": "A capsule hotel is a unique type of basic, affordable accommodation.",
+    "example_zh": "膠囊旅館是一種獨特的基本且價格實惠的住宿類型。",
+    "usage": [
+      {
+        "pattern": "find accommodation",
+        "meaning_zh": "找住宿"
+      },
+      {
+        "pattern": "student accommodation",
+        "meaning_zh": "學生宿舍"
+      }
+    ],
+    "frequency_rank": 336,
+    "level": "高中"
+  },
+  {
+    "word": "originated",
+    "phonetic": "/əˈrɪdʒ.ɪ.neɪ.tɪd/",
+    "pos": "v. (from originate)",
+    "definition_zh": "起源於；發源於",
+    "example": "Originated in Japan, these hotels were initially meant for business professionals to stay close to populated business districts without spending a lot.",
+    "example_zh": "這些酒店起源於日本，最初旨在讓商務人士能夠住在靠近人口密集商業區的地方，而無需花費大量金錢。",
+    "usage": [
+      {
+        "pattern": "originate from",
+        "meaning_zh": "起源於"
+      },
+      {
+        "pattern": "originate in",
+        "meaning_zh": "發源於"
+      }
+    ],
+    "frequency_rank": 337,
+    "level": "高中"
+  },
+  {
+    "word": "sufficient",
+    "phonetic": "/səˈfɪʃ.ənt/",
+    "pos": "adj.",
+    "definition_zh": "足夠的；充分的",
+    "example": "A typical room of a capsule hotel is roughly the length and width of a single bed, with sufficient height for a guest to crawl in and sit up on the bed.",
+    "example_zh": "膠囊旅館的典型房間大致與單人床的長寬相同，並有足夠的高度讓客人爬進去並坐在床上。",
+    "usage": [
+      {
+        "pattern": "sufficient evidence",
+        "meaning_zh": "充分證據"
+      },
+      {
+        "pattern": "sufficient sleep",
+        "meaning_zh": "充足睡眠"
+      }
+    ],
+    "frequency_rank": 338,
+    "level": "高中"
+  },
+  {
+    "word": "equipped",
+    "phonetic": "/ɪˈkwɪpt/",
+    "pos": "v. (from equip)",
+    "definition_zh": "配備；裝備",
+    "example": "Each capsule is equipped with a comfortable mattress, a small light, and sometimes a television or other entertainment options.",
+    "example_zh": "每個膠囊都配備了舒適的床墊、一盞小燈，有時還有電視或其他娛樂選項。",
+    "usage": [
+      {
+        "pattern": "equipped with",
+        "meaning_zh": "配備有"
+      },
+      {
+        "pattern": "fully equipped",
+        "meaning_zh": "設備齊全的"
+      }
+    ],
+    "frequency_rank": 339,
+    "level": "高中"
+  },
+  {
+    "word": "efficient",
+    "phonetic": "/ɪˈfɪʃ.ənt/",
+    "pos": "adj.",
+    "definition_zh": "效率高的；有效率的",
+    "example": "Such minimalist design is what makes these hotels both inexpensive and efficient, providing only the essential elements for a good night sleep.",
+    "example_zh": "這種極簡主義的設計使這些酒店既便宜又高效，只提供良好睡眠所需的必要元素。",
+    "usage": [
+      {
+        "pattern": "efficient use of resources",
+        "meaning_zh": "有效利用資源"
+      },
+      {
+        "pattern": "efficient system",
+        "meaning_zh": "高效系統"
+      }
+    ],
+    "frequency_rank": 340,
+    "level": "高中"
+  },
+  {
+    "word": "minimalist",
+    "phonetic": "/ˈmɪn.ə.lɪst/",
+    "pos": "adj.",
+    "definition_zh": "極簡主義的",
+    "example": "Such minimalist design is what makes these hotels both inexpensive and efficient.",
+    "example_zh": "這種極簡主義的設計使這些酒店既便宜又高效。",
+    "usage": [
+      {
+        "pattern": "minimalist style",
+        "meaning_zh": "極簡風格"
+      },
+      {
+        "pattern": "minimalist approach",
+        "meaning_zh": "極簡方法"
+      }
+    ],
+    "frequency_rank": 341,
+    "level": "高中"
+  },
+  {
+    "word": "embrace",
+    "phonetic": "/ɪmˈbreɪs/",
+    "pos": "v.",
+    "definition_zh": "欣然接受；擁抱",
+    "example": "In response to rising demands, these hotels are embracing a wave of innovation.",
+    "example_zh": "為了應對不斷增長的需求，這些酒店正在欣然接受一股創新浪潮。",
+    "usage": [
+      {
+        "pattern": "embrace change",
+        "meaning_zh": "擁抱改變"
+      },
+      {
+        "pattern": "embrace an opportunity",
+        "meaning_zh": "把握機會"
+      }
+    ],
+    "frequency_rank": 342,
+    "level": "高中"
+  },
+  {
+    "word": "claustrophobic",
+    "phonetic": "/ˌklɒs.trəˈfəʊ.bɪk/",
+    "pos": "adj.",
+    "definition_zh": "患幽閉恐懼症的；引起幽閉恐懼的",
+    "example": "And, if you're worried about feeling claustrophobic in small spaces, you'd better think twice before making a reservation.",
+    "example_zh": "而且，如果你擔心在狹小空間裡感到幽閉恐懼，你最好在預訂前三思。",
+    "usage": [
+      {
+        "pattern": "feel claustrophobic",
+        "meaning_zh": "感到幽閉恐懼"
+      },
+      {
+        "pattern": "claustrophobic space",
+        "meaning_zh": "幽閉的空間"
+      }
+    ],
+    "frequency_rank": 343,
+    "level": "高中"
+  },
+  {
+    "word": "intersection",
+    "phonetic": "/ˌɪn.təˈsek.ʃən/",
+    "pos": "n.",
+    "definition_zh": "十字路口；交叉點",
+    "example": "While waiting to cross the street at busy intersections, have you ever wondered who invented the traffic light?",
+    "example_zh": "當你在繁忙的十字路口等著過馬路時，你曾好奇過是誰發明了紅綠燈嗎？",
+    "usage": [
+      {
+        "pattern": "road intersection",
+        "meaning_zh": "道路交叉口"
+      },
+      {
+        "pattern": "at the intersection of A and B",
+        "meaning_zh": "在A和B的交匯處"
+      }
+    ],
+    "frequency_rank": 344,
+    "level": "高中"
+  },
+  {
+    "word": "signaling",
+    "phonetic": "/ˈsɪɡ.nəl.ɪŋ/",
+    "pos": "n. (from signal)",
+    "definition_zh": "信號系統；發信號",
+    "example": "A railway manager, Knight specialized in designing the signaling system for Britain's growing railway network in the 1860s.",
+    "example_zh": "一位鐵路經理，奈特，在1860年代專門設計英國不斷擴張的鐵路網的信號系統。",
+    "usage": [
+      {
+        "pattern": "signaling device",
+        "meaning_zh": "信號裝置"
+      },
+      {
+        "pattern": "turn signaling",
+        "meaning_zh": "轉向信號"
+      }
+    ],
+    "frequency_rank": 345,
+    "level": "高中"
+  },
+  {
+    "word": "hazard",
+    "phonetic": "/ˈhæz.əd/",
+    "pos": "n.",
+    "definition_zh": "危險；危害物",
+    "example": "Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929.",
+    "example_zh": "被視為公共危險，該計畫立即被終止，交通燈直到1929年才重新回到英國街頭。",
+    "usage": [
+      {
+        "pattern": "health hazard",
+        "meaning_zh": "健康危害"
+      },
+      {
+        "pattern": "fire hazard",
+        "meaning_zh": "火災隱患"
+      }
+    ],
+    "frequency_rank": 346,
+    "level": "高中"
+  },
+  {
+    "word": "breakthrough",
+    "phonetic": "/ˈbreɪk.θruː/",
+    "pos": "n.",
+    "definition_zh": "突破；重大進展",
+    "example": "A major breakthrough was the yellow light invented by a Detroit police officer William Potts.",
+    "example_zh": "一項重大突破是底特律警官威廉·波茨發明的黃燈。",
+    "usage": [
+      {
+        "pattern": "scientific breakthrough",
+        "meaning_zh": "科學突破"
+      },
+      {
+        "pattern": "make a breakthrough",
+        "meaning_zh": "取得突破"
+      }
+    ],
+    "frequency_rank": 347,
+    "level": "高中"
+  },
+  {
+    "word": "emergence",
+    "phonetic": "/ɪˈmɜː.dʒəns/",
+    "pos": "n.",
+    "definition_zh": "出現；浮現",
+    "example": "Now, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary.",
+    "example_zh": "如今，隨著自駕車的出現，研究人員開始建議交通號誌不再是必需的。",
+    "usage": [
+      {
+        "pattern": "the emergence of a new trend",
+        "meaning_zh": "新趨勢的出現"
+      },
+      {
+        "pattern": "emergence from poverty",
+        "meaning_zh": "擺脫貧困"
+      }
+    ],
+    "frequency_rank": 348,
+    "level": "高中"
+  },
+  {
+    "word": "automatically",
+    "phonetic": "/ˌɔː.təˈmæt.ɪ.kəl.i/",
+    "pos": "adv.",
+    "definition_zh": "自動地",
+    "example": "Intersections will operate in a way that cars automatically adjust their speed to cross through.",
+    "example_zh": "十字路口將以汽車自動調整車速以穿越的方式運行。",
+    "usage": [
+      {
+        "pattern": "automatically generated",
+        "meaning_zh": "自動生成"
+      },
+      {
+        "pattern": "automatically adjust",
+        "meaning_zh": "自動調整"
+      }
+    ],
+    "frequency_rank": 349,
+    "level": "高中"
+  },
+  {
+    "word": "evolution",
+    "phonetic": "/ˌiː.vəˈluː.ʃən/",
+    "pos": "n.",
+    "definition_zh": "演變；進化",
+    "example": "The passage discusses the evolution of traffic control systems.",
+    "example_zh": "文章討論了交通管制系統的演變。",
+    "usage": [
+      {
+        "pattern": "the evolution of species",
+        "meaning_zh": "物種進化"
+      },
+      {
+        "pattern": "cultural evolution",
+        "meaning_zh": "文化演變"
+      }
+    ],
+    "frequency_rank": 350,
+    "level": "高中"
+  },
+  {
+    "word": "typically",
+    "phonetic": "/ˈtɪp.ɪ.kəl.i/",
+    "pos": "adv.",
+    "definition_zh": "通常；典型地",
+    "example": "Typically featuring zombies and serial killers, horror movies are too frightening to be fun for some people.",
+    "example_zh": "恐怖電影通常以殭屍和連環殺手為特色，對某些人來說太嚇人了，一點也不好玩。",
+    "usage": [
+      {
+        "pattern": "typically American",
+        "meaning_zh": "典型美國式的"
+      },
+      {
+        "pattern": "typically found",
+        "meaning_zh": "通常發現於"
+      }
+    ],
+    "frequency_rank": 351,
+    "level": "高中"
+  },
+  {
+    "word": "spectacle",
+    "phonetic": "/ˈspek.tə.kəl/",
+    "pos": "n.",
+    "definition_zh": "景象；奇觀；壯觀場面",
+    "example": "But many others enjoy a good fear spectacle, and line up to see the latest scary movie.",
+    "example_zh": "但許多其他人喜歡這種恐怖奇觀，並排隊觀看最新的恐怖電影。",
+    "usage": [
+      {
+        "pattern": "public spectacle",
+        "meaning_zh": "公開的場面"
+      },
+      {
+        "pattern": "a grand spectacle",
+        "meaning_zh": "一場盛大的奇觀"
+      }
+    ],
+    "frequency_rank": 352,
+    "level": "高中"
+  },
+  {
+    "word": "vicariously",
+    "phonetic": "/vɪˈker.i.əs.li/",
+    "pos": "adv.",
+    "definition_zh": "間接地；替代地；代理地",
+    "example": "Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world.",
+    "example_zh": "研究人員相信觀眾以這種方式間接地學習，從中獲得如何應對現實世界中威脅的技巧。",
+    "usage": [
+      {
+        "pattern": "live vicariously through",
+        "meaning_zh": "透過他人體驗生活"
+      },
+      {
+        "pattern": "experience vicariously",
+        "meaning_zh": "間接體驗"
+      }
+    ],
+    "frequency_rank": 353,
+    "level": "高中"
+  },
+  {
+    "word": "therapeutic",
+    "phonetic": "/ˌθer.əˈpjuː.tɪk/",
+    "pos": "adj.",
+    "definition_zh": "治療性的；有療效的",
+    "example": "Studies show that the thrill and excitement linked with scary films can be therapeutic.",
+    "example_zh": "研究顯示，恐怖電影帶來的刺激和興奮感可以具有治療作用。",
+    "usage": [
+      {
+        "pattern": "therapeutic effect",
+        "meaning_zh": "治療效果"
+      },
+      {
+        "pattern": "therapeutic exercise",
+        "meaning_zh": "治療性運動"
+      }
+    ],
+    "frequency_rank": 354,
+    "level": "高中"
+  },
+  {
+    "word": "pandemic",
+    "phonetic": "/pænˈdem.ɪk/",
+    "pos": "n.",
+    "definition_zh": "大流行病",
+    "example": "This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.",
+    "example_zh": "這大概解釋了為什麼在新冠疫情大流行期間，恐怖片和疫情驚悚片是數位電影應用程式上觀看次數最多的電影。",
+    "usage": [
+      {
+        "pattern": "global pandemic",
+        "meaning_zh": "全球大流行病"
+      },
+      {
+        "pattern": "flu pandemic",
+        "meaning_zh": "流感大流行"
+      }
+    ],
+    "frequency_rank": 355,
+    "level": "高中"
+  },
+  {
+    "word": "residual",
+    "phonetic": "/rɪˈzɪdʒ.u.əl/",
+    "pos": "adj.",
+    "definition_zh": "殘餘的；剩餘的",
+    "example": "Watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night.",
+    "example_zh": "觀看恐怖電影會擾亂睡眠模式，因為它們所引發的殘餘恐懼和焦慮可能會讓人整夜失眠。",
+    "usage": [
+      {
+        "pattern": "residual effects",
+        "meaning_zh": "殘餘影響"
+      },
+      {
+        "pattern": "residual income",
+        "meaning_zh": "剩餘收入"
+      }
+    ],
+    "frequency_rank": 356,
+    "level": "高中"
+  },
+  {
+    "word": "adulthood",
+    "phonetic": "/ˈæd.ʌlt.hʊd/",
+    "pos": "n.",
+    "definition_zh": "成年時期",
+    "example": "Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood.",
+    "example_zh": "14歲以下觀看恐怖電影的兒童在成年後更容易產生焦慮。",
+    "usage": [
+      {
+        "pattern": "reach adulthood",
+        "meaning_zh": "成年"
+      },
+      {
+        "pattern": "transition to adulthood",
+        "meaning_zh": "過渡到成年期"
+      }
+    ],
+    "frequency_rank": 357,
+    "level": "高中"
+  },
+  {
+    "word": "aggression",
+    "phonetic": "/əˈɡreʃ.ən/",
+    "pos": "n.",
+    "definition_zh": "攻擊性；侵略性",
+    "example": "Exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.",
+    "example_zh": "暴露於血腥暴力可能會使他們對現實生活中的暴力變得不那麼敏感，對攻擊性更容易接受。",
+    "usage": [
+      {
+        "pattern": "acts of aggression",
+        "meaning_zh": "侵略行為"
+      },
+      {
+        "pattern": "suppress aggression",
+        "meaning_zh": "抑制攻擊性"
+      }
+    ],
+    "frequency_rank": 358,
+    "level": "高中"
+  },
+  {
+    "word": "psychology",
+    "phonetic": "/saɪˈkɒl.ə.dʒi/",
+    "pos": "n.",
+    "definition_zh": "心理學",
+    "example": "What field of study does the research mentioned in the passage most likely belong to? (A) Psychology.",
+    "example_zh": "文章中提及的研究最可能屬於哪個研究領域？ (A) 心理學。",
+    "usage": [
+      {
+        "pattern": "developmental psychology",
+        "meaning_zh": "發展心理學"
+      },
+      {
+        "pattern": "study psychology",
+        "meaning_zh": "學習心理學"
+      }
+    ],
+    "frequency_rank": 359,
+    "level": "高中"
+  },
+  {
+    "word": "inferred",
+    "phonetic": "/ɪnˈfɜːd/",
+    "pos": "v. (from infer)",
+    "definition_zh": "推斷；推論",
+    "example": "Which of the following statements about horror movies can be inferred from the passage?",
+    "example_zh": "從文章中可以推斷出關於恐怖電影的下列哪項陳述？",
+    "usage": [
+      {
+        "pattern": "infer from evidence",
+        "meaning_zh": "從證據中推斷"
+      },
+      {
+        "pattern": "infer meaning",
+        "meaning_zh": "推斷意義"
+      }
+    ],
+    "frequency_rank": 360,
+    "level": "高中"
+  },
+  {
+    "word": "aggressive",
+    "phonetic": "/əˈɡres.ɪv/",
+    "pos": "adj.",
+    "definition_zh": "攻擊性的；好鬥的",
+    "example": "Most horror movie lovers are prone to aggressive behavior.",
+    "example_zh": "大多數恐怖電影愛好者容易有攻擊性行為。",
+    "usage": [
+      {
+        "pattern": "aggressive behavior",
+        "meaning_zh": "攻擊性行為"
+      },
+      {
+        "pattern": "aggressive marketing",
+        "meaning_zh": "積極進取的行銷"
+      }
+    ],
+    "frequency_rank": 361,
+    "level": "高中"
+  },
+  {
+    "word": "disadvantages",
+    "phonetic": "/ˌdɪs.ədˈvɑːn.tɪdʒ/",
+    "pos": "n. (from disadvantage)",
+    "definition_zh": "缺點；不利因素",
+    "example": "There are far more benefits to horror movies than disadvantages.",
+    "example_zh": "恐怖電影的好處遠多於壞處。",
+    "usage": [
+      {
+        "pattern": "advantages and disadvantages",
+        "meaning_zh": "優點與缺點"
+      },
+      {
+        "pattern": "be at a disadvantage",
+        "meaning_zh": "處於不利地位"
+      }
+    ],
+    "frequency_rank": 362,
+    "level": "高中"
+  },
+  {
+    "word": "inherent",
+    "phonetic": "/ɪnˈher.ənt/",
+    "pos": "adj.",
+    "definition_zh": "內在的；固有的；與生俱來的",
+    "example": "Critics of the country say that drinking is almost an inherent trait of the Russian people.",
+    "example_zh": "該國評論家表示，飲酒幾乎是俄羅斯民族固有的特徵。",
+    "usage": [
+      {
+        "pattern": "inherent risk",
+        "meaning_zh": "固有風險"
+      },
+      {
+        "pattern": "inherent qualities",
+        "meaning_zh": "內在品質"
+      }
+    ],
+    "frequency_rank": 363,
+    "level": "高中"
+  },
+  {
+    "word": "consumption",
+    "phonetic": "/kənˈsʌmp.ʃən/",
+    "pos": "n.",
+    "definition_zh": "消費；消耗（量）",
+    "example": "The consumption of alcoholic beverages was unusual in ancient Russia.",
+    "example_zh": "酒精飲料的消費在古俄羅斯並不尋常。",
+    "usage": [
+      {
+        "pattern": "energy consumption",
+        "meaning_zh": "能源消耗"
+      },
+      {
+        "pattern": "reduce consumption",
+        "meaning_zh": "減少消耗"
+      }
+    ],
+    "frequency_rank": 364,
+    "level": "高中"
+  },
+  {
+    "word": "contradictory",
+    "phonetic": "/ˌkɒn.trəˈdɪk.tər.i/",
+    "pos": "adj.",
+    "definition_zh": "矛盾的；對立的",
+    "example": "There is contradictory information about Russians' inclination toward alcohol in the 15th and 16th centuries.",
+    "example_zh": "關於俄羅斯人在15、16世紀對酒精的傾向，存在著矛盾的資訊。",
+    "usage": [
+      {
+        "pattern": "contradictory statements",
+        "meaning_zh": "矛盾的陳述"
+      },
+      {
+        "pattern": "contradictory evidence",
+        "meaning_zh": "矛盾的證據"
+      }
+    ],
+    "frequency_rank": 365,
+    "level": "高中"
+  },
+  {
+    "word": "inclination",
+    "phonetic": "/ˌɪn.klɪˈneɪ.ʃən/",
+    "pos": "n.",
+    "definition_zh": "傾向；意願",
+    "example": "There is contradictory information about Russians' inclination toward alcohol in the 15th and 16th centuries.",
+    "example_zh": "關於俄羅斯人在15、16世紀對酒精的傾向，存在著矛盾的資訊。",
+    "usage": [
+      {
+        "pattern": "have an inclination to do sth",
+        "meaning_zh": "傾向於做某事"
+      },
+      {
+        "pattern": "inclination for learning",
+        "meaning_zh": "學習意願"
+      }
+    ],
+    "frequency_rank": 366,
+    "level": "高中"
+  },
+  {
+    "word": "monopoly",
+    "phonetic": "/məˈnɒp.əl.i/",
+    "pos": "n.",
+    "definition_zh": "壟斷；專賣",
+    "example": "In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka.",
+    "example_zh": "在19世紀，皇帝們開始建立國家壟斷，這主要是由於劣質伏特加非法生產的增加。",
+    "usage": [
+      {
+        "pattern": "state monopoly",
+        "meaning_zh": "國家壟斷"
+      },
+      {
+        "pattern": "have a monopoly on",
+        "meaning_zh": "獨佔..."
+      }
+    ],
+    "frequency_rank": 367,
+    "level": "高中"
+  },
+  {
+    "word": "revenues",
+    "phonetic": "/ˈrev.ə.nuː/",
+    "pos": "n. (from revenue)",
+    "definition_zh": "收入；稅收",
+    "example": "This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption.",
+    "example_zh": "這很快就為國庫帶來了巨額收入，但也鼓勵了伏特加的消費。",
+    "usage": [
+      {
+        "pattern": "government revenue",
+        "meaning_zh": "政府稅收"
+      },
+      {
+        "pattern": "generate revenue",
+        "meaning_zh": "產生收入"
+      }
+    ],
+    "frequency_rank": 368,
+    "level": "高中"
+  },
+  {
+    "word": "alcoholism",
+    "phonetic": "/ˈæl.kə.hɒl.ɪ.zəm/",
+    "pos": "n.",
+    "definition_zh": "酒精中毒；酗酒",
+    "example": "Government policies were made and public organizations established to prevent the spread of alcoholism in the country.",
+    "example_zh": "政府制定了政策，並成立了公共組織，以防止該國酗酒問題的蔓延。",
+    "usage": [
+      {
+        "pattern": "combat alcoholism",
+        "meaning_zh": "對抗酗酒"
+      },
+      {
+        "pattern": "recover from alcoholism",
+        "meaning_zh": "從酗酒中恢復"
+      }
+    ],
+    "frequency_rank": 369,
+    "level": "高中"
+  },
+  {
+    "word": "per capita",
+    "phonetic": "/pɜː ˈkæp.ɪ.tə/",
+    "pos": "adv./adj.",
+    "definition_zh": "每人；人均",
+    "example": "Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.",
+    "example_zh": "儘管俄羅斯在人均酒精消費方面沒有位居第一，但仍接近榜首。",
+    "usage": [
+      {
+        "pattern": "GDP per capita",
+        "meaning_zh": "人均GDP"
+      },
+      {
+        "pattern": "consumption per capita",
+        "meaning_zh": "人均消費量"
+      }
+    ],
+    "frequency_rank": 370,
+    "level": "高中"
+  },
+  {
+    "word": "portray",
+    "phonetic": "/pɔːˈtreɪ/",
+    "pos": "v.",
+    "definition_zh": "描繪；扮演",
+    "example": "Russia is widely portrayed as the most alcohol-dependent country in the world.",
+    "example_zh": "俄羅斯被廣泛描繪為世界上最依賴酒精的國家。",
+    "usage": [
+      {
+        "pattern": "portray a character",
+        "meaning_zh": "扮演一個角色"
+      },
+      {
+        "pattern": "portray in a positive light",
+        "meaning_zh": "積極地描繪"
+      }
+    ],
+    "frequency_rank": 371,
+    "level": "高中"
+  },
+  {
+    "word": "assumption",
+    "phonetic": "/əˈsʌmp.ʃən/",
+    "pos": "n.",
+    "definition_zh": "假設；假定",
+    "example": "To argue against the assumption that Russians are born drinkers.",
+    "example_zh": "反駁俄羅斯人天生愛喝酒的假設。",
+    "usage": [
+      {
+        "pattern": "make an assumption",
+        "meaning_zh": "做出假設"
+      },
+      {
+        "pattern": "challenge an assumption",
+        "meaning_zh": "挑戰假設"
+      }
+    ],
+    "frequency_rank": 372,
+    "level": "高中"
+  },
+  {
+    "word": "habitat",
+    "phonetic": "/ˈhæb.ɪ.tæt/",
+    "pos": "n.",
+    "definition_zh": "棲息地",
+    "example": "Most animals in zoos are not endangered, nor are they being prepared for release into natural habitats.",
+    "example_zh": "動物園裡的大多數動物既非瀕危物種，也未準備被放歸自然棲息地。",
+    "usage": [
+      {
+        "pattern": "natural habitat",
+        "meaning_zh": "自然棲息地"
+      },
+      {
+        "pattern": "destroy habitats",
+        "meaning_zh": "破壞棲息地"
+      }
+    ],
+    "frequency_rank": 373,
+    "level": "高中"
+  },
+  {
+    "word": "fostering",
+    "phonetic": "/ˈfɒs.tər.ɪŋ/",
+    "pos": "v. (from foster)",
+    "definition_zh": "培養；促進；撫養",
+    "example": "Fostering empathy...By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.",
+    "example_zh": "培養同理心...透過近距離觀察動物，公眾可能會被鼓勵對野外面臨滅絕的物種更加敏感和富有同情心。",
+    "usage": [
+      {
+        "pattern": "foster creativity",
+        "meaning_zh": "培養創造力"
+      },
+      {
+        "pattern": "foster good relationships",
+        "meaning_zh": "促進良好關係"
+      }
+    ],
+    "frequency_rank": 374,
+    "level": "高中"
+  },
+  {
+    "word": "empathy",
+    "phonetic": "/ˈem.pə.θi/",
+    "pos": "n.",
+    "definition_zh": "同理心；同感",
+    "example": "Fostering empathy...By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate.",
+    "example_zh": "培養同理心...透過近距離觀察動物，公眾可能會被鼓勵更加敏感和富有同情心。",
+    "usage": [
+      {
+        "pattern": "develop empathy",
+        "meaning_zh": "培養同理心"
+      },
+      {
+        "pattern": "lack empathy",
+        "meaning_zh": "缺乏同理心"
+      }
+    ],
+    "frequency_rank": 375,
+    "level": "高中"
+  },
+  {
+    "word": "compassionate",
+    "phonetic": "/kəmˈpæʃ.ən.ət/",
+    "pos": "adj.",
+    "definition_zh": "有同情心的；慈悲的",
+    "example": "By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.",
+    "example_zh": "透過近距離觀察動物，公眾可能會被鼓勵對野外面臨滅絕的物種更加敏感和富有同情心。",
+    "usage": [
+      {
+        "pattern": "compassionate care",
+        "meaning_zh": "富有同情心的照護"
+      },
+      {
+        "pattern": "be compassionate towards",
+        "meaning_zh": "對...富有同情心"
+      }
+    ],
+    "frequency_rank": 376,
+    "level": "高中"
+  },
+  {
+    "word": "extinction",
+    "phonetic": "/ɪkˈstɪŋk.ʃən/",
+    "pos": "n.",
+    "definition_zh": "滅絕；絕種",
+    "example": "By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.",
+    "example_zh": "透過近距離觀察動物，公眾可能會被鼓勵對野外面臨滅絕的物種更加敏感和富有同情心。",
+    "usage": [
+      {
+        "pattern": "face extinction",
+        "meaning_zh": "面臨滅絕"
+      },
+      {
+        "pattern": "mass extinction",
+        "meaning_zh": "大規模滅絕"
+      }
+    ],
+    "frequency_rank": 377,
+    "level": "高中"
+  },
+  {
+    "word": "justify",
+    "phonetic": "/ˈdʒʌs.tɪ.faɪ/",
+    "pos": "v.",
+    "definition_zh": "證明...有道理；為...辯護",
+    "example": "Even if an animal is endangered, does that justify restricting its freedom?",
+    "example_zh": "即使動物瀕臨滅絕，這是否就能證明限制其自由是正當的？",
+    "usage": [
+      {
+        "pattern": "justify one's actions",
+        "meaning_zh": "證明某人行為的正當性"
+      },
+      {
+        "pattern": "cannot justify",
+        "meaning_zh": "無法證明...有理"
+      }
+    ],
+    "frequency_rank": 378,
+    "level": "高中"
+  },
+  {
+    "word": "restricting",
+    "phonetic": "/rɪˈstrɪk.tɪŋ/",
+    "pos": "v. (from restrict)",
+    "definition_zh": "限制；約束",
+    "example": "Even if an animal is endangered, does that justify restricting its freedom?",
+    "example_zh": "即使動物瀕臨滅絕，這是否就能證明限制其自由是正當的？",
+    "usage": [
+      {
+        "pattern": "restrict access",
+        "meaning_zh": "限制進入"
+      },
+      {
+        "pattern": "restrict movement",
+        "meaning_zh": "限制行動"
+      }
+    ],
+    "frequency_rank": 379,
+    "level": "高中"
+  },
+  {
+    "word": "inevitability",
+    "phonetic": "/ɪnˌev.ɪ.təˈbɪl.ə.ti/",
+    "pos": "n.",
+    "definition_zh": "必然性；不可避免性",
+    "example": "Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity.",
+    "example_zh": "那麼，如果動物園是不可避免的，動物園管理員必須為圈養的動物提供盡可能最好的條件。",
+    "usage": [
+      {
+        "pattern": "the inevitability of death",
+        "meaning_zh": "死亡的必然性"
+      },
+      {
+        "pattern": "accept the inevitability",
+        "meaning_zh": "接受必然性"
+      }
+    ],
+    "frequency_rank": 380,
+    "level": "高中"
+  },
+  {
+    "word": "scenario",
+    "phonetic": "/sɪˈnɑː.ri.əʊ/",
+    "pos": "n.",
+    "definition_zh": "情境；設想",
+    "example": "The first paragraph describes two different scenarios that might actually occur during a typhoon day off, based on the contrasting pictures below.",
+    "example_zh": "第一段根據下方對比圖片,描述颱風假時,實際上可能出現的兩種不同情景。",
+    "usage": [
+      {
+        "pattern": "worst-case scenario",
+        "meaning_zh": "最壞的情況"
+      },
+      {
+        "pattern": "possible scenario",
+        "meaning_zh": "可能的情境"
+      }
+    ],
+    "frequency_rank": 381,
+    "level": "高中"
+  }
+]

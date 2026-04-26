@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#4f46e5">
+  <title>英文單字複習</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- 選擇畫面 -->
+<div id="screen-select" class="screen active">
+  <div class="select-container">
+    <h1>英文單字複習</h1>
+    <p class="subtitle">選擇你的版本</p>
+    <button class="btn-level" data-level="國中" onclick="startSession('國中')">
+      <span class="level-title">國中</span>
+      <span class="level-desc">會考準備・2000字</span>
+    </button>
+    <button class="btn-level" data-level="高中" onclick="startSession('高中')">
+      <span class="level-title">高中</span>
+      <span class="level-desc">學測準備・高頻單字</span>
+    </button>
+  </div>
+</div>
+
+<!-- 答題畫面 -->
+<div id="screen-quiz" class="screen">
+  <div class="quiz-header">
+    <button class="btn-back" onclick="goBack()">← 返回</button>
+    <div class="progress-info">
+      <span id="progress-text">1 / 20</span>
+    </div>
+  </div>
+  <div class="progress-bar"><div id="progress-fill"></div></div>
+
+  <!-- 第一面：選擇題 -->
+  <div id="card-front" class="card-face">
+    <p class="card-hint">選出正確的單字</p>
+    <div class="sentence-box" id="sentence-display"></div>
+    <div id="choices" class="choices"></div>
+  </div>
+
+  <!-- 第二面：答案揭曉 -->
+  <div id="card-back" class="card-face hidden">
+    <div class="result-badge" id="result-badge"></div>
+    <div class="word-card">
+      <div class="word-main">
+        <span id="back-word"></span>
+        <span id="back-pos"></span>
+      </div>
+      <div class="word-phonetic">
+        <span id="back-phonetic"></span>
+        <button class="btn-speak" onclick="speak()" title="發音">🔊</button>
+      </div>
+      <div class="word-definition" id="back-definition"></div>
+      <div class="word-example">
+        <p id="back-example"></p>
+        <p id="back-example-zh" class="example-zh"></p>
+      </div>
+      <div id="usage-section" class="usage-section">
+        <button class="btn-usage-toggle" onclick="toggleUsage()">▶ 展開用法</button>
+        <div id="usage-list" class="usage-list hidden"></div>
+      </div>
+    </div>
+    <div class="action-buttons">
+      <button class="btn-again" onclick="markAgain()">再複習</button>
+      <button class="btn-know" onclick="markKnow()">認識 ✓</button>
+    </div>
+  </div>
+</div>
+
+<!-- 結束畫面 -->
+<div id="screen-done" class="screen">
+  <div class="done-container">
+    <div class="done-emoji">🎉</div>
+    <h2>完成！</h2>
+    <div class="done-stats">
+      <div class="stat"><span id="stat-know"></span><small>認識</small></div>
+      <div class="stat"><span id="stat-again"></span><small>還要複習</small></div>
+    </div>
+    <button class="btn-restart" onclick="goBack()">再練一輪</button>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

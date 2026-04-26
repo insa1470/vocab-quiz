@@ -1,0 +1,5320 @@
+[
+  {
+    "word": "collect",
+    "phonetic": "/kəˈlekt/",
+    "pos": "v.",
+    "definition_zh": "收集；採集",
+    "example": "You have to collect things.",
+    "example_zh": "你必須收集物品。",
+    "usage": [
+      {
+        "pattern": "collect information",
+        "meaning_zh": "收集資訊"
+      }
+    ],
+    "frequency_rank": 1,
+    "level": "國中"
+  },
+  {
+    "word": "visitor",
+    "phonetic": "/ˈvɪzɪtər/",
+    "pos": "n.",
+    "definition_zh": "訪客；遊客",
+    "example": "The Games bring in jobs, visitors, and, most important of all, money.",
+    "example_zh": "奧運會帶來就業機會、遊客，以及最重要的：金錢。",
+    "usage": [],
+    "frequency_rank": 2,
+    "level": "國中"
+  },
+  {
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "pos": "adj.",
+    "definition_zh": "美味的；好吃的",
+    "example": "Mrs. Smith's bread, delicious and freshly baked.",
+    "example_zh": "史密斯太太的麵包，美味又新鮮出爐。",
+    "usage": [],
+    "frequency_rank": 3,
+    "level": "國中"
+  },
+  {
+    "word": "experience",
+    "phonetic": "/ɪkˈspɪəriəns/",
+    "pos": "n.",
+    "definition_zh": "經驗；體驗",
+    "example": "In my experience, Saturday is the best.",
+    "example_zh": "根據我的經驗，星期六是最好的（日子）。",
+    "usage": [
+      {
+        "pattern": "have experience",
+        "meaning_zh": "有經驗"
+      }
+    ],
+    "frequency_rank": 4,
+    "level": "國中"
+  },
+  {
+    "word": "business",
+    "phonetic": "/ˈbɪznɪs/",
+    "pos": "n.",
+    "definition_zh": "生意；業務",
+    "example": "This brother-sister team started their business in 2009.",
+    "example_zh": "這對兄妹團隊於 2009 年創立了他們的事業。",
+    "usage": [
+      {
+        "pattern": "start a business",
+        "meaning_zh": "創業"
+      }
+    ],
+    "frequency_rank": 5,
+    "level": "國中"
+  },
+  {
+    "word": "clearly",
+    "phonetic": "/ˈklɪrli/",
+    "pos": "adv.",
+    "definition_zh": "清楚地；明白地",
+    "example": "Can't think clearly in early morning classes.",
+    "example_zh": "在清晨的課堂上無法清晰思考。",
+    "usage": [],
+    "frequency_rank": 6,
+    "level": "國中"
+  },
+  {
+    "word": "invite",
+    "phonetic": "/ɪnˈvaɪt/",
+    "pos": "v.",
+    "definition_zh": "邀請；招致",
+    "example": "The world's biggest sports festival could invite serious trouble.",
+    "example_zh": "世界上最大的體育盛會可能會招致嚴重的麻煩。",
+    "usage": [
+      {
+        "pattern": "invite trouble",
+        "meaning_zh": "自找麻煩"
+      }
+    ],
+    "frequency_rank": 7,
+    "level": "國中"
+  },
+  {
+    "word": "several",
+    "phonetic": "/ˈsɛvrəl/",
+    "pos": "adj.",
+    "definition_zh": "幾個，數個",
+    "example": "His dad had already tried to pull him from his bed several times.",
+    "example_zh": "他爸爸已經好幾次試圖把他從床上拉起來。",
+    "usage": [],
+    "frequency_rank": 8,
+    "level": "國中"
+  },
+  {
+    "word": "popular",
+    "phonetic": "/ˈpɒpjʊlər/",
+    "pos": "adj.",
+    "definition_zh": "受歡迎的，流行的",
+    "example": "How “For Elise\" became popular.",
+    "example_zh": "《給愛麗絲》是如何流行起來的。",
+    "usage": [
+      {
+        "pattern": "become popular",
+        "meaning_zh": "變得流行"
+      }
+    ],
+    "frequency_rank": 9,
+    "level": "國中"
+  },
+  {
+    "word": "hurt",
+    "phonetic": "/hɜːrt/",
+    "pos": "v.",
+    "definition_zh": "受傷",
+    "example": "What happened to Rex? He got hurt.",
+    "example_zh": "雷克斯發生了什麼事？牠受傷了。",
+    "usage": [
+      {
+        "pattern": "get hurt",
+        "meaning_zh": "受傷"
+      }
+    ],
+    "frequency_rank": 10,
+    "level": "國中"
+  },
+  {
+    "word": "understand",
+    "phonetic": "/ˌʌndərˈstænd/",
+    "pos": "v.",
+    "definition_zh": "理解；明白",
+    "example": "To help us understand how sugar hurts our body.",
+    "example_zh": "幫助我們了解糖如何傷害我們的身體。",
+    "frequency_rank": 11,
+    "level": "國中"
+  },
+  {
+    "word": "paragraph",
+    "phonetic": "/ˈpærəɡræf/",
+    "pos": "n.",
+    "definition_zh": "段落",
+    "example": "Which idea is talked about in the first paragraph of the reading?",
+    "example_zh": "這篇文章的第一段談到了什麼想法？",
+    "frequency_rank": 12,
+    "level": "國中"
+  },
+  {
+    "word": "history",
+    "phonetic": "/ˈhɪstri/",
+    "pos": "n.",
+    "definition_zh": "歷史",
+    "example": "by talking about the history of Cameroon?",
+    "example_zh": "藉由談論喀麥隆的歷史？",
+    "frequency_rank": 13,
+    "level": "國中"
+  },
+  {
+    "word": "company",
+    "phonetic": "/ˈkʌmpəni/",
+    "pos": "n.",
+    "definition_zh": "公司",
+    "example": "It is the oil and power companies in Alaska that have brought all these troubles.",
+    "example_zh": "正是阿拉斯加的石油和電力公司帶來了所有這些麻煩。",
+    "usage": [
+      {
+        "pattern": "power company",
+        "meaning_zh": "電力公司"
+      }
+    ],
+    "frequency_rank": 14,
+    "level": "國中"
+  },
+  {
+    "word": "interview",
+    "phonetic": "/ˈɪntərvjuː/",
+    "pos": "n.",
+    "definition_zh": "面試；訪談",
+    "example": "After a lot of tests and interviews, you finally got into a good school.",
+    "example_zh": "經過許多考試和面試，你終於進入了一所好學校。",
+    "usage": [
+      {
+        "pattern": "job interview",
+        "meaning_zh": "工作面試"
+      }
+    ],
+    "frequency_rank": 15,
+    "level": "國中"
+  },
+  {
+    "word": "pond",
+    "phonetic": "/pɑːnd/",
+    "pos": "n.",
+    "definition_zh": "池塘",
+    "example": "His coat and jeans jump off the clothesline Into the pond.",
+    "example_zh": "他的外套和牛仔褲從曬衣繩上跳進池塘。",
+    "usage": [],
+    "frequency_rank": 16,
+    "level": "國中"
+  },
+  {
+    "word": "prepare",
+    "phonetic": "/prɪˈper/",
+    "pos": "v.",
+    "definition_zh": "準備",
+    "example": "It's a lot of trouble to prepare for it.",
+    "example_zh": "準備這件事很麻煩。",
+    "usage": [
+      {
+        "pattern": "prepare for",
+        "meaning_zh": "為...做準備"
+      }
+    ],
+    "frequency_rank": 17,
+    "level": "國中"
+  },
+  {
+    "word": "except",
+    "phonetic": "/ɪkˈsept/",
+    "pos": "prep.",
+    "definition_zh": "除了...之外",
+    "example": "For each $50 you spend (on anything EXCEPT books and CDs) at Sunny Market.",
+    "example_zh": "在陽光超市每消費 50 美元（書籍和 CD 除外）。",
+    "usage": [
+      {
+        "pattern": "except for",
+        "meaning_zh": "除了...之外 (同 except)"
+      }
+    ],
+    "frequency_rank": 18,
+    "level": "國中"
+  },
+  {
+    "word": "prize",
+    "phonetic": "/praɪz/",
+    "pos": "n.",
+    "definition_zh": "獎品；獎項",
+    "example": "You can get one of the prizes below for free.",
+    "example_zh": "你可以免費獲得下面其中一份獎品。",
+    "usage": [],
+    "frequency_rank": 19,
+    "level": "國中"
+  },
+  {
+    "word": "terrible",
+    "phonetic": "/ˈterəbəl/",
+    "pos": "adj.",
+    "definition_zh": "可怕的；糟糕的",
+    "example": "There is no Arctic ice thick enough to keep them safe from terrible wind and rain.",
+    "example_zh": "沒有足夠厚的北極冰層來保護他們免受可怕的風雨侵襲。",
+    "usage": [],
+    "frequency_rank": 20,
+    "level": "國中"
+  },
+  {
+    "word": "pray",
+    "phonetic": "/preɪ/",
+    "pos": "v.",
+    "definition_zh": "祈禱；禱告",
+    "example": "All the Inuit people can do now is to pray the rising sea will not cover their home too soon.",
+    "example_zh": "所有因紐特人現在能做的，就是祈禱上漲的海水不會太快淹沒他們的家園。",
+    "usage": [
+      {
+        "pattern": "pray for",
+        "meaning_zh": "為...祈禱"
+      }
+    ],
+    "frequency_rank": 21,
+    "level": "國中"
+  },
+  {
+    "word": "fewer",
+    "phonetic": "/ˈfjuːər/",
+    "pos": "adj.",
+    "definition_zh": "較少的 (用於可數名詞)",
+    "example": "Having a long commute means you'll get fewer hours of sleep.",
+    "example_zh": "漫長的通勤意味著你會減少睡眠時間。",
+    "usage": [
+      {
+        "pattern": "fewer people",
+        "meaning_zh": "較少的人"
+      }
+    ],
+    "frequency_rank": 22,
+    "level": "國中"
+  },
+  {
+    "word": "traffic",
+    "phonetic": "/ˈtræfɪk/",
+    "pos": "n.",
+    "definition_zh": "交通",
+    "example": "There would be a lot of building work before the Games, and during the Games, too much traffic and too many visitors.",
+    "example_zh": "比賽前會有許多建設工程，比賽期間也會有過多的交通和遊客。",
+    "usage": [
+      {
+        "pattern": "heavy traffic",
+        "meaning_zh": "交通堵塞"
+      }
+    ],
+    "frequency_rank": 23,
+    "level": "國中"
+  },
+  {
+    "word": "planet",
+    "phonetic": "/ˈplænɪt/",
+    "pos": "n.",
+    "definition_zh": "行星；地球",
+    "example": "A long commute not only eats up your time but also kills the planet slowly.",
+    "example_zh": "漫長的通勤不僅佔用你的時間，也會緩慢地破壞地球。",
+    "usage": [],
+    "frequency_rank": 24,
+    "level": "國中"
+  },
+  {
+    "word": "festival",
+    "phonetic": "/ˈfestɪvəl/",
+    "pos": "n.",
+    "definition_zh": "節慶；節日",
+    "example": "The world's biggest sports festival could invite serious trouble.",
+    "example_zh": "世界上最大的體育盛會可能會招致嚴重的麻煩。",
+    "usage": [
+      {
+        "pattern": "sports festival",
+        "meaning_zh": "運動會"
+      }
+    ],
+    "frequency_rank": 25,
+    "level": "國中"
+  },
+  {
+    "word": "consistent",
+    "phonetic": "/kənˈsɪstənt/",
+    "pos": "adj.",
+    "definition_zh": "一致的，符合的",
+    "example": "Please make sure your answer card and student ID are consistent.",
+    "example_zh": "請確認你的答案卡和學生證號碼一致無誤。",
+    "usage": [
+      {
+        "pattern": "consistent with",
+        "meaning_zh": "與…一致"
+      }
+    ],
+    "frequency_rank": 26,
+    "level": "國中"
+  },
+  {
+    "word": "multiple-choice",
+    "phonetic": "/ˌmʌltɪpl ˈtʃɔɪs/",
+    "pos": "adj.",
+    "definition_zh": "多項選擇的",
+    "example": "All questions are multiple-choice questions.",
+    "example_zh": "所有試題均為多選一的選擇題。",
+    "usage": [
+      {
+        "pattern": "multiple-choice question",
+        "meaning_zh": "選擇題"
+      }
+    ],
+    "frequency_rank": 27,
+    "level": "國中"
+  },
+  {
+    "word": "option",
+    "phonetic": "/ˈɒpʃən/",
+    "pos": "n.",
+    "definition_zh": "選項",
+    "example": "Choose the correct option from the four choices.",
+    "example_zh": "從四個選項中選出一個正確的答案。",
+    "usage": [],
+    "frequency_rank": 28,
+    "level": "國中"
+  },
+  {
+    "word": "jog",
+    "phonetic": "/dʒɒɡ/",
+    "pos": "v.",
+    "definition_zh": "慢跑",
+    "example": "She can't jog there anymore because the park is closed.",
+    "example_zh": "公園關閉了，所以她不能在那裡慢跑了。",
+    "usage": [],
+    "frequency_rank": 29,
+    "level": "國中"
+  },
+  {
+    "word": "proud",
+    "phonetic": "/praʊd/",
+    "pos": "adj.",
+    "definition_zh": "驕傲的",
+    "example": "He felt proud after winning the competition.",
+    "example_zh": "他贏得比賽後感到驕傲。",
+    "usage": [
+      {
+        "pattern": "proud of",
+        "meaning_zh": "為…感到驕傲"
+      }
+    ],
+    "frequency_rank": 30,
+    "level": "國中"
+  },
+  {
+    "word": "scared",
+    "phonetic": "/skɛərd/",
+    "pos": "adj.",
+    "definition_zh": "害怕的",
+    "example": "The little girl was scared of the dark.",
+    "example_zh": "小女孩害怕黑暗。",
+    "usage": [
+      {
+        "pattern": "be scared of",
+        "meaning_zh": "害怕…"
+      }
+    ],
+    "frequency_rank": 31,
+    "level": "國中"
+  },
+  {
+    "word": "although",
+    "phonetic": "/ɔːlˈðoʊ/",
+    "pos": "conj.",
+    "definition_zh": "雖然",
+    "example": "Although his dad tried, Jimmy would not get up.",
+    "example_zh": "雖然他爸爸嘗試了，但 Jimmy 仍不肯起床。",
+    "usage": [],
+    "frequency_rank": 32,
+    "level": "國中"
+  },
+  {
+    "word": "spend",
+    "phonetic": "/spɛnd/",
+    "pos": "v.",
+    "definition_zh": "花費（金錢或時間）",
+    "example": "You'll get 500 more points if you spend more than $1,000.",
+    "example_zh": "如果您消費超過 $1,000，將再獲得 500 點。",
+    "usage": [
+      {
+        "pattern": "spend money/time on",
+        "meaning_zh": "花費金錢/時間在…上"
+      }
+    ],
+    "frequency_rank": 33,
+    "level": "國中"
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "pos": "adj.",
+    "definition_zh": "危險的",
+    "example": "We don't know how deep it is. It could be dangerous.",
+    "example_zh": "我們不知道它有多深。它可能是危險的。",
+    "frequency_rank": 34,
+    "level": "國中"
+  },
+  {
+    "word": "vacation",
+    "phonetic": "/veɪˈkeɪʃən/",
+    "pos": "n.",
+    "definition_zh": "假期",
+    "example": "It has become a popular place for families to go on vacation.",
+    "example_zh": "它已成為家庭度假的熱門地點。",
+    "usage": [
+      {
+        "pattern": "go on vacation",
+        "meaning_zh": "去度假"
+      }
+    ],
+    "frequency_rank": 35,
+    "level": "國中"
+  },
+  {
+    "word": "balcony",
+    "phonetic": "/ˈbælkəni/",
+    "pos": "n.",
+    "definition_zh": "陽台",
+    "example": "David looked out of the balcony window and saw a woman get in his car.",
+    "example_zh": "大衛從陽台窗戶往外看，看到一個女人坐進他的車裡。",
+    "frequency_rank": 36,
+    "level": "國中"
+  },
+  {
+    "word": "celebrate",
+    "phonetic": "/ˈseləbreɪt/",
+    "pos": "v.",
+    "definition_zh": "慶祝",
+    "example": "To celebrate in song.",
+    "example_zh": "唱歌慶祝。",
+    "frequency_rank": 37,
+    "level": "國中"
+  },
+  {
+    "word": "remember",
+    "phonetic": "/rɪˈmembər/",
+    "pos": "v.",
+    "definition_zh": "記得；記住",
+    "example": "remembering less well",
+    "example_zh": "記憶力變差",
+    "frequency_rank": 38,
+    "level": "國中"
+  },
+  {
+    "word": "share",
+    "phonetic": "/ʃɛər/",
+    "pos": "v.",
+    "definition_zh": "分享",
+    "example": "Children may not want to share their toys with others.",
+    "example_zh": "孩子們可能不想和別人分享他們的玩具。",
+    "usage": [
+      {
+        "pattern": "share with",
+        "meaning_zh": "與…分享"
+      }
+    ],
+    "frequency_rank": 39,
+    "level": "國中"
+  },
+  {
+    "word": "bake",
+    "phonetic": "/beɪk/",
+    "pos": "v.",
+    "definition_zh": "烘烤",
+    "example": "from choosing good chocolate to baking the cake.",
+    "example_zh": "從選擇好的巧克力到烘烤蛋糕。",
+    "frequency_rank": 40,
+    "level": "國中"
+  },
+  {
+    "word": "exercise",
+    "phonetic": "/ˈeksərsaɪz/",
+    "pos": "v./n.",
+    "definition_zh": "運動",
+    "example": "Tabata training is a very popular way of exercising these days.",
+    "example_zh": "間歇訓練是目前非常流行的運動方式。",
+    "frequency_rank": 41,
+    "level": "國中"
+  },
+  {
+    "word": "burn",
+    "phonetic": "/bɜːrn/",
+    "pos": "v.",
+    "definition_zh": "燃燒",
+    "example": "it burns calories faster than other ways of exercising.",
+    "example_zh": "它比其他運動方式更快燃燒卡路里。",
+    "frequency_rank": 42,
+    "level": "國中"
+  },
+  {
+    "word": "busy",
+    "phonetic": "/ˈbɪzi/",
+    "pos": "adj.",
+    "definition_zh": "忙碌的",
+    "example": "for people who enjoy exercising but are too busy to go to the gym.",
+    "example_zh": "對於那些喜歡運動但太忙沒時間去健身房的人來說。",
+    "frequency_rank": 43,
+    "level": "國中"
+  },
+  {
+    "word": "gym",
+    "phonetic": "/dʒɪm/",
+    "pos": "n.",
+    "definition_zh": "健身房",
+    "example": "too busy to go to the gym.",
+    "example_zh": "太忙沒時間去健身房。",
+    "frequency_rank": 44,
+    "level": "國中"
+  },
+  {
+    "word": "modern",
+    "phonetic": "/ˈmɒdərn/",
+    "pos": "adj.",
+    "definition_zh": "現代的",
+    "example": "Museum of Modern Art.",
+    "example_zh": "現代藝術博物館。",
+    "usage": [
+      {
+        "pattern": "modern art",
+        "meaning_zh": "現代藝術"
+      }
+    ],
+    "frequency_rank": 45,
+    "level": "國中"
+  },
+  {
+    "word": "headache",
+    "phonetic": "/ˈhedeɪk/",
+    "pos": "n.",
+    "definition_zh": "頭痛；令人頭痛的問題",
+    "example": "The problem of long working hours is a real headache in our country.",
+    "example_zh": "工時過長的問題在我國是個真正的麻煩。",
+    "frequency_rank": 46,
+    "level": "國中"
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "/ˈrestərɑːnt/",
+    "pos": "n.",
+    "definition_zh": "餐廳",
+    "example": "Restaurants and coffee shops are busier on Wednesday evenings.",
+    "example_zh": "餐廳和咖啡店在週三晚上生意更忙碌。",
+    "frequency_rank": 47,
+    "level": "國中"
+  },
+  {
+    "word": "worse",
+    "phonetic": "/wɜːrs/",
+    "pos": "adj.",
+    "definition_zh": "更糟的",
+    "example": "before the problem gets any worse.",
+    "example_zh": "在問題變得更糟之前。",
+    "frequency_rank": 48,
+    "level": "國中"
+  },
+  {
+    "word": "important",
+    "phonetic": "/ɪmˈpɔːrtənt/",
+    "pos": "adj.",
+    "definition_zh": "重要的",
+    "example": "There are four important points in the report.",
+    "example_zh": "報告中有四個重點。",
+    "frequency_rank": 49,
+    "level": "國中"
+  },
+  {
+    "word": "order",
+    "phonetic": "/ˈɔːrdər/",
+    "pos": "n.",
+    "definition_zh": "順序",
+    "example": "How are they ordered in the report?",
+    "example_zh": "它們在報告中是如何排序的？",
+    "frequency_rank": 50,
+    "level": "國中"
+  },
+  {
+    "word": "almost",
+    "phonetic": "/ˈɔːlmoʊst/",
+    "pos": "adv.",
+    "definition_zh": "幾乎",
+    "example": "Men and women have almost the same chance to get paid more and rise higher when they work 2,200 hours.",
+    "example_zh": "男性和女性在工作2200小時時，獲得更高薪水和晉升的機會幾乎相同。",
+    "frequency_rank": 51,
+    "level": "國中"
+  },
+  {
+    "word": "power",
+    "phonetic": "/ˈpaʊər/",
+    "pos": "n.",
+    "definition_zh": "權力",
+    "example": "being able to speak English is often a way to get power.",
+    "example_zh": "能夠說英語通常是獲得權力的一種方式。",
+    "frequency_rank": 52,
+    "level": "國中"
+  },
+  {
+    "word": "government",
+    "phonetic": "/ˈɡʌvərnmənt/",
+    "pos": "n.",
+    "definition_zh": "政府",
+    "example": "the government has been in French speakers' hands since the two parts became one country.",
+    "example_zh": "自從兩部分合併成一個國家以來，政府一直由法語使用者掌握。",
+    "frequency_rank": 53,
+    "level": "國中"
+  },
+  {
+    "word": "welcome",
+    "phonetic": "/ˈwelkəm/",
+    "pos": "adj.",
+    "definition_zh": "受歡迎的",
+    "example": "Cameroon's English speakers have felt they are not welcome in their own country.",
+    "example_zh": "喀麥隆的英語使用者感覺他們在自己的國家不受歡迎。",
+    "frequency_rank": 54,
+    "level": "國中"
+  },
+  {
+    "word": "decide",
+    "phonetic": "/dɪˈsaɪd/",
+    "pos": "v.",
+    "definition_zh": "決定",
+    "example": "We decided to take him for a walk every evening.",
+    "example_zh": "我們決定每天晚上帶牠散步。",
+    "usage": [
+      {
+        "pattern": "decide to V",
+        "meaning_zh": "決定去做..."
+      }
+    ],
+    "frequency_rank": 55,
+    "level": "國中"
+  },
+  {
+    "word": "police",
+    "phonetic": "/pəˈliːs/",
+    "pos": "n.",
+    "definition_zh": "警察",
+    "example": "The writer did not call the police to help Rex.",
+    "example_zh": "作者沒有打電話報警來幫助雷克斯。",
+    "usage": [
+      {
+        "pattern": "call the police",
+        "meaning_zh": "報警"
+      }
+    ],
+    "frequency_rank": 56,
+    "level": "國中"
+  },
+  {
+    "word": "likely",
+    "phonetic": "/ˈlaɪkli/",
+    "pos": "adv.",
+    "definition_zh": "可能地",
+    "example": "Which is most likely an example?",
+    "example_zh": "哪一個最可能是一個例子？",
+    "usage": [
+      {
+        "pattern": "most likely",
+        "meaning_zh": "最有可能地"
+      }
+    ],
+    "frequency_rank": 57,
+    "level": "國中"
+  },
+  {
+    "word": "agree",
+    "phonetic": "/əˈɡriː/",
+    "pos": "v.",
+    "definition_zh": "同意",
+    "example": "I agree with your idea.",
+    "example_zh": "我同意你的想法。",
+    "usage": [
+      {
+        "pattern": "agree with",
+        "meaning_zh": "同意某人/某事"
+      }
+    ],
+    "frequency_rank": 58,
+    "level": "國中"
+  },
+  {
+    "word": "museum",
+    "phonetic": "/mjuˈziːəm/",
+    "pos": "n.",
+    "definition_zh": "博物館",
+    "example": "The trail also takes you to the Southend Museum and to two famous castles.",
+    "example_zh": "這條步道還帶您前往南端博物館和兩座著名城堡。",
+    "frequency_rank": 59,
+    "level": "國中"
+  },
+  {
+    "word": "famous",
+    "phonetic": "/ˈfeɪməs/",
+    "pos": "adj.",
+    "definition_zh": "有名的",
+    "example": "two famous castles",
+    "example_zh": "兩座著名城堡",
+    "frequency_rank": 60,
+    "level": "國中"
+  },
+  {
+    "word": "castle",
+    "phonetic": "/ˈkæsəl/",
+    "pos": "n.",
+    "definition_zh": "城堡",
+    "example": "two famous castles",
+    "example_zh": "兩座著名城堡",
+    "frequency_rank": 61,
+    "level": "國中"
+  },
+  {
+    "word": "campground",
+    "phonetic": "/ˈkæmpɡraʊnd/",
+    "pos": "n.",
+    "definition_zh": "露營地",
+    "example": "it is only allowed on a few campgrounds.",
+    "example_zh": "它只在少數露營地允許。",
+    "frequency_rank": 62,
+    "level": "國中"
+  },
+  {
+    "word": "difficult",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "pos": "adj.",
+    "definition_zh": "困難的",
+    "example": "It is difficult to learn the moves.",
+    "example_zh": "學習這些動作很困難。",
+    "frequency_rank": 63,
+    "level": "國中"
+  },
+  {
+    "word": "public",
+    "phonetic": "/ˈpʌblɪk/",
+    "pos": "adj.",
+    "definition_zh": "公眾的",
+    "example": "Save 20% on tickets to public museums.",
+    "example_zh": "參觀公共博物館門票可省20%。",
+    "usage": [
+      {
+        "pattern": "public museum",
+        "meaning_zh": "公共博物館"
+      }
+    ],
+    "frequency_rank": 64,
+    "level": "國中"
+  },
+  {
+    "word": "different",
+    "phonetic": "/ˈdɪfrənt/",
+    "pos": "adj.",
+    "definition_zh": "不同的",
+    "example": "I tried on these shoes in several different colors.",
+    "example_zh": "我試穿了幾雙不同顏色的鞋子。",
+    "usage": [],
+    "frequency_rank": 65,
+    "level": "國中"
+  },
+  {
+    "word": "camp",
+    "phonetic": "/kæmp/",
+    "pos": "v.",
+    "definition_zh": "露營",
+    "example": "Ed and Jill are going camping this weekend.",
+    "example_zh": "艾德和吉兒這個週末要去露營。",
+    "usage": [
+      {
+        "pattern": "go camping",
+        "meaning_zh": "去露營"
+      }
+    ],
+    "frequency_rank": 66,
+    "level": "國中"
+  },
+  {
+    "word": "robot",
+    "phonetic": "/ˈroʊbɑːt/",
+    "pos": "n.",
+    "definition_zh": "機器人",
+    "example": "Doraemon, a blue Japanese robot cat.",
+    "example_zh": "哆啦A夢，一隻藍色的日本機器貓。",
+    "usage": [],
+    "frequency_rank": 67,
+    "level": "國中"
+  },
+  {
+    "word": "give up",
+    "phonetic": "/ɡɪv ʌp/",
+    "pos": "phr.v.",
+    "definition_zh": "放棄",
+    "example": "I gave it up because of heavy schoolwork.",
+    "example_zh": "我因為繁重的學業而放棄了。",
+    "usage": [],
+    "frequency_rank": 68,
+    "level": "國中"
+  },
+  {
+    "word": "expect",
+    "phonetic": "/ɪkˈspɛkt/",
+    "pos": "v.",
+    "definition_zh": "期望，預期",
+    "example": "Many people expect he will win the best actor prize.",
+    "example_zh": "許多人預期他會贏得最佳男演員獎。",
+    "usage": [],
+    "frequency_rank": 69,
+    "level": "國中"
+  },
+  {
+    "word": "chocolate",
+    "phonetic": "/ˈtʃɒklət/",
+    "pos": "n.",
+    "definition_zh": "巧克力",
+    "example": "You started telling us about the chocolate cake you made at home.",
+    "example_zh": "你開始告訴我們你家裡做的巧克力蛋糕。",
+    "usage": [
+      {
+        "pattern": "chocolate cake",
+        "meaning_zh": "巧克力蛋糕"
+      }
+    ],
+    "frequency_rank": 70,
+    "level": "國中"
+  },
+  {
+    "word": "hospital",
+    "phonetic": "/ˈhɒspɪtl/",
+    "pos": "n.",
+    "definition_zh": "醫院",
+    "example": "Rex is in the hospital.",
+    "example_zh": "雷克斯在醫院。",
+    "usage": [
+      {
+        "pattern": "in the hospital",
+        "meaning_zh": "住院中"
+      }
+    ],
+    "frequency_rank": 71,
+    "level": "國中"
+  },
+  {
+    "word": "believe",
+    "phonetic": "/bɪˈliːv/",
+    "pos": "v.",
+    "definition_zh": "相信",
+    "example": "People believe birds will give up their babies.",
+    "example_zh": "人們相信鳥會放棄牠們的寶寶。",
+    "usage": [],
+    "frequency_rank": 72,
+    "level": "國中"
+  },
+  {
+    "word": "farm",
+    "phonetic": "/fɑːrm/",
+    "pos": "n.",
+    "definition_zh": "農場",
+    "example": "Stage 1 On the farm.",
+    "example_zh": "第一階段：在農場。",
+    "usage": [],
+    "frequency_rank": 73,
+    "level": "國中"
+  },
+  {
+    "word": "lose",
+    "phonetic": "/luːz/",
+    "pos": "v.",
+    "definition_zh": "失去，損失",
+    "example": "Lose food that falls off the truck.",
+    "example_zh": "食物從卡車上掉落而損失。",
+    "usage": [],
+    "frequency_rank": 74,
+    "level": "國中"
+  },
+  {
+    "word": "factory",
+    "phonetic": "/ˈfæktəri/",
+    "pos": "n.",
+    "definition_zh": "工廠",
+    "example": "Stage 3 At factories.",
+    "example_zh": "第三階段：在工廠。",
+    "usage": [],
+    "frequency_rank": 75,
+    "level": "國中"
+  },
+  {
+    "word": "machine",
+    "phonetic": "/məˈʃiːn/",
+    "pos": "n.",
+    "definition_zh": "機器",
+    "example": "Do not have enough machines to make, keep and pack food.",
+    "example_zh": "沒有足夠的機器來製作、保存和包裝食物。",
+    "usage": [],
+    "frequency_rank": 76,
+    "level": "國中"
+  },
+  {
+    "word": "guess",
+    "phonetic": "/ɡɛs/",
+    "pos": "v.",
+    "definition_zh": "猜",
+    "example": "Hey guys, guess what?",
+    "example_zh": "嘿，各位，猜猜看？",
+    "usage": [
+      {
+        "pattern": "guess what",
+        "meaning_zh": "你猜怎麼著"
+      }
+    ],
+    "frequency_rank": 77,
+    "level": "國中"
+  },
+  {
+    "word": "appear",
+    "phonetic": "/əˈpɪər/",
+    "pos": "v.",
+    "definition_zh": "出現",
+    "example": "It first appeared in the opera Fidelio.",
+    "example_zh": "它首次出現在歌劇《費黛里歐》中。",
+    "usage": [],
+    "frequency_rank": 78,
+    "level": "國中"
+  },
+  {
+    "word": "example",
+    "phonetic": "/ɪɡˈzæmpl/",
+    "pos": "n.",
+    "definition_zh": "例子，範例",
+    "example": "He often gives an example to make it clear.",
+    "example_zh": "他經常舉例說明以讓它更清楚。",
+    "usage": [
+      {
+        "pattern": "give an example",
+        "meaning_zh": "舉例"
+      },
+      {
+        "pattern": "for example",
+        "meaning_zh": "例如"
+      }
+    ],
+    "frequency_rank": 79,
+    "level": "國中"
+  },
+  {
+    "word": "newspaper",
+    "phonetic": "/ˈnuːzpeɪpər/",
+    "pos": "n.",
+    "definition_zh": "報紙",
+    "example": "She joined the Sunday Times, a UK newspaper.",
+    "example_zh": "她加入了英國報紙《星期日泰晤士報》。",
+    "usage": [],
+    "frequency_rank": 80,
+    "level": "國中"
+  },
+  {
+    "word": "price",
+    "phonetic": "/praɪs/",
+    "pos": "n.",
+    "definition_zh": "代價",
+    "example": "People were paying the price.",
+    "example_zh": "人們正在付出代價。",
+    "usage": [
+      {
+        "pattern": "pay the price",
+        "meaning_zh": "付出代價"
+      }
+    ],
+    "frequency_rank": 81,
+    "level": "國中"
+  },
+  {
+    "word": "grandparent",
+    "phonetic": "/ˈɡrændpɛərənt/",
+    "pos": "n.",
+    "definition_zh": "祖父母；外祖父母",
+    "example": "My family has lived in New York since my grandparents.",
+    "example_zh": "我的家人從我祖父母那一代起就住在紐約了。",
+    "usage": [],
+    "frequency_rank": 82,
+    "level": "國中"
+  },
+  {
+    "word": "station",
+    "phonetic": "/ˈsteɪʃən/",
+    "pos": "n.",
+    "definition_zh": "車站",
+    "example": "Stacy is staying at a hotel near the White Lake Main Station.",
+    "example_zh": "史黛西住在白湖主車站附近的一家旅館。",
+    "usage": [
+      {
+        "pattern": "main station",
+        "meaning_zh": "主要車站"
+      }
+    ],
+    "frequency_rank": 83,
+    "level": "國中"
+  },
+  {
+    "word": "leaf",
+    "phonetic": "/liːf/",
+    "pos": "n.",
+    "definition_zh": "葉子；樹葉",
+    "example": "The tree leaves hop off.",
+    "example_zh": "樹葉紛紛落下。",
+    "usage": [
+      {
+        "pattern": "leaves",
+        "meaning_zh": "複數 (葉子)"
+      }
+    ],
+    "frequency_rank": 84,
+    "level": "國中"
+  },
+  {
+    "word": "mix",
+    "phonetic": "/mɪks/",
+    "pos": "v.",
+    "definition_zh": "混合；攪拌",
+    "example": "Keep mixing for about five to ten minutes.",
+    "example_zh": "持續攪拌約五到十分鐘。",
+    "usage": [
+      {
+        "pattern": "mix A with B",
+        "meaning_zh": "將 A 與 B 混合"
+      }
+    ],
+    "frequency_rank": 85,
+    "level": "國中"
+  },
+  {
+    "word": "bian-dang",
+    "phonetic": "/ˌbiːænˈdæŋ/",
+    "pos": "n.",
+    "definition_zh": "便當 (日式或台式盒飯)",
+    "example": "In the menu you can find fried chicken with rice, pork dumplings, tea eggs, and other popular Taiwanese dishes.",
+    "example_zh": "菜單上你可以找到炸雞飯、豬肉水餃、茶葉蛋和其他受歡迎的台灣菜餚。",
+    "usage": [],
+    "frequency_rank": 86,
+    "level": "國中"
+  },
+  {
+    "word": "national",
+    "phonetic": "/ˈnæʃənəl/",
+    "pos": "adj.",
+    "definition_zh": "國家的；民族的",
+    "example": "They drew Taiwan's national flower, the plum blossom, on it.",
+    "example_zh": "他們在上面畫上了台灣的國花—梅花。",
+    "usage": [
+      {
+        "pattern": "national holiday",
+        "meaning_zh": "國定假日"
+      }
+    ],
+    "frequency_rank": 87,
+    "level": "國中"
+  },
+  {
+    "word": "brain",
+    "phonetic": "/breɪn/",
+    "pos": "n.",
+    "definition_zh": "大腦",
+    "example": "Some studies show that teenagers' brains make melatonin.",
+    "example_zh": "一些研究顯示，青少年的大腦會製造褪黑激素。",
+    "usage": [],
+    "frequency_rank": 88,
+    "level": "國中"
+  },
+  {
+    "word": "hormone",
+    "phonetic": "/ˈhɔːrmoʊn/",
+    "pos": "n.",
+    "definition_zh": "荷爾蒙；激素",
+    "example": "Melatonin, the hormone that helps sleep.",
+    "example_zh": "褪黑激素，這種荷爾蒙有助於睡眠。",
+    "usage": [],
+    "frequency_rank": 89,
+    "level": "國中"
+  },
+  {
+    "word": "melt",
+    "phonetic": "/melt/",
+    "pos": "v.",
+    "definition_zh": "融化；熔化",
+    "example": "The Arctic ice has kept melting.",
+    "example_zh": "北極的冰持續融化。",
+    "usage": [],
+    "frequency_rank": 90,
+    "level": "國中"
+  },
+  {
+    "word": "hunt",
+    "phonetic": "/hʌnt/",
+    "pos": "v.",
+    "definition_zh": "打獵；搜尋",
+    "example": "These changes have made it harder to live by hunting and fishing.",
+    "example_zh": "這些變化使得靠打獵和捕魚維生變得更加困難。",
+    "usage": [],
+    "frequency_rank": 91,
+    "level": "國中"
+  },
+  {
+    "word": "commute",
+    "phonetic": "/kəˈmjuːt/",
+    "pos": "n.",
+    "definition_zh": "通勤；上下班路程",
+    "example": "Having a long commute means you'll get fewer hours of sleep.",
+    "example_zh": "漫長的通勤意味著你會減少睡眠時間。",
+    "usage": [
+      {
+        "pattern": "long commute",
+        "meaning_zh": "漫長的通勤"
+      }
+    ],
+    "frequency_rank": 92,
+    "level": "國中"
+  },
+  {
+    "word": "host",
+    "phonetic": "/hoʊst/",
+    "pos": "v.",
+    "definition_zh": "舉辦；擔任主辦人",
+    "example": "People in the city of Munich have spoken their mind: they do not want to host the Winter Olympics in 2022.",
+    "example_zh": "慕尼黑市民已表明心聲：他們不想在 2022 年舉辦冬季奧運會。",
+    "usage": [
+      {
+        "pattern": "host city",
+        "meaning_zh": "主辦城市"
+      }
+    ],
+    "frequency_rank": 93,
+    "level": "國中"
+  },
+  {
+    "word": "Olympics",
+    "phonetic": "/oʊˈlɪmpɪks/",
+    "pos": "n.",
+    "definition_zh": "奧林匹克運動會；奧運",
+    "example": "Munich hosted the 1972 Summer Olympics.",
+    "example_zh": "慕尼黑曾於 1972 年舉辦夏季奧運會。",
+    "usage": [
+      {
+        "pattern": "Summer/Winter Olympics",
+        "meaning_zh": "夏季/冬季奧運會"
+      }
+    ],
+    "frequency_rank": 94,
+    "level": "國中"
+  },
+  {
+    "word": "yard sale",
+    "phonetic": "/ˈjɑːrd seɪl/",
+    "pos": "n.",
+    "definition_zh": "庭院拍賣；舊物出售",
+    "example": "I'm thinking about having a yard sale.",
+    "example_zh": "我正在考慮辦一場庭院拍賣。",
+    "usage": [],
+    "frequency_rank": 95,
+    "level": "國中"
+  },
+  {
+    "word": "successful",
+    "phonetic": "/səkˈsesfəl/",
+    "pos": "adj.",
+    "definition_zh": "成功的",
+    "example": "Jamie had a successful yard sale last week.",
+    "example_zh": "Jamie 上週辦了一場成功的庭院拍賣。",
+    "usage": [],
+    "frequency_rank": 96,
+    "level": "國中"
+  },
+  {
+    "word": "ad",
+    "phonetic": "/æd/",
+    "pos": "n.",
+    "definition_zh": "廣告 (advertisement 的縮寫)",
+    "example": "Here is an ad for Sunny Market.",
+    "example_zh": "這是陽光超市的廣告。",
+    "usage": [],
+    "frequency_rank": 97,
+    "level": "國中"
+  },
+  {
+    "word": "dessert",
+    "phonetic": "/dɪˈzɜːrt/",
+    "pos": "n.",
+    "definition_zh": "甜點",
+    "example": "You can get any of the desserts on the right for free!",
+    "example_zh": "你可以免費獲得右邊的任何甜點！",
+    "usage": [],
+    "frequency_rank": 98,
+    "level": "國中"
+  },
+  {
+    "word": "butter",
+    "phonetic": "/ˈbʌtər/",
+    "pos": "n.",
+    "definition_zh": "奶油",
+    "example": "You'll need to mix chocolate with butter and sugar.",
+    "example_zh": "你需要將巧克力和奶油、糖混合。",
+    "usage": [],
+    "frequency_rank": 99,
+    "level": "國中"
+  },
+  {
+    "word": "sugar",
+    "phonetic": "/ˈʃʊɡər/",
+    "pos": "n.",
+    "definition_zh": "糖",
+    "example": "You'll need to mix chocolate with butter and sugar.",
+    "example_zh": "你需要將巧克力和奶油、糖混合。",
+    "usage": [],
+    "frequency_rank": 100,
+    "level": "國中"
+  },
+  {
+    "word": "shine",
+    "phonetic": "/ʃaɪn/",
+    "pos": "n.",
+    "definition_zh": "光澤；光芒",
+    "example": "Keep the water under 50°C, or the chocolate may lose its shine.",
+    "example_zh": "保持水溫在 50°C 以下，否則巧克力可能會失去光澤。",
+    "usage": [],
+    "frequency_rank": 101,
+    "level": "國中"
+  },
+  {
+    "word": "slack",
+    "phonetic": "/slæk/",
+    "pos": "adj.",
+    "definition_zh": "清淡的；不景氣的",
+    "example": "At first, business was slack.",
+    "example_zh": "起初，生意清淡。",
+    "usage": [
+      {
+        "pattern": "business is slack",
+        "meaning_zh": "生意不景氣"
+      }
+    ],
+    "frequency_rank": 102,
+    "level": "國中"
+  },
+  {
+    "word": "menu",
+    "phonetic": "/ˈmenjuː/",
+    "pos": "n.",
+    "definition_zh": "菜單",
+    "example": "On the menu you can find fried chicken with rice.",
+    "example_zh": "菜單上你可以找到炸雞飯。",
+    "usage": [],
+    "frequency_rank": 103,
+    "level": "國中"
+  },
+  {
+    "word": "melatonin",
+    "phonetic": "/ˌmeləˈtoʊnɪn/",
+    "pos": "n.",
+    "definition_zh": "褪黑激素",
+    "example": "Some studies show that teenagers' brains make melatonin.",
+    "example_zh": "一些研究顯示，青少年的大腦會製造褪黑激素。",
+    "usage": [],
+    "frequency_rank": 104,
+    "level": "國中"
+  },
+  {
+    "word": "Inuit",
+    "phonetic": "/ˈɪnuɪt/",
+    "pos": "n.",
+    "definition_zh": "因紐特人 (愛斯基摩人)",
+    "example": "This small Arctic village is home to 400 Inuit people.",
+    "example_zh": "這個小的北極村莊是 400 名因紐特人的家園。",
+    "usage": [],
+    "frequency_rank": 105,
+    "level": "國中"
+  },
+  {
+    "word": "uninhabitable",
+    "phonetic": "/ˌʌnɪnˈhæbɪtəbəl/",
+    "pos": "adj.",
+    "definition_zh": "不適合居住的",
+    "example": "Their home will become uninhabitable because the island could be covered by the Chukchi Sea by 2025.",
+    "example_zh": "他們的家園將變得不適合居住，因為到 2025 年，該島可能會被楚科奇海淹沒。",
+    "usage": [],
+    "frequency_rank": 106,
+    "level": "國中"
+  },
+  {
+    "word": "village",
+    "phonetic": "/ˈvɪlɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "村莊",
+    "example": "Kivalina, an island village in Alaska, USA, is known by only a few people.",
+    "example_zh": "位於美國阿拉斯加州的島嶼村莊基瓦利納，鮮為人知。",
+    "usage": [],
+    "frequency_rank": 107,
+    "level": "國中"
+  },
+  {
+    "word": "Arctic",
+    "phonetic": "/ˈɑːrktɪk/",
+    "pos": "adj.",
+    "definition_zh": "北極的",
+    "example": "This small Arctic village is home to 400 Inuit people.",
+    "example_zh": "這個小的北極村莊是 400 名因紐特人的家園。",
+    "usage": [
+      {
+        "pattern": "Arctic ice",
+        "meaning_zh": "北極冰"
+      }
+    ],
+    "frequency_rank": 108,
+    "level": "國中"
+  },
+  {
+    "word": "rising",
+    "phonetic": "/ˈraɪzɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "上升的；增長的",
+    "example": "The sea has been rising.",
+    "example_zh": "海平面一直在上升。",
+    "usage": [
+      {
+        "pattern": "rising sea levels",
+        "meaning_zh": "上升的海平面"
+      }
+    ],
+    "frequency_rank": 109,
+    "level": "國中"
+  },
+  {
+    "word": "thick",
+    "phonetic": "/θɪk/",
+    "pos": "adj.",
+    "definition_zh": "厚的",
+    "example": "There is no Arctic ice thick enough to keep them safe from terrible wind and rain.",
+    "example_zh": "沒有足夠厚的北極冰層來保護他們免受可怕的風雨侵襲。",
+    "usage": [
+      {
+        "pattern": "thick ice",
+        "meaning_zh": "厚冰"
+      }
+    ],
+    "frequency_rank": 110,
+    "level": "國中"
+  },
+  {
+    "word": "oil",
+    "phonetic": "/ɔɪl/",
+    "pos": "n.",
+    "definition_zh": "石油；油",
+    "example": "These Inuit people think it is the oil and power companies in Alaska that have brought all these troubles.",
+    "example_zh": "這些因紐特人認為是阿拉斯加的石油和電力公司帶來了所有這些麻煩。",
+    "usage": [
+      {
+        "pattern": "oil company",
+        "meaning_zh": "石油公司"
+      }
+    ],
+    "frequency_rank": 111,
+    "level": "國中"
+  },
+  {
+    "word": "cost",
+    "phonetic": "/kɔːst/",
+    "pos": "v.",
+    "definition_zh": "花費",
+    "example": "It would cost hundreds of millions to move their village.",
+    "example_zh": "搬遷他們的村莊將花費數億（美元）。",
+    "usage": [
+      {
+        "pattern": "cost (someone) money",
+        "meaning_zh": "讓（某人）花錢"
+      }
+    ],
+    "frequency_rank": 112,
+    "level": "國中"
+  },
+  {
+    "word": "health",
+    "phonetic": "/helθ/",
+    "pos": "n.",
+    "definition_zh": "健康",
+    "example": "A long commute not only eats up your time but also hurts your health.",
+    "example_zh": "漫長的通勤不僅佔用你的時間，也會損害你的健康。",
+    "usage": [
+      {
+        "pattern": "good health",
+        "meaning_zh": "身體健康"
+      }
+    ],
+    "frequency_rank": 113,
+    "level": "國中"
+  },
+  {
+    "word": "nature",
+    "phonetic": "/ˈneɪtʃər/",
+    "pos": "n.",
+    "definition_zh": "大自然",
+    "example": "Life would become terrible and nature would be hurt.",
+    "example_zh": "生活將變得糟糕，大自然也會受到傷害。",
+    "usage": [
+      {
+        "pattern": "in nature",
+        "meaning_zh": "在大自然中"
+      }
+    ],
+    "frequency_rank": 114,
+    "level": "國中"
+  },
+  {
+    "word": "lesson",
+    "phonetic": "/ˈlesən/",
+    "pos": "n.",
+    "definition_zh": "教訓；課程",
+    "example": "It is a lesson they learned from hard experience.",
+    "example_zh": "這是他們從艱難的經驗中學到的教訓。",
+    "usage": [
+      {
+        "pattern": "learn a lesson",
+        "meaning_zh": "學到教訓"
+      }
+    ],
+    "frequency_rank": 115,
+    "level": "國中"
+  },
+  {
+    "word": "however",
+    "phonetic": "/haʊˈevər/",
+    "pos": "adv.",
+    "definition_zh": "然而；不過",
+    "example": "However, they are happy that Munich said no to the Olympics.",
+    "example_zh": "然而，他們很高興慕尼黑對奧運會說不。",
+    "usage": [],
+    "frequency_rank": 116,
+    "level": "國中"
+  },
+  {
+    "word": "instructions",
+    "phonetic": "/ɪnˈstrʌkʃənz/",
+    "pos": "n.",
+    "definition_zh": "指示，說明",
+    "example": "Please read the instructions carefully before starting the test.",
+    "example_zh": "請在開始測驗前仔細閱讀說明。",
+    "usage": [],
+    "frequency_rank": 117,
+    "level": "國中"
+  },
+  {
+    "word": "erase",
+    "phonetic": "/ɪˈreɪs/",
+    "pos": "v.",
+    "definition_zh": "擦掉",
+    "example": "If you need to change your answer, please erase it clean.",
+    "example_zh": "如果需要修改答案，請使用橡皮擦擦拭乾淨。",
+    "usage": [],
+    "frequency_rank": 118,
+    "level": "國中"
+  },
+  {
+    "word": "improper",
+    "phonetic": "/ɪmˈprɒpər/",
+    "pos": "adj.",
+    "definition_zh": "不適當的，錯誤的",
+    "example": "Improper marking may lead to incorrect judgment by the computer.",
+    "example_zh": "不適當的畫記方式，可能導致電腦無法正確判讀。",
+    "usage": [],
+    "frequency_rank": 119,
+    "level": "國中"
+  },
+  {
+    "word": "bow",
+    "phonetic": "/baʊ/",
+    "pos": "v.",
+    "definition_zh": "鞠躬",
+    "example": "In the picture, the boy is bowing to the old man.",
+    "example_zh": "圖中，男孩正在向老人鞠躬。",
+    "usage": [
+      {
+        "pattern": "bow to",
+        "meaning_zh": "向…鞠躬"
+      }
+    ],
+    "frequency_rank": 120,
+    "level": "國中"
+  },
+  {
+    "word": "engineer",
+    "phonetic": "/ˌɛndʒɪˈnɪər/",
+    "pos": "n.",
+    "definition_zh": "工程師",
+    "example": "Edward had worked as a computer engineer for ten years.",
+    "example_zh": "Edward 曾擔任電腦工程師十年。",
+    "usage": [],
+    "frequency_rank": 121,
+    "level": "國中"
+  },
+  {
+    "word": "hobby",
+    "phonetic": "/ˈhɒbi/",
+    "pos": "n.",
+    "definition_zh": "嗜好",
+    "example": "Reading is her favorite hobby.",
+    "example_zh": "閱讀是她最喜歡的嗜好。",
+    "usage": [],
+    "frequency_rank": 122,
+    "level": "國中"
+  },
+  {
+    "word": "knowledge",
+    "phonetic": "/ˈnɒlɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "知識",
+    "example": "He has a lot of knowledge about computers.",
+    "example_zh": "他對電腦有很多知識。",
+    "usage": [],
+    "frequency_rank": 123,
+    "level": "國中"
+  },
+  {
+    "word": "interested",
+    "phonetic": "/ˈɪntrəstɪd/",
+    "pos": "adj.",
+    "definition_zh": "感興趣的",
+    "example": "If you're interested in our business plan, call this number.",
+    "example_zh": "如果您對我們的商業計畫感興趣，請撥打這個號碼。",
+    "usage": [
+      {
+        "pattern": "interested in",
+        "meaning_zh": "對…感興趣"
+      }
+    ],
+    "frequency_rank": 124,
+    "level": "國中"
+  },
+  {
+    "word": "sadly",
+    "phonetic": "/ˈsædli/",
+    "pos": "adv.",
+    "definition_zh": "傷心地，可惜地",
+    "example": "Sadly, the business never got better.",
+    "example_zh": "可惜的是，這門生意從未好轉。",
+    "usage": [],
+    "frequency_rank": 125,
+    "level": "國中"
+  },
+  {
+    "word": "snacks",
+    "phonetic": "/snæks/",
+    "pos": "n.",
+    "definition_zh": "點心，零食",
+    "example": "Beverly eats lots of snacks between meals.",
+    "example_zh": "Beverly 在兩餐之間吃很多點心。",
+    "usage": [],
+    "frequency_rank": 126,
+    "level": "國中"
+  },
+  {
+    "word": "mealtimes",
+    "phonetic": "/ˈmiːltaɪmz/",
+    "pos": "n.",
+    "definition_zh": "用餐時間",
+    "example": "She is often too full to eat anything at mealtimes.",
+    "example_zh": "她經常飽到用餐時間什麼都吃不下。",
+    "usage": [
+      {
+        "pattern": "at mealtimes",
+        "meaning_zh": "在用餐時間"
+      }
+    ],
+    "frequency_rank": 127,
+    "level": "國中"
+  },
+  {
+    "word": "drawer",
+    "phonetic": "/drɔːr/",
+    "pos": "n.",
+    "definition_zh": "抽屜",
+    "example": "Can I check your drawer for some tools?",
+    "example_zh": "我能檢查你的抽屜找些工具嗎？",
+    "usage": [],
+    "frequency_rank": 128,
+    "level": "國中"
+  },
+  {
+    "word": "surprises",
+    "phonetic": "/sərˈpraɪzɪz/",
+    "pos": "n.",
+    "definition_zh": "驚喜",
+    "example": "We've prepared many wonderful surprises for you.",
+    "example_zh": "我們為您準備了許多精彩的驚喜。",
+    "usage": [],
+    "frequency_rank": 129,
+    "level": "國中"
+  },
+  {
+    "word": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "pos": "adj.",
+    "definition_zh": "害怕的；畏懼的",
+    "example": "Peter is afraid of the dark.",
+    "example_zh": "彼得怕黑。",
+    "frequency_rank": 130,
+    "level": "國中"
+  },
+  {
+    "word": "choice",
+    "phonetic": "/tʃɔɪs/",
+    "pos": "n.",
+    "definition_zh": "選擇",
+    "example": "That is a hard choice to make because he likes them both.",
+    "example_zh": "那是一個難以做出的選擇，因為他兩個都喜歡。",
+    "frequency_rank": 131,
+    "level": "國中"
+  },
+  {
+    "word": "common",
+    "phonetic": "/ˈkɑːmən/",
+    "pos": "adj.",
+    "definition_zh": "常見的；普遍的",
+    "example": "It was common for us to answer the math question.",
+    "example_zh": "對我們來說，回答這道數學題是很常見的。",
+    "frequency_rank": 132,
+    "level": "國中"
+  },
+  {
+    "word": "lazy",
+    "phonetic": "/ˈleɪzi/",
+    "pos": "adj.",
+    "definition_zh": "懶惰的",
+    "example": "Bob is the laziest of the boys in the family.",
+    "example_zh": "鮑伯是家裡最懶的男孩。",
+    "frequency_rank": 133,
+    "level": "國中"
+  },
+  {
+    "word": "typhoon",
+    "phonetic": "/taɪˈfuːn/",
+    "pos": "n.",
+    "definition_zh": "颱風",
+    "example": "We won't see the sun even after the typhoon leaves.",
+    "example_zh": "即使颱風離開後，我們也看不到太陽。",
+    "frequency_rank": 134,
+    "level": "國中"
+  },
+  {
+    "word": "lend",
+    "phonetic": "/lend/",
+    "pos": "v.",
+    "definition_zh": "借出",
+    "example": "You were wise not to lend Amy money.",
+    "example_zh": "你很明智，沒有借錢給艾咪。",
+    "frequency_rank": 135,
+    "level": "國中"
+  },
+  {
+    "word": "borrow",
+    "phonetic": "/ˈbɑːroʊ/",
+    "pos": "v.",
+    "definition_zh": "借入",
+    "example": "She never gives back what she borrows.",
+    "example_zh": "她從不歸還她借的東西。",
+    "frequency_rank": 136,
+    "level": "國中"
+  },
+  {
+    "word": "wise",
+    "phonetic": "/waɪz/",
+    "pos": "adj.",
+    "definition_zh": "明智的；聰明的",
+    "example": "You were wise not to lend Amy money.",
+    "example_zh": "你很明智，沒有借錢給艾咪。",
+    "frequency_rank": 137,
+    "level": "國中"
+  },
+  {
+    "word": "take care of",
+    "phonetic": "/teɪk ker ʌv/",
+    "pos": "phr. v.",
+    "definition_zh": "照顧",
+    "example": "Mr. Firth someone to take care of his kids during the vacation.",
+    "example_zh": "費爾斯先生想找人照顧他的孩子，假期期間。",
+    "frequency_rank": 138,
+    "level": "國中"
+  },
+  {
+    "word": "trolling",
+    "phonetic": "/ˈtroʊlɪŋ/",
+    "pos": "n.",
+    "definition_zh": "網路霸凌 (在網路上發布煽動性或惡意言論)",
+    "example": "While reading this story, Brad saw the word “trolling” and didn't know what it meant.",
+    "example_zh": "閱讀這個故事時，布萊德看到了「trolling」這個詞，但他不知道是什麼意思。",
+    "frequency_rank": 139,
+    "level": "國中"
+  },
+  {
+    "word": "dictionary",
+    "phonetic": "/ˈdɪkʃəneri/",
+    "pos": "n.",
+    "definition_zh": "字典",
+    "example": "He found several meanings of the word in a dictionary.",
+    "example_zh": "他在字典中查到了這個詞的幾個意思。",
+    "frequency_rank": 140,
+    "level": "國中"
+  },
+  {
+    "word": "fishing line",
+    "phonetic": "/ˈfɪʃɪŋ laɪn/",
+    "pos": "n.",
+    "definition_zh": "釣魚線",
+    "example": "To pull a fishing line through the water, often from a boat.",
+    "example_zh": "從船上拖著釣魚線在水中釣魚。",
+    "frequency_rank": 141,
+    "level": "國中"
+  },
+  {
+    "word": "angry",
+    "phonetic": "/ˈæŋɡri/",
+    "pos": "adj.",
+    "definition_zh": "生氣的",
+    "example": "To write something on the Internet to hurt someone or make them angry.",
+    "example_zh": "在網路上寫些東西來傷害某人或讓他們生氣。",
+    "frequency_rank": 142,
+    "level": "國中"
+  },
+  {
+    "word": "paste",
+    "phonetic": "/peɪst/",
+    "pos": "v.",
+    "definition_zh": "貼上",
+    "example": "Cut out the picture of the tea cup ... collect two of the pictures, and paste them on a postcard.",
+    "example_zh": "剪下茶杯的圖片......收集兩張圖片，然後貼在明信片上。",
+    "frequency_rank": 143,
+    "level": "國中"
+  },
+  {
+    "word": "postcard",
+    "phonetic": "/ˈpoʊstˌkɑːrd/",
+    "pos": "n.",
+    "definition_zh": "明信片",
+    "example": "Send the postcard to 'Tea-Rock 20'.",
+    "example_zh": "將明信片寄到「Tea-Rock 20」。",
+    "frequency_rank": 144,
+    "level": "國中"
+  },
+  {
+    "word": "surprise",
+    "phonetic": "/sərˈpraɪz/",
+    "pos": "n.",
+    "definition_zh": "驚喜",
+    "example": "And many more surprises for you!",
+    "example_zh": "還有更多驚喜等著你！",
+    "frequency_rank": 145,
+    "level": "國中"
+  },
+  {
+    "word": "dangerously",
+    "phonetic": "/ˈdeɪndʒərəsli/",
+    "pos": "adv.",
+    "definition_zh": "危險地",
+    "example": "Dangerously Sweet: Sugar",
+    "example_zh": "危險的甜：糖",
+    "frequency_rank": 146,
+    "level": "國中"
+  },
+  {
+    "word": "hidden",
+    "phonetic": "/ˈhɪdn/",
+    "pos": "adj.",
+    "definition_zh": "隱藏的",
+    "example": "Sugar that is hidden in foods and drinks.",
+    "example_zh": "隱藏在食物和飲料中的糖。",
+    "frequency_rank": 147,
+    "level": "國中"
+  },
+  {
+    "word": "infographic",
+    "phonetic": "/ˌɪnfoʊˈɡræfɪk/",
+    "pos": "n.",
+    "definition_zh": "資訊圖表",
+    "example": "Below is an infographic.",
+    "example_zh": "下面是一張資訊圖表。",
+    "frequency_rank": 148,
+    "level": "國中"
+  },
+  {
+    "word": "hole",
+    "phonetic": "/hoʊl/",
+    "pos": "n.",
+    "definition_zh": "洞",
+    "example": "holes in our teeth",
+    "example_zh": "蛀牙",
+    "frequency_rank": 149,
+    "level": "國中"
+  },
+  {
+    "word": "liver",
+    "phonetic": "/ˈlɪvər/",
+    "pos": "n.",
+    "definition_zh": "肝臟",
+    "example": "liver problems",
+    "example_zh": "肝臟問題",
+    "frequency_rank": 150,
+    "level": "國中"
+  },
+  {
+    "word": "heart",
+    "phonetic": "/hɑːrt/",
+    "pos": "n.",
+    "definition_zh": "心臟",
+    "example": "heart problems",
+    "example_zh": "心臟問題",
+    "frequency_rank": 151,
+    "level": "國中"
+  },
+  {
+    "word": "stomach",
+    "phonetic": "/ˈstʌmək/",
+    "pos": "n.",
+    "definition_zh": "胃",
+    "example": "stomach problems",
+    "example_zh": "胃部問題",
+    "frequency_rank": 152,
+    "level": "國中"
+  },
+  {
+    "word": "worried",
+    "phonetic": "/ˈwɜːrid/",
+    "pos": "adj.",
+    "definition_zh": "擔憂的；焦慮的",
+    "example": "feeling worried or unhappy easily",
+    "example_zh": "容易感到擔憂或不快樂",
+    "frequency_rank": 153,
+    "level": "國中"
+  },
+  {
+    "word": "unhappy",
+    "phonetic": "/ʌnˈhæpi/",
+    "pos": "adj.",
+    "definition_zh": "不快樂的",
+    "example": "feeling worried or unhappy easily",
+    "example_zh": "容易感到擔憂或不快樂",
+    "frequency_rank": 154,
+    "level": "國中"
+  },
+  {
+    "word": "cheesecake",
+    "phonetic": "/ˈtʃiːzkeɪk/",
+    "pos": "n.",
+    "definition_zh": "起司蛋糕",
+    "example": "cheesecake (95 g)",
+    "example_zh": "起司蛋糕（95 克）",
+    "frequency_rank": 155,
+    "level": "國中"
+  },
+  {
+    "word": "cola",
+    "phonetic": "/ˈkoʊlə/",
+    "pos": "n.",
+    "definition_zh": "可樂",
+    "example": "cola (330 ml)",
+    "example_zh": "可樂（330 毫升）",
+    "frequency_rank": 156,
+    "level": "國中"
+  },
+  {
+    "word": "sports drink",
+    "phonetic": "/spɔːrts drɪŋk/",
+    "pos": "n.",
+    "definition_zh": "運動飲料",
+    "example": "sports drink (590 ml)",
+    "example_zh": "運動飲料（590 毫升）",
+    "frequency_rank": 157,
+    "level": "國中"
+  },
+  {
+    "word": "knowing",
+    "phonetic": "/ˈnoʊɪŋ/",
+    "pos": "n.",
+    "definition_zh": "知識；知曉",
+    "example": "To tell us that we often have more sugar than we can without knowing it.",
+    "example_zh": "告訴我們，我們常常在不知不覺中攝取了過多的糖。",
+    "frequency_rank": 158,
+    "level": "國中"
+  },
+  {
+    "word": "homework",
+    "phonetic": "/ˈhoʊmwɜːrk/",
+    "pos": "n.",
+    "definition_zh": "家庭作業",
+    "example": "I was thinking about my homework.",
+    "example_zh": "我在想我的功課。",
+    "frequency_rank": 159,
+    "level": "國中"
+  },
+  {
+    "word": "library",
+    "phonetic": "/ˈlaɪbreri/",
+    "pos": "n.",
+    "definition_zh": "圖書館",
+    "example": "Maybe I should go to the library and look for something useful.",
+    "example_zh": "或許我應該去圖書館找些有用的東西。",
+    "frequency_rank": 160,
+    "level": "國中"
+  },
+  {
+    "word": "useful",
+    "phonetic": "/ˈjuːsfəl/",
+    "pos": "adj.",
+    "definition_zh": "有用的",
+    "example": "Maybe I should go to the library and look for something useful.",
+    "example_zh": "或許我應該去圖書館找些有用的東西。",
+    "frequency_rank": 161,
+    "level": "國中"
+  },
+  {
+    "word": "A to Z",
+    "phonetic": "/ˌeɪ tə ˈziː/",
+    "pos": "phr.",
+    "definition_zh": "從頭到尾；全面地",
+    "example": "learn something from A to Z",
+    "example_zh": "從頭到尾學習某事",
+    "frequency_rank": 162,
+    "level": "國中"
+  },
+  {
+    "word": "calorie",
+    "phonetic": "/ˈkæləri/",
+    "pos": "n.",
+    "definition_zh": "卡路里",
+    "example": "your body will keep burning calories for at least an hour after 4 minutes of Tabata training.",
+    "example_zh": "你的身體在間歇訓練4分鐘後，會持續燃燒卡路里至少一個小時。",
+    "frequency_rank": 163,
+    "level": "國中"
+  },
+  {
+    "word": "space",
+    "phonetic": "/speɪs/",
+    "pos": "n.",
+    "definition_zh": "空間",
+    "example": "It doesn't take much time or space.",
+    "example_zh": "它不需要花很多時間或空間。",
+    "frequency_rank": 164,
+    "level": "國中"
+  },
+  {
+    "word": "simple",
+    "phonetic": "/ˈsɪmpəl/",
+    "pos": "adj.",
+    "definition_zh": "簡單的",
+    "example": "The idea of Tabata training is simple.",
+    "example_zh": "間歇訓練的概念很簡單。",
+    "frequency_rank": 165,
+    "level": "國中"
+  },
+  {
+    "word": "repeat",
+    "phonetic": "/rɪˈpiːt/",
+    "pos": "v.",
+    "definition_zh": "重複",
+    "example": "exercise for 20 seconds, rest for 10 seconds, and then repeat.",
+    "example_zh": "運動20秒，休息10秒，然後重複。",
+    "frequency_rank": 166,
+    "level": "國中"
+  },
+  {
+    "word": "afterburn",
+    "phonetic": "/ˈæftərbɜːrn/",
+    "pos": "n.",
+    "definition_zh": "後燃效應 (運動後身體仍持續燃燒熱量)",
+    "example": "But to have this wonderful 'afterburn,' you need to exercise really hard during each 20 seconds.",
+    "example_zh": "但要擁有這種奇妙的「後燃效應」，你需要在每20秒的運動中非常努力。",
+    "frequency_rank": 167,
+    "level": "國中"
+  },
+  {
+    "word": "seldom",
+    "phonetic": "/ˈseldəm/",
+    "pos": "adv.",
+    "definition_zh": "很少；不常",
+    "example": "If you seldom exercise or have heart problems, this exercise may not be good for you.",
+    "example_zh": "如果你很少運動或有心臟問題，這種運動可能不適合你。",
+    "frequency_rank": 168,
+    "level": "國中"
+  },
+  {
+    "word": "workplace",
+    "phonetic": "/ˈwɜːrkpleɪs/",
+    "pos": "n.",
+    "definition_zh": "工作場所",
+    "example": "Modern Workplace",
+    "example_zh": "現代職場",
+    "frequency_rank": 169,
+    "level": "國中"
+  },
+  {
+    "word": "overtime",
+    "phonetic": "/ˈoʊvərtaɪm/",
+    "pos": "n.",
+    "definition_zh": "加班",
+    "example": "They have at least one “No Overtime Day” in a week.",
+    "example_zh": "他們一週至少有一天「不加班日」。",
+    "frequency_rank": 170,
+    "level": "國中"
+  },
+  {
+    "word": "office",
+    "phonetic": "/ˈɑːfɪs/",
+    "pos": "n.",
+    "definition_zh": "辦公室",
+    "example": "workers are asked to leave their offices before 8 p.m.",
+    "example_zh": "員工被要求在晚上8點前離開辦公室。",
+    "frequency_rank": 171,
+    "level": "國中"
+  },
+  {
+    "word": "turn off",
+    "phonetic": "/tɜːrn ɔːf/",
+    "pos": "phr. v.",
+    "definition_zh": "關掉",
+    "example": "and turn off all the lights.",
+    "example_zh": "並關掉所有燈。",
+    "frequency_rank": 172,
+    "level": "國中"
+  },
+  {
+    "word": "coffee shop",
+    "phonetic": "/ˈkɑːfi ʃɑːp/",
+    "pos": "n.",
+    "definition_zh": "咖啡店",
+    "example": "Restaurants and coffee shops are busier on Wednesday evenings.",
+    "example_zh": "餐廳和咖啡店在週三晚上生意更忙碌。",
+    "frequency_rank": 173,
+    "level": "國中"
+  },
+  {
+    "word": "evening",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "pos": "n.",
+    "definition_zh": "傍晚；晚上",
+    "example": "on Wednesday evenings.",
+    "example_zh": "在週三晚上。",
+    "frequency_rank": 174,
+    "level": "國中"
+  },
+  {
+    "word": "sell",
+    "phonetic": "/sel/",
+    "pos": "v.",
+    "definition_zh": "販售",
+    "example": "and they have started selling drinks and meals for these workers.",
+    "example_zh": "他們已經開始為這些員工販售飲料和餐點。",
+    "frequency_rank": 175,
+    "level": "國中"
+  },
+  {
+    "word": "drink",
+    "phonetic": "/drɪŋk/",
+    "pos": "n.",
+    "definition_zh": "飲料",
+    "example": "selling drinks and meals",
+    "example_zh": "販售飲料和餐點",
+    "frequency_rank": 176,
+    "level": "國中"
+  },
+  {
+    "word": "meal",
+    "phonetic": "/miːl/",
+    "pos": "n.",
+    "definition_zh": "餐點",
+    "example": "selling drinks and meals",
+    "example_zh": "販售飲料和餐點",
+    "frequency_rank": 177,
+    "level": "國中"
+  },
+  {
+    "word": "chance",
+    "phonetic": "/tʃæns/",
+    "pos": "n.",
+    "definition_zh": "機會",
+    "example": "workers who work more hours often have a bigger chance to get paid more and rise higher in their companies.",
+    "example_zh": "工時越長的員工通常有更大的機會獲得更高的薪水並在公司晉升。",
+    "frequency_rank": 178,
+    "level": "國中"
+  },
+  {
+    "word": "paid",
+    "phonetic": "/peɪd/",
+    "pos": "adj.",
+    "definition_zh": "有薪水的",
+    "example": "get paid more",
+    "example_zh": "獲得更高的薪水",
+    "frequency_rank": 179,
+    "level": "國中"
+  },
+  {
+    "word": "rise",
+    "phonetic": "/raɪz/",
+    "pos": "v.",
+    "definition_zh": "上升；晉升",
+    "example": "and rise higher in their companies.",
+    "example_zh": "並在他們的公司中晉升更高職位。",
+    "frequency_rank": 180,
+    "level": "國中"
+  },
+  {
+    "word": "hard-working",
+    "phonetic": "/ˌhɑːrdˈwɜːrkɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "勤奮的",
+    "example": "Working long hours has become a way to show that people are hard-working.",
+    "example_zh": "長時間工作已成為一種表現人們勤奮的方式。",
+    "frequency_rank": 181,
+    "level": "國中"
+  },
+  {
+    "word": "average",
+    "phonetic": "/ˈævərɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "平均",
+    "example": "Average working hours in a year",
+    "example_zh": "一年平均工時",
+    "frequency_rank": 182,
+    "level": "國中"
+  },
+  {
+    "word": "deal with",
+    "phonetic": "/diːl wɪθ/",
+    "pos": "phr. v.",
+    "definition_zh": "處理；應付",
+    "example": "How workers deal with “No Overtime Day”.",
+    "example_zh": "員工如何應對「不加班日」。",
+    "frequency_rank": 183,
+    "level": "國中"
+  },
+  {
+    "word": "usually",
+    "phonetic": "/ˈjuːʒuəli/",
+    "pos": "adv.",
+    "definition_zh": "通常地",
+    "example": "Men usually have a bigger chance to get paid more and rise higher when they work the same hours as women.",
+    "example_zh": "男性通常在工作時間與女性相同時，有更大的機會獲得更高的薪水並晉升。",
+    "frequency_rank": 184,
+    "level": "國中"
+  },
+  {
+    "word": "speaker",
+    "phonetic": "/ˈspiːkər/",
+    "pos": "n.",
+    "definition_zh": "說話者",
+    "example": "English speakers in Cameroon.",
+    "example_zh": "喀麥隆的英語使用者。",
+    "frequency_rank": 185,
+    "level": "國中"
+  },
+  {
+    "word": "cut into",
+    "phonetic": "/kʌt ˈɪntuː/",
+    "pos": "phr. v.",
+    "definition_zh": "分割成",
+    "example": "Kamerun ... was cut into two parts.",
+    "example_zh": "喀麥隆......被分割成兩部分。",
+    "frequency_rank": 186,
+    "level": "國中"
+  },
+  {
+    "word": "belong to",
+    "phonetic": "/bɪˈlɔːŋ tuː/",
+    "pos": "phr. v.",
+    "definition_zh": "屬於",
+    "example": "one belonged to France, and the other belonged to the UK.",
+    "example_zh": "一部分屬於法國，另一部分屬於英國。",
+    "frequency_rank": 187,
+    "level": "國中"
+  },
+  {
+    "word": "join",
+    "phonetic": "/dʒɔɪn/",
+    "pos": "v.",
+    "definition_zh": "加入",
+    "example": "the UK's part joined it in 1961.",
+    "example_zh": "英國的部分於1961年加入。",
+    "frequency_rank": 188,
+    "level": "國中"
+  },
+  {
+    "word": "official",
+    "phonetic": "/əˈfɪʃəl/",
+    "pos": "adj.",
+    "definition_zh": "官方的",
+    "example": "Although both French and English are Cameroon's official languages.",
+    "example_zh": "儘管法語和英語都是喀麥隆的官方語言。",
+    "frequency_rank": 189,
+    "level": "國中"
+  },
+  {
+    "word": "language",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "語言",
+    "example": "Although both French and English are Cameroon's official languages.",
+    "example_zh": "儘管法語和英語都是喀麥隆的官方語言。",
+    "frequency_rank": 190,
+    "level": "國中"
+  },
+  {
+    "word": "around",
+    "phonetic": "/əˈraʊnd/",
+    "pos": "adv.",
+    "definition_zh": "大約",
+    "example": "only around 20% of its people speak English.",
+    "example_zh": "只有大約20%的人口說英語。",
+    "frequency_rank": 191,
+    "level": "國中"
+  },
+  {
+    "word": "event",
+    "phonetic": "/ɪˈvent/",
+    "pos": "n.",
+    "definition_zh": "事件；活動",
+    "example": "speak French in business and at official events.",
+    "example_zh": "在商務場合和官方活動中說法語。",
+    "frequency_rank": 192,
+    "level": "國中"
+  },
+  {
+    "word": "resentful",
+    "phonetic": "/rɪˈzentfəl/",
+    "pos": "adj.",
+    "definition_zh": "憤恨的；怨恨的",
+    "example": "They have become more resentful at the government and decided to fight for themselves.",
+    "example_zh": "他們對政府變得更加憤恨，並決定為自己奮鬥。",
+    "frequency_rank": 193,
+    "level": "國中"
+  },
+  {
+    "word": "fight for",
+    "phonetic": "/faɪt fɔːr/",
+    "pos": "phr. v.",
+    "definition_zh": "為...而戰；爭取",
+    "example": "and decided to fight for themselves.",
+    "example_zh": "並決定為自己奮鬥。",
+    "frequency_rank": 194,
+    "level": "國中"
+  },
+  {
+    "word": "build",
+    "phonetic": "/bɪld/",
+    "pos": "v.",
+    "definition_zh": "建立；建造",
+    "example": "the English speakers have tried to build their own country.",
+    "example_zh": "英語使用者試圖建立自己的國家。",
+    "frequency_rank": 195,
+    "level": "國中"
+  },
+  {
+    "word": "public meeting",
+    "phonetic": "/ˈpʌblɪk ˈmiːtɪŋ/",
+    "pos": "n.",
+    "definition_zh": "公開會議",
+    "example": "they said in a public meeting that they were not part of Cameroon anymore.",
+    "example_zh": "他們在一次公開會議上說，他們不再是喀麥隆的一部分。",
+    "frequency_rank": 196,
+    "level": "國中"
+  },
+  {
+    "word": "anymore",
+    "phonetic": "/ˌeniˈmɔːr/",
+    "pos": "adv.",
+    "definition_zh": "不再",
+    "example": "they were not part of Cameroon anymore.",
+    "example_zh": "他們不再是喀麥隆的一部分。",
+    "frequency_rank": 197,
+    "level": "國中"
+  },
+  {
+    "word": "trail",
+    "phonetic": "/treɪl/",
+    "pos": "n.",
+    "definition_zh": "小徑；路線",
+    "example": "THE SOUTHEND TRAIL has been popular with nature lovers for years.",
+    "example_zh": "南端步道多年來一直深受大自然愛好者的喜愛。",
+    "frequency_rank": 198,
+    "level": "國中"
+  },
+  {
+    "word": "nature lover",
+    "phonetic": "/ˈneɪtʃər ˈlʌvər/",
+    "pos": "n.",
+    "definition_zh": "自然愛好者",
+    "example": "popular with nature lovers for years.",
+    "example_zh": "多年來一直深受大自然愛好者的喜愛。",
+    "frequency_rank": 199,
+    "level": "國中"
+  },
+  {
+    "word": "lake",
+    "phonetic": "/leɪk/",
+    "pos": "n.",
+    "definition_zh": "湖泊",
+    "example": "The 120-km trail passes beautiful lakes, crosses rivers, and goes through mountains and hills.",
+    "example_zh": "這條120公里的步道經過美麗的湖泊，橫跨河流，穿越山脈和丘陵。",
+    "frequency_rank": 200,
+    "level": "國中"
+  },
+  {
+    "word": "cross",
+    "phonetic": "/krɔːs/",
+    "pos": "v.",
+    "definition_zh": "穿越；橫越",
+    "example": "The 120-km trail passes beautiful lakes, crosses rivers, and goes through mountains and hills.",
+    "example_zh": "這條120公里的步道經過美麗的湖泊，橫跨河流，穿越山脈和丘陵。",
+    "frequency_rank": 201,
+    "level": "國中"
+  },
+  {
+    "word": "river",
+    "phonetic": "/ˈrɪvər/",
+    "pos": "n.",
+    "definition_zh": "河流",
+    "example": "The 120-km trail passes beautiful lakes, crosses rivers, and goes through mountains and hills.",
+    "example_zh": "這條120公里的步道經過美麗的湖泊，橫跨河流，穿越山脈和丘陵。",
+    "frequency_rank": 202,
+    "level": "國中"
+  },
+  {
+    "word": "mountain",
+    "phonetic": "/ˈmaʊntən/",
+    "pos": "n.",
+    "definition_zh": "山",
+    "example": "The 120-km trail passes beautiful lakes, crosses rivers, and goes through mountains and hills.",
+    "example_zh": "這條120公里的步道經過美麗的湖泊，橫跨河流，穿越山脈和丘陵。",
+    "frequency_rank": 203,
+    "level": "國中"
+  },
+  {
+    "word": "hill",
+    "phonetic": "/hɪl/",
+    "pos": "n.",
+    "definition_zh": "丘陵",
+    "example": "The 120-km trail passes beautiful lakes, crosses rivers, and goes through mountains and hills.",
+    "example_zh": "這條120公里的步道經過美麗的湖泊，橫跨河流，穿越山脈和丘陵。",
+    "frequency_rank": 204,
+    "level": "國中"
+  },
+  {
+    "word": "birdwatching",
+    "phonetic": "/ˈbɜːrdwɑːtʃɪŋ/",
+    "pos": "n.",
+    "definition_zh": "賞鳥",
+    "example": "This gives bird lovers some of the best places for birdwatching.",
+    "example_zh": "這為愛鳥人士提供了一些最佳的賞鳥地點。",
+    "frequency_rank": 205,
+    "level": "國中"
+  },
+  {
+    "word": "hike",
+    "phonetic": "/haɪk/",
+    "pos": "n./v.",
+    "definition_zh": "徒步旅行",
+    "example": "It's best to plan one day for one part of the trail and start your hike early in the morning.",
+    "example_zh": "最好計畫一天走完步道的一個部分，並在早上很早開始徒步旅行。",
+    "frequency_rank": 206,
+    "level": "國中"
+  },
+  {
+    "word": "wide",
+    "phonetic": "/waɪd/",
+    "pos": "adj.",
+    "definition_zh": "寬的",
+    "example": "the side trails are not wide enough for biking.",
+    "example_zh": "小徑不夠寬，無法騎自行車。",
+    "frequency_rank": 207,
+    "level": "國中"
+  },
+  {
+    "word": "lodging",
+    "phonetic": "/ˈlɑːdʒɪŋ/",
+    "pos": "n.",
+    "definition_zh": "住宿",
+    "example": "There are two types of lodging for visitors.",
+    "example_zh": "有兩種住宿方式供遊客選擇。",
+    "frequency_rank": 208,
+    "level": "國中"
+  },
+  {
+    "word": "camping",
+    "phonetic": "/ˈkæmpɪŋ/",
+    "pos": "n.",
+    "definition_zh": "露營",
+    "example": "Camping is popular in summer.",
+    "example_zh": "露營在夏天很受歡迎。",
+    "frequency_rank": 209,
+    "level": "國中"
+  },
+  {
+    "word": "allow",
+    "phonetic": "/əˈlaʊ/",
+    "pos": "v.",
+    "definition_zh": "允許",
+    "example": "it is only allowed on a few campgrounds.",
+    "example_zh": "它只在少數露營地允許。",
+    "frequency_rank": 210,
+    "level": "國中"
+  },
+  {
+    "word": "comfortable",
+    "phonetic": "/ˈkʌmfərtəbəl/",
+    "pos": "adj.",
+    "definition_zh": "舒適的",
+    "example": "A more comfortable one is to stay at a hotel in one of the towns.",
+    "example_zh": "更舒適的選擇是住在城鎮中的一家旅館。",
+    "frequency_rank": 211,
+    "level": "國中"
+  },
+  {
+    "word": "hotel",
+    "phonetic": "/hoʊˈtel/",
+    "pos": "n.",
+    "definition_zh": "旅館",
+    "example": "A more comfortable one is to stay at a hotel in one of the towns.",
+    "example_zh": "更舒適的選擇是住在城鎮中的一家旅館。",
+    "frequency_rank": 212,
+    "level": "國中"
+  },
+  {
+    "word": "breakfast",
+    "phonetic": "/ˈbrekfəst/",
+    "pos": "n.",
+    "definition_zh": "早餐",
+    "example": "You can find some very nice ones that also have breakfast.",
+    "example_zh": "你可以找到一些非常好的，也提供早餐的旅館。",
+    "frequency_rank": 213,
+    "level": "國中"
+  },
+  {
+    "word": "recommend",
+    "phonetic": "/ˌrekəˈmend/",
+    "pos": "v.",
+    "definition_zh": "推薦",
+    "example": "What is recommended to people who are visiting the Southend Trail?",
+    "example_zh": "對於參觀南端步道的人，有什麼建議？",
+    "frequency_rank": 214,
+    "level": "國中"
+  },
+  {
+    "word": "palindrome",
+    "phonetic": "/ˈpælɪndroʊm/",
+    "pos": "n.",
+    "definition_zh": "迴文",
+    "example": "A palindrome is a word or a sentence that reads the same from left to right or from right to left.",
+    "example_zh": "迴文是一個從左到右讀或從右到左讀都相同的詞或句子。",
+    "frequency_rank": 215,
+    "level": "國中"
+  },
+  {
+    "word": "anagram",
+    "phonetic": "/ˈænəɡræm/",
+    "pos": "n.",
+    "definition_zh": "變位詞；字謎",
+    "example": "An anagram of a word or words is made by putting the letters of the word or words in a different way.",
+    "example_zh": "一個詞或多個詞的變位詞是將這些詞的字母以不同方式排列而成的。",
+    "frequency_rank": 216,
+    "level": "國中"
+  },
+  {
+    "word": "spelling",
+    "phonetic": "/ˈspelɪŋ/",
+    "pos": "n.",
+    "definition_zh": "拼寫",
+    "example": "word games about spelling.",
+    "example_zh": "關於拼寫的文字遊戲。",
+    "frequency_rank": 217,
+    "level": "國中"
+  },
+  {
+    "word": "sentence",
+    "phonetic": "/ˈsentəns/",
+    "pos": "n.",
+    "definition_zh": "句子",
+    "example": "A palindrome is a word or a sentence.",
+    "example_zh": "迴文是一個詞或一個句子。",
+    "frequency_rank": 218,
+    "level": "國中"
+  },
+  {
+    "word": "read",
+    "phonetic": "/riːd/",
+    "pos": "v.",
+    "definition_zh": "讀",
+    "example": "A palindrome is a word or a sentence that reads the same from left to right or from right to left.",
+    "example_zh": "迴文是一個從左到右讀或從右到左讀都相同的詞或句子。",
+    "frequency_rank": 219,
+    "level": "國中"
+  },
+  {
+    "word": "mathematics",
+    "phonetic": "/ˌmæθəˈmætɪks/",
+    "pos": "n.",
+    "definition_zh": "數學",
+    "example": "Palindromes can be used to learn mathematics and make music.",
+    "example_zh": "迴文可以用來學習數學和創作音樂。",
+    "frequency_rank": 220,
+    "level": "國中"
+  },
+  {
+    "word": "music",
+    "phonetic": "/ˈmjuːzɪk/",
+    "pos": "n.",
+    "definition_zh": "音樂",
+    "example": "Palindromes can be used to learn mathematics and make music.",
+    "example_zh": "迴文可以用來學習數學和創作音樂。",
+    "frequency_rank": 221,
+    "level": "國中"
+  },
+  {
+    "word": "hide",
+    "phonetic": "/haɪd/",
+    "pos": "v.",
+    "definition_zh": "隱藏",
+    "example": "Anagrams are also a good way to hide something.",
+    "example_zh": "變位詞也是隱藏某些事物的好方法。",
+    "frequency_rank": 222,
+    "level": "國中"
+  },
+  {
+    "word": "study",
+    "phonetic": "/ˈstʌdi/",
+    "pos": "n.",
+    "definition_zh": "研究",
+    "example": "people often hid their important studies in anagrams.",
+    "example_zh": "人們常常將重要的研究隱藏在變位詞中。",
+    "frequency_rank": 223,
+    "level": "國中"
+  },
+  {
+    "word": "strange",
+    "phonetic": "/streɪndʒ/",
+    "pos": "adj.",
+    "definition_zh": "奇怪的",
+    "example": "Sometimes they can even mean something strange.",
+    "example_zh": "有時它們甚至可能意味著一些奇怪的事情。",
+    "frequency_rank": 224,
+    "level": "國中"
+  },
+  {
+    "word": "basket",
+    "phonetic": "/ˈbɑːskɪt/",
+    "pos": "n.",
+    "definition_zh": "籃子",
+    "example": "The man is holding a basket of grapes in his hands.",
+    "example_zh": "這個男人手裡拿著一籃葡萄。",
+    "usage": [],
+    "frequency_rank": 225,
+    "level": "國中"
+  },
+  {
+    "word": "explain",
+    "phonetic": "/ɪkˈspleɪn/",
+    "pos": "v.",
+    "definition_zh": "解釋，說明",
+    "example": "If you need to talk to her, you must explain.",
+    "example_zh": "如果你需要和她說話，你必須解釋。",
+    "usage": [],
+    "frequency_rank": 226,
+    "level": "國中"
+  },
+  {
+    "word": "shout",
+    "phonetic": "/ʃaʊt/",
+    "pos": "v.",
+    "definition_zh": "喊叫",
+    "example": "If you need to talk to her, you must shout.",
+    "example_zh": "如果你需要和她說話，你必須大聲喊。",
+    "usage": [],
+    "frequency_rank": 227,
+    "level": "國中"
+  },
+  {
+    "word": "excited",
+    "phonetic": "/ɪkˈsaɪtɪd/",
+    "pos": "adj.",
+    "definition_zh": "興奮的，激動的",
+    "example": "People got very excited when they watched Ms. Smith.",
+    "example_zh": "人們看到史密斯女士時非常興奮。",
+    "usage": [
+      {
+        "pattern": "get excited",
+        "meaning_zh": "變得興奮"
+      }
+    ],
+    "frequency_rank": 228,
+    "level": "國中"
+  },
+  {
+    "word": "earthquake",
+    "phonetic": "/ˈɜːrθkweɪk/",
+    "pos": "n.",
+    "definition_zh": "地震",
+    "example": "Rex did not feel the earthquake this morning.",
+    "example_zh": "雷克斯今天早上沒有感覺到地震。",
+    "usage": [],
+    "frequency_rank": 229,
+    "level": "國中"
+  },
+  {
+    "word": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "pos": "v.",
+    "definition_zh": "改變",
+    "example": "Mr. Lee has never thought about changing his job.",
+    "example_zh": "李先生從未想過要換工作。",
+    "usage": [
+      {
+        "pattern": "think about changing",
+        "meaning_zh": "考慮改變"
+      }
+    ],
+    "frequency_rank": 230,
+    "level": "國中"
+  },
+  {
+    "word": "seat",
+    "phonetic": "/siːt/",
+    "pos": "n.",
+    "definition_zh": "座位",
+    "example": "All the seats were taken.",
+    "example_zh": "所有的座位都被佔了。",
+    "usage": [],
+    "frequency_rank": 231,
+    "level": "國中"
+  },
+  {
+    "word": "full",
+    "phonetic": "/fʊl/",
+    "pos": "adj.",
+    "definition_zh": "滿的，充滿的",
+    "example": "All the seats were taken and a lot of students were standing.",
+    "example_zh": "所有的座位都被佔了，許多學生都站著。",
+    "usage": [
+      {
+        "pattern": "full of",
+        "meaning_zh": "充滿…的"
+      }
+    ],
+    "frequency_rank": 232,
+    "level": "國中"
+  },
+  {
+    "word": "kick off",
+    "phonetic": "/kɪk ɒf/",
+    "pos": "phr.v.",
+    "definition_zh": "（使）被踢出，（使）開賽",
+    "example": "Jerry was kicked off the soccer team.",
+    "example_zh": "傑瑞被踢出了足球隊。",
+    "usage": [],
+    "frequency_rank": 233,
+    "level": "國中"
+  },
+  {
+    "word": "reason",
+    "phonetic": "/ˈriːzn/",
+    "pos": "n.",
+    "definition_zh": "理由，原因",
+    "example": "No one gave him a good reason.",
+    "example_zh": "沒有人給他一個好的理由。",
+    "usage": [
+      {
+        "pattern": "for a good reason",
+        "meaning_zh": "因為一個好的理由"
+      }
+    ],
+    "frequency_rank": 234,
+    "level": "國中"
+  },
+  {
+    "word": "whether",
+    "phonetic": "/ˈwɛðər/",
+    "pos": "conj.",
+    "definition_zh": "是否",
+    "example": "Jerry wanted to know whether he was kicked off the soccer team.",
+    "example_zh": "傑瑞想知道他是否被踢出了足球隊。",
+    "usage": [],
+    "frequency_rank": 235,
+    "level": "國中"
+  },
+  {
+    "word": "trouble",
+    "phonetic": "/ˈtrʌbl/",
+    "pos": "n.",
+    "definition_zh": "麻煩，困擾",
+    "example": "Jenny often makes trouble for her parents.",
+    "example_zh": "珍妮經常給她的父母製造麻煩。",
+    "usage": [
+      {
+        "pattern": "make trouble for",
+        "meaning_zh": "給…製造麻煩"
+      }
+    ],
+    "frequency_rank": 236,
+    "level": "國中"
+  },
+  {
+    "word": "hate",
+    "phonetic": "/heɪt/",
+    "pos": "v.",
+    "definition_zh": "憎恨，討厭",
+    "example": "Doraemon has hated mice since his ears were bitten.",
+    "example_zh": "哆啦A夢自從耳朵被咬後就討厭老鼠。",
+    "usage": [],
+    "frequency_rank": 237,
+    "level": "國中"
+  },
+  {
+    "word": "mouse",
+    "phonetic": "/maʊs/",
+    "pos": "n.",
+    "definition_zh": "老鼠 (複數為mice)",
+    "example": "Doraemon, a blue Japanese robot cat, has hated mice.",
+    "example_zh": "哆啦A夢，一隻藍色的日本機器貓，討厭老鼠。",
+    "usage": [],
+    "frequency_rank": 238,
+    "level": "國中"
+  },
+  {
+    "word": "bite",
+    "phonetic": "/baɪt/",
+    "pos": "v.",
+    "definition_zh": "咬，啃",
+    "example": "His ears were bitten by a mouse.",
+    "example_zh": "他的耳朵被一隻老鼠咬了。",
+    "usage": [],
+    "frequency_rank": 239,
+    "level": "國中"
+  },
+  {
+    "word": "interesting",
+    "phonetic": "/ˈɪntrəstɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "有趣的",
+    "example": "If we play some interesting games in class.",
+    "example_zh": "如果我們在課堂上玩一些有趣的遊戲。",
+    "usage": [],
+    "frequency_rank": 240,
+    "level": "國中"
+  },
+  {
+    "word": "service",
+    "phonetic": "/ˈsɜːrvɪs/",
+    "pos": "n.",
+    "definition_zh": "服務",
+    "example": "The service of this shop was so bad.",
+    "example_zh": "這家商店的服務非常差。",
+    "usage": [],
+    "frequency_rank": 241,
+    "level": "國中"
+  },
+  {
+    "word": "possible",
+    "phonetic": "/ˈpɒsəbl/",
+    "pos": "adj.",
+    "definition_zh": "可能的",
+    "example": "It's even less possible to see them on cloudy days.",
+    "example_zh": "在陰天時，要看到它們的可能性更小。",
+    "usage": [],
+    "frequency_rank": 242,
+    "level": "國中"
+  },
+  {
+    "word": "finally",
+    "phonetic": "/ˈfaɪnəli/",
+    "pos": "adv.",
+    "definition_zh": "最後，終於",
+    "example": "I finally found it in a small shop.",
+    "example_zh": "我終於在一家小商店裡找到它了。",
+    "usage": [],
+    "frequency_rank": 243,
+    "level": "國中"
+  },
+  {
+    "word": "still",
+    "phonetic": "/stɪl/",
+    "pos": "adv.",
+    "definition_zh": "仍然，還是",
+    "example": "I still found it in a small shop.",
+    "example_zh": "我仍然在一家小商店裡找到它了。",
+    "usage": [],
+    "frequency_rank": 244,
+    "level": "國中"
+  },
+  {
+    "word": "supermarket",
+    "phonetic": "/ˈsuːpərmɑːrkɪt/",
+    "pos": "n.",
+    "definition_zh": "超級市場",
+    "example": "The new supermarket across the street makes things worse.",
+    "example_zh": "街對面的新超級市場讓情況變得更糟。",
+    "usage": [],
+    "frequency_rank": 245,
+    "level": "國中"
+  },
+  {
+    "word": "convenient",
+    "phonetic": "/kənˈviːniənt/",
+    "pos": "adj.",
+    "definition_zh": "方便的，便利的",
+    "example": "The new supermarket makes things more convenient.",
+    "example_zh": "這家新超市使事情更方便。",
+    "usage": [],
+    "frequency_rank": 246,
+    "level": "國中"
+  },
+  {
+    "word": "pull out",
+    "phonetic": "/pʊl aʊt/",
+    "pos": "phr.v.",
+    "definition_zh": "拉出，拔出",
+    "example": "A young woman pulled him out of a car on fire.",
+    "example_zh": "一名年輕女子把他從著火的車裡拉出來。",
+    "usage": [],
+    "frequency_rank": 247,
+    "level": "國中"
+  },
+  {
+    "word": "heavy",
+    "phonetic": "/ˈhɛvi/",
+    "pos": "adj.",
+    "definition_zh": "繁重的；沉重的",
+    "example": "I gave it up because of heavy schoolwork.",
+    "example_zh": "我因為繁重的學業而放棄了。",
+    "usage": [],
+    "frequency_rank": 248,
+    "level": "國中"
+  },
+  {
+    "word": "schoolwork",
+    "phonetic": "/ˈskuːlwɜːrk/",
+    "pos": "n.",
+    "definition_zh": "學業，課業",
+    "example": "I gave it up because of heavy schoolwork.",
+    "example_zh": "我因為繁重的學業而放棄了。",
+    "usage": [],
+    "frequency_rank": 249,
+    "level": "國中"
+  },
+  {
+    "word": "notice",
+    "phonetic": "/ˈnoʊtɪs/",
+    "pos": "v.",
+    "definition_zh": "注意到，察覺",
+    "example": "Many people notice he will win the best actor prize.",
+    "example_zh": "許多人注意到他會贏得最佳男演員獎。",
+    "usage": [],
+    "frequency_rank": 250,
+    "level": "國中"
+  },
+  {
+    "word": "medicine",
+    "phonetic": "/ˈmɛdɪsn/",
+    "pos": "n.",
+    "definition_zh": "藥，藥物",
+    "example": "The new medicine that just came out on the market.",
+    "example_zh": "剛上市的新藥。",
+    "usage": [],
+    "frequency_rank": 251,
+    "level": "國中"
+  },
+  {
+    "word": "thousand",
+    "phonetic": "/ˈθaʊzənd/",
+    "pos": "num.",
+    "definition_zh": "千，一千",
+    "example": "The new medicine saved thousands of lives.",
+    "example_zh": "這種新藥拯救了成千上萬的生命。",
+    "usage": [
+      {
+        "pattern": "thousands of",
+        "meaning_zh": "數千的"
+      }
+    ],
+    "frequency_rank": 252,
+    "level": "國中"
+  },
+  {
+    "word": "quietly",
+    "phonetic": "/ˈkwaɪətli/",
+    "pos": "adv.",
+    "definition_zh": "安靜地",
+    "example": "He used to come and sit quietly beside me.",
+    "example_zh": "他過去常常安靜地坐在我旁邊。",
+    "usage": [],
+    "frequency_rank": 253,
+    "level": "國中"
+  },
+  {
+    "word": "beside",
+    "phonetic": "/bɪˈsaɪd/",
+    "pos": "prep.",
+    "definition_zh": "在…旁邊",
+    "example": "He used to come and sit quietly beside me.",
+    "example_zh": "他過去常常安靜地坐在我旁邊。",
+    "usage": [],
+    "frequency_rank": 254,
+    "level": "國中"
+  },
+  {
+    "word": "opening hour",
+    "phonetic": "/ˈoʊpnɪŋ aʊər/",
+    "pos": "n.",
+    "definition_zh": "營業時間",
+    "example": "Opening hours: 2:00~8:00 pm Tuesday~Sunday.",
+    "example_zh": "營業時間：週二至週日下午2:00~8:00。",
+    "usage": [],
+    "frequency_rank": 255,
+    "level": "國中"
+  },
+  {
+    "word": "second",
+    "phonetic": "/ˈsɛkənd/",
+    "pos": "ord. num. / adj.",
+    "definition_zh": "第二",
+    "example": "We're closed on the second Sunday of every month.",
+    "example_zh": "我們每個月的第二個星期天休息。",
+    "usage": [],
+    "frequency_rank": 256,
+    "level": "國中"
+  },
+  {
+    "word": "lettuce",
+    "phonetic": "/ˈlɛtɪs/",
+    "pos": "n.",
+    "definition_zh": "生菜",
+    "example": "Beach Sandwich: Bread + Fish + Lettuce.",
+    "example_zh": "海灘三明治：麵包 + 魚 + 生菜。",
+    "usage": [],
+    "frequency_rank": 257,
+    "level": "國中"
+  },
+  {
+    "word": "cheese",
+    "phonetic": "/tʃiːz/",
+    "pos": "n.",
+    "definition_zh": "起司，乳酪",
+    "example": "Garden Sandwich: Bread + Chicken + Tomatoes + Cheese.",
+    "example_zh": "花園三明治：麵包 + 雞肉 + 番茄 + 起司。",
+    "usage": [],
+    "frequency_rank": 258,
+    "level": "國中"
+  },
+  {
+    "word": "steak",
+    "phonetic": "/steɪk/",
+    "pos": "n.",
+    "definition_zh": "牛排",
+    "example": "Sunday Sandwich: Bread + Egg + Steak + Ham + Lettuce.",
+    "example_zh": "週日三明治：麵包 + 蛋 + 牛排 + 火腿 + 生菜。",
+    "usage": [],
+    "frequency_rank": 259,
+    "level": "國中"
+  },
+  {
+    "word": "guava",
+    "phonetic": "/ˈɡwɑːvə/",
+    "pos": "n.",
+    "definition_zh": "番石榴",
+    "example": "Spring Rain: Green Tea + Guava + Lemon.",
+    "example_zh": "春雨：綠茶 + 番石榴 + 檸檬。",
+    "usage": [],
+    "frequency_rank": 260,
+    "level": "國中"
+  },
+  {
+    "word": "watermelon",
+    "phonetic": "/ˈwɑːtərmɛlən/",
+    "pos": "n.",
+    "definition_zh": "西瓜",
+    "example": "Summer Rainbow: Milk + Watermelon.",
+    "example_zh": "夏日彩虹：牛奶 + 西瓜。",
+    "usage": [],
+    "frequency_rank": 261,
+    "level": "國中"
+  },
+  {
+    "word": "ice cream",
+    "phonetic": "/ˌaɪs ˈkriːm/",
+    "pos": "n.",
+    "definition_zh": "冰淇淋",
+    "example": "Winter Snow: Chocolate Milk + Ice Cream.",
+    "example_zh": "冬日雪：巧克力牛奶 + 冰淇淋。",
+    "usage": [],
+    "frequency_rank": 262,
+    "level": "國中"
+  },
+  {
+    "word": "star",
+    "phonetic": "/stɑːr/",
+    "pos": "n.",
+    "definition_zh": "星星",
+    "example": "You get a star by ordering a sandwich or a drink.",
+    "example_zh": "點一份三明治或一杯飲料就可以獲得一顆星。",
+    "usage": [],
+    "frequency_rank": 263,
+    "level": "國中"
+  },
+  {
+    "word": "calendar",
+    "phonetic": "/ˈkæləndər/",
+    "pos": "n.",
+    "definition_zh": "月曆，日曆",
+    "example": "Amy looks at her calendar to pick a time to go there.",
+    "example_zh": "艾咪看著她的月曆，挑選一個時間去那裡。",
+    "usage": [],
+    "frequency_rank": 264,
+    "level": "國中"
+  },
+  {
+    "word": "August",
+    "phonetic": "/ˈɔːɡəst/",
+    "pos": "n.",
+    "definition_zh": "八月",
+    "example": "Amy wants to bring her friends to Four Seasons' Kitchen in August.",
+    "example_zh": "艾咪想在八月帶她的朋友去四季廚房。",
+    "usage": [],
+    "frequency_rank": 265,
+    "level": "國中"
+  },
+  {
+    "word": "clean",
+    "phonetic": "/kliːn/",
+    "pos": "v.",
+    "definition_zh": "打掃，清潔",
+    "example": "On August 27, Amy needs to clean the house.",
+    "example_zh": "8月27日，艾咪需要打掃房子。",
+    "usage": [
+      {
+        "pattern": "clean the house",
+        "meaning_zh": "打掃房子"
+      }
+    ],
+    "frequency_rank": 266,
+    "level": "國中"
+  },
+  {
+    "word": "begin",
+    "phonetic": "/bɪˈɡɪn/",
+    "pos": "v.",
+    "definition_zh": "開始",
+    "example": "School begins on August 30.",
+    "example_zh": "學校於8月30日開學。",
+    "usage": [
+      {
+        "pattern": "school begins",
+        "meaning_zh": "開學"
+      }
+    ],
+    "frequency_rank": 267,
+    "level": "國中"
+  },
+  {
+    "word": "nest",
+    "phonetic": "/nɛst/",
+    "pos": "n.",
+    "definition_zh": "鳥巢",
+    "example": "What should you do if you find a baby bird out of the nest?",
+    "example_zh": "如果你發現一隻雛鳥掉出巢外，你該怎麼辦？",
+    "usage": [],
+    "frequency_rank": 268,
+    "level": "國中"
+  },
+  {
+    "word": "feather",
+    "phonetic": "/ˈfɛðər/",
+    "pos": "n.",
+    "definition_zh": "羽毛",
+    "example": "If the bird has few feathers, put it back.",
+    "example_zh": "如果這隻鳥的羽毛稀疏，就把牠放回去。",
+    "usage": [],
+    "frequency_rank": 269,
+    "level": "國中"
+  },
+  {
+    "word": "animal center",
+    "phonetic": "/ˈænɪml ˈsɛntər/",
+    "pos": "n.",
+    "definition_zh": "動物中心",
+    "example": "Call the animal center (0-123-4567).",
+    "example_zh": "打電話給動物中心 (0-123-4567)。",
+    "usage": [],
+    "frequency_rank": 270,
+    "level": "國中"
+  },
+  {
+    "word": "warm",
+    "phonetic": "/wɔːrm/",
+    "pos": "adj.",
+    "definition_zh": "溫暖的",
+    "example": "Keep it warm and don't give it any food!",
+    "example_zh": "保持牠溫暖，不要給牠任何食物！",
+    "usage": [],
+    "frequency_rank": 271,
+    "level": "國中"
+  },
+  {
+    "word": "reach",
+    "phonetic": "/riːtʃ/",
+    "pos": "v.",
+    "definition_zh": "夠到，達到",
+    "example": "If you CAN reach the nest, put the bird back.",
+    "example_zh": "如果你能夠到鳥巢，就把鳥放回去。",
+    "usage": [],
+    "frequency_rank": 272,
+    "level": "國中"
+  },
+  {
+    "word": "smell",
+    "phonetic": "/smɛl/",
+    "pos": "n.",
+    "definition_zh": "氣味",
+    "example": "People believe birds will give up their babies if they have the smell of people on them.",
+    "example_zh": "人們相信如果鳥寶寶身上沾染了人的氣味，鳥就會放棄牠們的寶寶。",
+    "usage": [],
+    "frequency_rank": 273,
+    "level": "國中"
+  },
+  {
+    "word": "care",
+    "phonetic": "/kɛər/",
+    "pos": "v.",
+    "definition_zh": "在意，關心",
+    "example": "Birds don't care!",
+    "example_zh": "鳥才不在乎呢！",
+    "usage": [
+      {
+        "pattern": "don't care",
+        "meaning_zh": "不在乎"
+      }
+    ],
+    "frequency_rank": 274,
+    "level": "國中"
+  },
+  {
+    "word": "according to",
+    "phonetic": "/əˈkɔːrdɪŋ tuː/",
+    "pos": "prep. phr.",
+    "definition_zh": "根據…，按照…",
+    "example": "According to the notes, which is the WRONG way to help a baby bird?",
+    "example_zh": "根據這些筆記，哪一種幫助雛鳥的方式是錯誤的？",
+    "usage": [],
+    "frequency_rank": 275,
+    "level": "國中"
+  },
+  {
+    "word": "feed",
+    "phonetic": "/fiːd/",
+    "pos": "v.",
+    "definition_zh": "餵食",
+    "example": "Feed it before you take it to a hospital.",
+    "example_zh": "在送牠去醫院之前先餵食牠。",
+    "usage": [],
+    "frequency_rank": 276,
+    "level": "國中"
+  },
+  {
+    "word": "alone",
+    "phonetic": "/əˈloʊn/",
+    "pos": "adv. / adj.",
+    "definition_zh": "獨自地；獨自的",
+    "example": "Leave it alone if it is not hurt.",
+    "example_zh": "如果牠沒有受傷，就讓牠獨自待著。",
+    "usage": [],
+    "frequency_rank": 277,
+    "level": "國中"
+  },
+  {
+    "word": "push",
+    "phonetic": "/pʊʃ/",
+    "pos": "v.",
+    "definition_zh": "推",
+    "example": "They push them out of the nest.",
+    "example_zh": "牠們把牠們推出巢外。",
+    "usage": [
+      {
+        "pattern": "push out",
+        "meaning_zh": "推出"
+      }
+    ],
+    "frequency_rank": 278,
+    "level": "國中"
+  },
+  {
+    "word": "waste",
+    "phonetic": "/weɪst/",
+    "pos": "n. / v.",
+    "definition_zh": "浪費；廢棄物；浪費",
+    "example": "FIVE STAGES OF FOOD WASTE.",
+    "example_zh": "食物浪費的五個階段。",
+    "usage": [
+      {
+        "pattern": "food waste",
+        "meaning_zh": "食物浪費"
+      }
+    ],
+    "frequency_rank": 279,
+    "level": "國中"
+  },
+  {
+    "word": "stage",
+    "phonetic": "/steɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "階段，時期",
+    "example": "FIVE STAGES OF FOOD WASTE.",
+    "example_zh": "食物浪費的五個階段。",
+    "usage": [],
+    "frequency_rank": 280,
+    "level": "國中"
+  },
+  {
+    "word": "throw away",
+    "phonetic": "/θroʊ əˈweɪ/",
+    "pos": "phr.v.",
+    "definition_zh": "丟棄，扔掉",
+    "example": "Throw away food of wrong shapes or sizes.",
+    "example_zh": "丟棄形狀或大小不對的食物。",
+    "usage": [],
+    "frequency_rank": 281,
+    "level": "國中"
+  },
+  {
+    "word": "shape",
+    "phonetic": "/ʃeɪp/",
+    "pos": "n.",
+    "definition_zh": "形狀",
+    "example": "Throw away food of wrong shapes or sizes.",
+    "example_zh": "丟棄形狀或大小不對的食物。",
+    "usage": [],
+    "frequency_rank": 282,
+    "level": "國中"
+  },
+  {
+    "word": "grow",
+    "phonetic": "/ɡroʊ/",
+    "pos": "v.",
+    "definition_zh": "種植；成長",
+    "example": "Grow more food than the market needs.",
+    "example_zh": "種植比市場需求更多的食物。",
+    "usage": [],
+    "frequency_rank": 283,
+    "level": "國中"
+  },
+  {
+    "word": "market",
+    "phonetic": "/ˈmɑːrkɪt/",
+    "pos": "n.",
+    "definition_zh": "市場",
+    "example": "Grow more food than the market needs.",
+    "example_zh": "種植比市場需求更多的食物。",
+    "usage": [],
+    "frequency_rank": 284,
+    "level": "國中"
+  },
+  {
+    "word": "refrigerator",
+    "phonetic": "/rɪˈfrɪdʒəreɪtər/",
+    "pos": "n.",
+    "definition_zh": "冰箱",
+    "example": "Do not have refrigerators to keep food fresh.",
+    "example_zh": "沒有冰箱來保持食物新鮮。",
+    "usage": [],
+    "frequency_rank": 285,
+    "level": "國中"
+  },
+  {
+    "word": "truck",
+    "phonetic": "/trʌk/",
+    "pos": "n.",
+    "definition_zh": "卡車",
+    "example": "Lose food that falls off the truck.",
+    "example_zh": "食物從卡車上掉落而損失。",
+    "usage": [],
+    "frequency_rank": 286,
+    "level": "國中"
+  },
+  {
+    "word": "pack",
+    "phonetic": "/pæk/",
+    "pos": "v.",
+    "definition_zh": "包裝",
+    "example": "Do not have enough machines to make, keep and pack food.",
+    "example_zh": "沒有足夠的機器來製作、保存和包裝食物。",
+    "usage": [],
+    "frequency_rank": 287,
+    "level": "國中"
+  },
+  {
+    "word": "store",
+    "phonetic": "/stɔːr/",
+    "pos": "n.",
+    "definition_zh": "商店",
+    "example": "Stage 4 At stores.",
+    "example_zh": "第四階段：在商店。",
+    "usage": [],
+    "frequency_rank": 288,
+    "level": "國中"
+  },
+  {
+    "word": "safe",
+    "phonetic": "/seɪf/",
+    "pos": "adj.",
+    "definition_zh": "安全的",
+    "example": "Throw away food when it is still safe to eat.",
+    "example_zh": "食物仍然可以安全食用卻被丟棄。",
+    "usage": [],
+    "frequency_rank": 289,
+    "level": "國中"
+  },
+  {
+    "word": "percentage",
+    "phonetic": "/pərˈsɛntɪdʒ/",
+    "pos": "n.",
+    "definition_zh": "百分比",
+    "example": "WHAT PERCENTAGE OF FOOD IN EACH AREA IS WASTED?",
+    "example_zh": "每個地區有多少百分比的食物被浪費？",
+    "usage": [],
+    "frequency_rank": 290,
+    "level": "國中"
+  },
+  {
+    "word": "area",
+    "phonetic": "/ˈɛəriə/",
+    "pos": "n.",
+    "definition_zh": "地區，區域",
+    "example": "What percentage of food in each area is wasted?",
+    "example_zh": "每個地區有多少百分比的食物被浪費？",
+    "usage": [],
+    "frequency_rank": 291,
+    "level": "國中"
+  },
+  {
+    "word": "Oceania",
+    "phonetic": "/ˌoʊsiˈɑːniə/",
+    "pos": "n.",
+    "definition_zh": "大洋洲",
+    "example": "North America & Oceania.",
+    "example_zh": "北美洲和大洋洲。",
+    "usage": [],
+    "frequency_rank": 292,
+    "level": "國中"
+  },
+  {
+    "word": "Europe",
+    "phonetic": "/ˈjʊərəp/",
+    "pos": "n.",
+    "definition_zh": "歐洲",
+    "example": "Europe has a lower percentage of food waste.",
+    "example_zh": "歐洲的食物浪費百分比較低。",
+    "usage": [],
+    "frequency_rank": 293,
+    "level": "國中"
+  },
+  {
+    "word": "Southeast Asia",
+    "phonetic": "/ˌsaʊθˈiːst ˈeɪʒə/",
+    "pos": "n.",
+    "definition_zh": "東南亞",
+    "example": "South & Southeast Asia.",
+    "example_zh": "南亞和東南亞。",
+    "usage": [],
+    "frequency_rank": 294,
+    "level": "國中"
+  },
+  {
+    "word": "carry",
+    "phonetic": "/ˈkæri/",
+    "pos": "v.",
+    "definition_zh": "運輸，攜帶",
+    "example": "Factories do not have enough trucks to carry food to stores.",
+    "example_zh": "工廠沒有足夠的卡車將食物運送到商店。",
+    "usage": [],
+    "frequency_rank": 295,
+    "level": "國中"
+  },
+  {
+    "word": "mosquito",
+    "phonetic": "/məˈskiːtoʊ/",
+    "pos": "n.",
+    "definition_zh": "蚊子",
+    "example": "What happens when a raindrop hits a mosquito?",
+    "example_zh": "當雨滴打到蚊子時會發生什麼？",
+    "usage": [],
+    "frequency_rank": 296,
+    "level": "國中"
+  },
+  {
+    "word": "raindrop",
+    "phonetic": "/ˈreɪndrɒp/",
+    "pos": "n.",
+    "definition_zh": "雨滴",
+    "example": "A raindrop falls on a mosquito.",
+    "example_zh": "雨滴落在蚊子身上。",
+    "usage": [],
+    "frequency_rank": 297,
+    "level": "國中"
+  },
+  {
+    "word": "insect",
+    "phonetic": "/ˈɪnsɛkt/",
+    "pos": "n.",
+    "definition_zh": "昆蟲",
+    "example": "The little insect is hit by a raindrop.",
+    "example_zh": "這個小昆蟲被雨滴打到。",
+    "usage": [],
+    "frequency_rank": 298,
+    "level": "國中"
+  },
+  {
+    "word": "light",
+    "phonetic": "/laɪt/",
+    "pos": "adj.",
+    "definition_zh": "輕的",
+    "example": "A mosquito is much lighter than a raindrop.",
+    "example_zh": "蚊子比雨滴輕得多。",
+    "usage": [],
+    "frequency_rank": 299,
+    "level": "國中"
+  },
+  {
+    "word": "force",
+    "phonetic": "/fɔːrs/",
+    "pos": "n.",
+    "definition_zh": "力量",
+    "example": "It won't experience a force that is strong enough to kill it.",
+    "example_zh": "牠不會經歷足以殺死牠的力量。",
+    "usage": [],
+    "frequency_rank": 300,
+    "level": "國中"
+  },
+  {
+    "word": "roll off",
+    "phonetic": "/roʊl ɒf/",
+    "pos": "phr.v.",
+    "definition_zh": "滾離",
+    "example": "It will roll off the raindrop and fly away.",
+    "example_zh": "它會從雨滴上滾下來然後飛走。",
+    "usage": [],
+    "frequency_rank": 301,
+    "level": "國中"
+  },
+  {
+    "word": "trick",
+    "phonetic": "/trɪk/",
+    "pos": "n.",
+    "definition_zh": "技巧，訣竅",
+    "example": "However, this trick isn't always successful.",
+    "example_zh": "然而，這個技巧並不總是成功。",
+    "usage": [],
+    "frequency_rank": 302,
+    "level": "國中"
+  },
+  {
+    "word": "piece",
+    "phonetic": "/piːs/",
+    "pos": "n.",
+    "definition_zh": "樂曲 (或指一件、一片)",
+    "example": "Beethoven's famous piano piece “For Elise.”",
+    "example_zh": "貝多芬著名的鋼琴曲《給愛麗絲》。",
+    "usage": [
+      {
+        "pattern": "piano piece",
+        "meaning_zh": "鋼琴曲"
+      }
+    ],
+    "frequency_rank": 303,
+    "level": "國中"
+  },
+  {
+    "word": "opera",
+    "phonetic": "/ˈɒprə/",
+    "pos": "n.",
+    "definition_zh": "歌劇",
+    "example": "She once sang in Beethoven's opera Fidelio.",
+    "example_zh": "她曾經在貝多芬的歌劇《費黛里歐》中演唱。",
+    "usage": [],
+    "frequency_rank": 304,
+    "level": "國中"
+  },
+  {
+    "word": "city",
+    "phonetic": "/ˈsɪti/",
+    "pos": "n.",
+    "definition_zh": "城市",
+    "example": "When Röckel was leaving the city of Vienna.",
+    "example_zh": "當羅克爾離開維也納市時。",
+    "usage": [],
+    "frequency_rank": 305,
+    "level": "國中"
+  },
+  {
+    "word": "love",
+    "phonetic": "/lʌv/",
+    "pos": "v.",
+    "definition_zh": "愛，喜歡",
+    "example": "Beethoven was in love with her.",
+    "example_zh": "貝多芬愛上了她。",
+    "usage": [
+      {
+        "pattern": "in love with",
+        "meaning_zh": "愛上…，與…相愛"
+      }
+    ],
+    "frequency_rank": 306,
+    "level": "國中"
+  },
+  {
+    "word": "manuscript",
+    "phonetic": "/ˈmænjuskrɪpt/",
+    "pos": "n.",
+    "definition_zh": "手稿",
+    "example": "He wrote a piece for her and put “For Therese” on the manuscript.",
+    "example_zh": "他為她寫了一首曲子，並在手稿上寫上「給泰瑞絲」。",
+    "usage": [],
+    "frequency_rank": 307,
+    "level": "國中"
+  },
+  {
+    "word": "mistake",
+    "phonetic": "/mɪˈsteɪk/",
+    "pos": "n.",
+    "definition_zh": "錯誤",
+    "example": "A man copied the manuscript and wrote \"For Elise\" by mistake.",
+    "example_zh": "一個男人抄寫手稿時誤寫成「給愛麗絲」。",
+    "usage": [
+      {
+        "pattern": "by mistake",
+        "meaning_zh": "錯誤地，不小心"
+      }
+    ],
+    "frequency_rank": 308,
+    "level": "國中"
+  },
+  {
+    "word": "death",
+    "phonetic": "/dɛθ/",
+    "pos": "n.",
+    "definition_zh": "死亡",
+    "example": "This was 40 years after Beethoven's death.",
+    "example_zh": "這是貝多芬去世40年後。",
+    "usage": [],
+    "frequency_rank": 309,
+    "level": "國中"
+  },
+  {
+    "word": "friend",
+    "phonetic": "/frɛnd/",
+    "pos": "n.",
+    "definition_zh": "朋友",
+    "example": "Elisabeth Röckel was a close friend of Beethoven's.",
+    "example_zh": "伊莉莎白·羅克爾是貝多芬的親密朋友。",
+    "usage": [
+      {
+        "pattern": "close friend",
+        "meaning_zh": "親密朋友"
+      }
+    ],
+    "frequency_rank": 310,
+    "level": "國中"
+  },
+  {
+    "word": "student",
+    "phonetic": "/ˈstuːdnt/",
+    "pos": "n.",
+    "definition_zh": "學生",
+    "example": "Elise Barensfeld was Beethoven's student.",
+    "example_zh": "愛麗絲·巴倫斯費爾德是貝多芬的學生。",
+    "usage": [],
+    "frequency_rank": 311,
+    "level": "國中"
+  },
+  {
+    "word": "toy truck",
+    "phonetic": "/tɔɪ trʌk/",
+    "pos": "n.",
+    "definition_zh": "玩具卡車",
+    "example": "Which would you give a boy for his birthday, a toy truck or a doll?",
+    "example_zh": "你會給一個男孩一個玩具卡車還是一個洋娃娃作為生日禮物？",
+    "usage": [],
+    "frequency_rank": 312,
+    "level": "國中"
+  },
+  {
+    "word": "doll",
+    "phonetic": "/dɒl/",
+    "pos": "n.",
+    "definition_zh": "洋娃娃",
+    "example": "Which would you give a boy for his birthday, a toy truck or a doll?",
+    "example_zh": "你會給一個男孩一個玩具卡車還是一個洋娃娃作為生日禮物？",
+    "usage": [],
+    "frequency_rank": 313,
+    "level": "國中"
+  },
+  {
+    "word": "building toy",
+    "phonetic": "/ˈbɪldɪŋ tɔɪ/",
+    "pos": "n.",
+    "definition_zh": "積木玩具",
+    "example": "We might pick building toys for boys.",
+    "example_zh": "我們可能會為男孩挑選積木玩具。",
+    "usage": [],
+    "frequency_rank": 314,
+    "level": "國中"
+  },
+  {
+    "word": "kitchen toy",
+    "phonetic": "/ˈkɪtʃɪn tɔɪ/",
+    "pos": "n.",
+    "definition_zh": "廚房玩具",
+    "example": "We might pick kitchen toys for girls.",
+    "example_zh": "我們可能會為女孩挑選廚房玩具。",
+    "usage": [],
+    "frequency_rank": 315,
+    "level": "國中"
+  },
+  {
+    "word": "gender",
+    "phonetic": "/ˈdʒɛndər/",
+    "pos": "n.",
+    "definition_zh": "性別",
+    "example": "Children start to show different interests in toys at age three, but only because at this time, they begin to learn about gender.",
+    "example_zh": "孩子們在三歲時開始對玩具表現出不同的興趣，但這只是因為在這個時候他們開始學習性別。",
+    "usage": [],
+    "frequency_rank": 316,
+    "level": "國中"
+  },
+  {
+    "word": "habit",
+    "phonetic": "/ˈhæbɪt/",
+    "pos": "n.",
+    "definition_zh": "習慣",
+    "example": "This “watch and follow” habit often becomes a rule.",
+    "example_zh": "這種「觀察和模仿」的習慣常常變成一個規則。",
+    "usage": [],
+    "frequency_rank": 317,
+    "level": "國中"
+  },
+  {
+    "word": "helpful",
+    "phonetic": "/ˈhɛlpfʊl/",
+    "pos": "adj.",
+    "definition_zh": "有幫助的",
+    "example": "Not all kinds of toys are helpful for children's learning.",
+    "example_zh": "並非所有種類的玩具都對孩子的學習有幫助。",
+    "usage": [],
+    "frequency_rank": 318,
+    "level": "國中"
+  },
+  {
+    "word": "reporter",
+    "phonetic": "/rɪˈpɔːrtər/",
+    "pos": "n.",
+    "definition_zh": "記者",
+    "example": "Marie Colvin was a world-famous war reporter.",
+    "example_zh": "瑪麗·科爾文是一位世界著名的戰地記者。",
+    "usage": [
+      {
+        "pattern": "war reporter",
+        "meaning_zh": "戰地記者"
+      }
+    ],
+    "frequency_rank": 319,
+    "level": "國中"
+  },
+  {
+    "word": "university",
+    "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+    "pos": "n.",
+    "definition_zh": "大學",
+    "example": "When she was a student at Yale University, Colvin decided that she wanted to be a reporter.",
+    "example_zh": "當她在耶魯大學讀書時，科爾文決定她想成為一名記者。",
+    "usage": [],
+    "frequency_rank": 320,
+    "level": "國中"
+  },
+  {
+    "word": "Middle East",
+    "phonetic": "/ˌmɪdl ˈiːst/",
+    "pos": "n.",
+    "definition_zh": "中東",
+    "example": "She soon became its Middle East reporter.",
+    "example_zh": "她很快成為了中東地區的記者。",
+    "usage": [],
+    "frequency_rank": 321,
+    "level": "國中"
+  },
+  {
+    "word": "empathy",
+    "phonetic": "/ˈɛmpəθi/",
+    "pos": "n.",
+    "definition_zh": "同理心，同情心",
+    "example": "Colvin showed great empathy in her stories.",
+    "example_zh": "科爾文在她的報導中展現了極大的同理心。",
+    "usage": [
+      {
+        "pattern": "show empathy",
+        "meaning_zh": "展現同理心"
+      }
+    ],
+    "frequency_rank": 322,
+    "level": "國中"
+  },
+  {
+    "word": "strongly",
+    "phonetic": "/ˈstrɒŋli/",
+    "pos": "adv.",
+    "definition_zh": "強烈地",
+    "example": "Her writing made you feel so strongly about these people's stories.",
+    "example_zh": "她的寫作讓你對這些人的故事感同身受。",
+    "usage": [
+      {
+        "pattern": "feel strongly about",
+        "meaning_zh": "對…感觸強烈"
+      }
+    ],
+    "frequency_rank": 323,
+    "level": "國中"
+  },
+  {
+    "word": "take action",
+    "phonetic": "/teɪk ˈækʃn/",
+    "pos": "phr.v.",
+    "definition_zh": "採取行動",
+    "example": "The world would take action to stop the fighting.",
+    "example_zh": "世界將採取行動制止戰鬥。",
+    "usage": [],
+    "frequency_rank": 324,
+    "level": "國中"
+  },
+  {
+    "word": "fighting",
+    "phonetic": "/ˈfaɪtɪŋ/",
+    "pos": "n.",
+    "definition_zh": "戰鬥，戰爭",
+    "example": "The world would take action to stop the fighting.",
+    "example_zh": "世界將採取行動制止戰鬥。",
+    "usage": [],
+    "frequency_rank": 325,
+    "level": "國中"
+  },
+  {
+    "word": "attack",
+    "phonetic": "/əˈtæk/",
+    "pos": "v.",
+    "definition_zh": "襲擊，攻擊",
+    "example": "She was killed when the house she was staying in was attacked.",
+    "example_zh": "她所住的房子被襲擊時，她被殺害了。",
+    "usage": [],
+    "frequency_rank": 326,
+    "level": "國中"
+  },
+  {
+    "word": "schoolday",
+    "phonetic": "/ˈskuːldeɪ/",
+    "pos": "n.",
+    "definition_zh": "上學日；在校時期",
+    "example": "Marie Colvin's schooldays at Yale.",
+    "example_zh": "瑪麗·科爾文在耶魯大學的求學時期。",
+    "usage": [],
+    "frequency_rank": 327,
+    "level": "國中"
+  },
+  {
+    "word": "quiz",
+    "phonetic": "/kwɪz/",
+    "pos": "n.",
+    "definition_zh": "測驗，小考",
+    "example": "The information in the book was collected from the quiz that Katz built on the website.",
+    "example_zh": "書中的資訊是從卡茨在網站上建立的測驗中收集的。",
+    "usage": [],
+    "frequency_rank": 328,
+    "level": "國中"
+  },
+  {
+    "word": "fact",
+    "phonetic": "/fækt/",
+    "pos": "n.",
+    "definition_zh": "事實",
+    "example": "Their answers showed interesting facts.",
+    "example_zh": "他們的答案顯示了一些有趣的事實。",
+    "usage": [],
+    "frequency_rank": 329,
+    "level": "國中"
+  },
+  {
+    "word": "northeast",
+    "phonetic": "/ˌnɔːrθˈiːst/",
+    "pos": "n. / adj.",
+    "definition_zh": "東北方；東北方的",
+    "example": "In the northeast of the country, people wear “sneakers.”",
+    "example_zh": "在這個國家的東北部，人們穿「sneakers」（運動鞋）。",
+    "usage": [],
+    "frequency_rank": 330,
+    "level": "國中"
+  },
+  {
+    "word": "sneaker",
+    "phonetic": "/ˈsniːkər/",
+    "pos": "n.",
+    "definition_zh": "運動鞋",
+    "example": "In the northeast of the country, people wear “sneakers.”",
+    "example_zh": "在這個國家的東北部，人們穿「sneakers」（運動鞋）。",
+    "usage": [],
+    "frequency_rank": 331,
+    "level": "國中"
+  },
+  {
+    "word": "gym shoe",
+    "phonetic": "/ˈdʒɪm ʃuː/",
+    "pos": "n.",
+    "definition_zh": "體育鞋，運動鞋",
+    "example": "“Tennis shoes\" and “sneakers” become “gym shoes.”",
+    "example_zh": "「網球鞋」和「運動鞋」變成了「體育鞋」。",
+    "usage": [],
+    "frequency_rank": 332,
+    "level": "國中"
+  },
+  {
+    "word": "plimsoll",
+    "phonetic": "/ˈplɪmsɒl/",
+    "pos": "n.",
+    "definition_zh": "帆布鞋（尤指英式英語）",
+    "example": "My grandfather says \"plimsolls.\"",
+    "example_zh": "我祖父說「plimsolls」（帆布鞋）。",
+    "usage": [],
+    "frequency_rank": 333,
+    "level": "國中"
+  },
+  {
+    "word": "daughter",
+    "phonetic": "/ˈdɔːtər/",
+    "pos": "n.",
+    "definition_zh": "女兒",
+    "example": "My daughter says “kicks” or “vans.”",
+    "example_zh": "我女兒說「kicks」或「vans」（都是運動鞋的說法）。",
+    "usage": [],
+    "frequency_rank": 334,
+    "level": "國中"
+  },
+  {
+    "word": "difference",
+    "phonetic": "/ˈdɪfrəns/",
+    "pos": "n.",
+    "definition_zh": "差異，不同",
+    "example": "Maybe Katz can study this difference for his next book.",
+    "example_zh": "或許卡茨可以在他的下一本書中研究這種差異。",
+    "usage": [],
+    "frequency_rank": 335,
+    "level": "國中"
+  },
+  {
+    "word": "website",
+    "phonetic": "/ˈwɛbsaɪt/",
+    "pos": "n.",
+    "definition_zh": "網站",
+    "example": "The quiz was built on the website in 2013.",
+    "example_zh": "這個測驗是在2013年於網站上建立的。",
+    "usage": [],
+    "frequency_rank": 336,
+    "level": "國中"
+  },
+  {
+    "word": "confirm",
+    "phonetic": "/kənˈfɜːrm/",
+    "pos": "v.",
+    "definition_zh": "確認",
+    "example": "Please confirm your answer card is correct.",
+    "example_zh": "請確認你的答案卡正確無誤。",
+    "usage": [],
+    "frequency_rank": 337,
+    "level": "國中"
+  },
+  {
+    "word": "precautions",
+    "phonetic": "/prɪˈkɔːʃənz/",
+    "pos": "n.",
+    "definition_zh": "注意事項",
+    "example": "Please read the precautions before starting.",
+    "example_zh": "請在開始前閱讀注意事項。",
+    "usage": [],
+    "frequency_rank": 338,
+    "level": "國中"
+  },
+  {
+    "word": "penalty",
+    "phonetic": "/ˈpɛnəlti/",
+    "pos": "n.",
+    "definition_zh": "罰款；處罰",
+    "example": "There is no penalty for wrong answers.",
+    "example_zh": "答錯不倒扣。",
+    "usage": [
+      {
+        "pattern": "no penalty",
+        "meaning_zh": "不予處罰"
+      }
+    ],
+    "frequency_rank": 339,
+    "level": "國中"
+  },
+  {
+    "word": "vocabulary",
+    "phonetic": "/voʊˈkæbjulɛri/",
+    "pos": "n.",
+    "definition_zh": "單字",
+    "example": "Some vocabulary words are annotated with Chinese.",
+    "example_zh": "部分試題中的單字加註中文。",
+    "usage": [],
+    "frequency_rank": 340,
+    "level": "國中"
+  },
+  {
+    "word": "phrase",
+    "phonetic": "/freɪz/",
+    "pos": "n.",
+    "definition_zh": "片語",
+    "example": "Some phrases are annotated with Chinese.",
+    "example_zh": "部分試題中的片語加註中文。",
+    "usage": [],
+    "frequency_rank": 341,
+    "level": "國中"
+  },
+  {
+    "word": "reference",
+    "phonetic": "/ˈrɛfərəns/",
+    "pos": "n.",
+    "definition_zh": "參考",
+    "example": "The Chinese notes are for your reference.",
+    "example_zh": "中文註釋以利參考。",
+    "usage": [
+      {
+        "pattern": "for reference",
+        "meaning_zh": "供參考"
+      }
+    ],
+    "frequency_rank": 342,
+    "level": "國中"
+  },
+  {
+    "word": "damage",
+    "phonetic": "/ˈdæmɪdʒ/",
+    "pos": "v.",
+    "definition_zh": "損壞",
+    "example": "Do not intentionally damage the test booklet.",
+    "example_zh": "不要故意損壞試題本。",
+    "usage": [],
+    "frequency_rank": 343,
+    "level": "國中"
+  },
+  {
+    "word": "violate",
+    "phonetic": "/ˈvaɪəleɪt/",
+    "pos": "v.",
+    "definition_zh": "違反",
+    "example": "Making marks may violate exam rules.",
+    "example_zh": "作標記可能違反試場規則。",
+    "usage": [
+      {
+        "pattern": "violate rules",
+        "meaning_zh": "違反規則"
+      }
+    ],
+    "frequency_rank": 344,
+    "level": "國中"
+  },
+  {
+    "word": "rule",
+    "phonetic": "/ruːl/",
+    "pos": "n.",
+    "definition_zh": "規則",
+    "example": "All are behaviors that violate exam rules.",
+    "example_zh": "均屬違反試場規則行為。",
+    "usage": [],
+    "frequency_rank": 345,
+    "level": "國中"
+  },
+  {
+    "word": "corresponding",
+    "phonetic": "/ˌkɔːrəˈspɒndɪŋ/",
+    "pos": "adj.",
+    "definition_zh": "相應的",
+    "example": "Mark the corresponding position on the answer card.",
+    "example_zh": "在答案卡上相應的位置畫記。",
+    "usage": [],
+    "frequency_rank": 346,
+    "level": "國中"
+  },
+  {
+    "word": "modify",
+    "phonetic": "/ˈmɒdɪfaɪ/",
+    "pos": "v.",
+    "definition_zh": "修改",
+    "example": "If you need to modify your answer, use an eraser.",
+    "example_zh": "如果需要修改答案，請使用橡皮擦。",
+    "usage": [],
+    "frequency_rank": 347,
+    "level": "國中"
+  },
+  {
+    "word": "eraser",
+    "phonetic": "/ɪˈreɪsər/",
+    "pos": "n.",
+    "definition_zh": "橡皮擦",
+    "example": "Use an eraser to erase cleanly.",
+    "example_zh": "使用橡皮擦擦拭乾淨。",
+    "usage": [],
+    "frequency_rank": 348,
+    "level": "國中"
+  },
+  {
+    "word": "simultaneously",
+    "phonetic": "/ˌsaɪməlˈteɪniəsli/",
+    "pos": "adv.",
+    "definition_zh": "同時地",
+    "example": "Do not color two options simultaneously.",
+    "example_zh": "不可同時塗兩個選項。",
+    "usage": [],
+    "frequency_rank": 349,
+    "level": "國中"
+  },
+  {
+    "word": "teenager",
+    "phonetic": "/ˈtiːnˌeɪdʒər/",
+    "pos": "n.",
+    "definition_zh": "青少年",
+    "example": "When I was a teenager, I was very shy.",
+    "example_zh": "當我是青少年時，我非常害羞。",
+    "usage": [],
+    "frequency_rank": 350,
+    "level": "國中"
+  },
+  {
+    "word": "shy",
+    "phonetic": "/ʃaɪ/",
+    "pos": "adj.",
+    "definition_zh": "害羞的",
+    "example": "When I was a teenager, I was very shy.",
+    "example_zh": "當我是青少年時，我非常害羞。",
+    "usage": [],
+    "frequency_rank": 351,
+    "level": "國中"
+  },
+  {
+    "word": "hiking",
+    "phonetic": "/ˈhaɪkɪŋ/",
+    "pos": "n.",
+    "definition_zh": "健行",
+    "example": "Lena doesn't want to go hiking with John.",
+    "example_zh": "莉娜不想和約翰去健行。",
+    "usage": [
+      {
+        "pattern": "go hiking",
+        "meaning_zh": "去健行"
+      }
+    ],
+    "frequency_rank": 352,
+    "level": "國中"
+  },
+  {
+    "word": "sailing",
+    "phonetic": "/ˈseɪlɪŋ/",
+    "pos": "n.",
+    "definition_zh": "航海；帆船運動",
+    "example": "Lena doesn't want to go sailing with John because she is afraid of water.",
+    "example_zh": "莉娜不想和約翰去航海，因為她怕水。",
+    "usage": [
+      {
+        "pattern": "go sailing",
+        "meaning_zh": "去航海"
+      }
+    ],
+    "frequency_rank": 353,
+    "level": "國中"
+  },
+  {
+    "word": "medium",
+    "phonetic": "/ˈmiːdiəm/",
+    "pos": "adj.",
+    "definition_zh": "中等的",
+    "example": "I like my coffee medium sweet.",
+    "example_zh": "我喜歡我的咖啡中等甜度。",
+    "usage": [],
+    "frequency_rank": 354,
+    "level": "國中"
+  },
+  {
+    "word": "tools",
+    "phonetic": "/tuːlz/",
+    "pos": "n.",
+    "definition_zh": "工具",
+    "example": "The carpenter used his tools to build a chair.",
+    "example_zh": "木匠用他的工具製作椅子。",
+    "usage": [],
+    "frequency_rank": 355,
+    "level": "國中"
+  },
+  {
+    "word": "pocket",
+    "phonetic": "/ˈpɒkɪt/",
+    "pos": "n.",
+    "definition_zh": "口袋",
+    "example": "My keys have been in my pocket the whole time.",
+    "example_zh": "我的鑰匙一直都在我口袋裡。",
+    "usage": [],
+    "frequency_rank": 356,
+    "level": "國中"
+  },
+  {
+    "word": "fool",
+    "phonetic": "/fuːl/",
+    "pos": "n.",
+    "definition_zh": "笨蛋",
+    "example": "I feel like a fool.",
+    "example_zh": "我覺得自己像個笨蛋。",
+    "usage": [
+      {
+        "pattern": "feel like a fool",
+        "meaning_zh": "覺得自己像個笨蛋"
+      }
+    ],
+    "frequency_rank": 357,
+    "level": "國中"
+  },
+  {
+    "word": "ghost",
+    "phonetic": "/ɡoʊst/",
+    "pos": "n.",
+    "definition_zh": "鬼",
+    "example": "Some people believe in ghosts.",
+    "example_zh": "有些人相信有鬼。",
+    "usage": [],
+    "frequency_rank": 358,
+    "level": "國中"
+  },
+  {
+    "word": "stranger",
+    "phonetic": "/ˈstreɪndʒər/",
+    "pos": "n.",
+    "definition_zh": "陌生人",
+    "example": "Don't talk to strangers.",
+    "example_zh": "不要和陌生人說話。",
+    "usage": [],
+    "frequency_rank": 359,
+    "level": "國中"
+  },
+  {
+    "word": "elementary",
+    "phonetic": "/ˌɛlɪˈmɛntəri/",
+    "pos": "adj.",
+    "definition_zh": "初級的；小學的",
+    "example": "One daughter is in elementary school.",
+    "example_zh": "一個女兒讀小學。",
+    "usage": [
+      {
+        "pattern": "elementary school",
+        "meaning_zh": "小學"
+      }
+    ],
+    "frequency_rank": 360,
+    "level": "國中"
+  },
+  {
+    "word": "abroad",
+    "phonetic": "/əˈbrɔːd/",
+    "pos": "adv.",
+    "definition_zh": "在國外",
+    "example": "I want to visit my aunt abroad.",
+    "example_zh": "我想去國外看望我的阿姨。",
+    "usage": [],
+    "frequency_rank": 361,
+    "level": "國中"
+  },
+  {
+    "word": "greater",
+    "phonetic": "/ˈɡreɪtər/",
+    "pos": "adj.",
+    "definition_zh": "更偉大的 (great的比較級)",
+    "example": "There will be greater basketball players than Stephen Curry.",
+    "example_zh": "將來會有比史蒂芬·柯瑞更偉大的籃球員。",
+    "usage": [],
+    "frequency_rank": 362,
+    "level": "國中"
+  },
+  {
+    "word": "perhaps",
+    "phonetic": "/pərˈhæps/",
+    "pos": "adv.",
+    "definition_zh": "也許",
+    "example": "Perhaps we should leave now.",
+    "example_zh": "也許我們現在應該走了。",
+    "usage": [],
+    "frequency_rank": 363,
+    "level": "國中"
+  },
+  {
+    "word": "rainwater",
+    "phonetic": "/ˈreɪnˌwɔːtər/",
+    "pos": "n.",
+    "definition_zh": "雨水",
+    "example": "I guess the rainwater has come in from the kitchen.",
+    "example_zh": "我猜雨水是從廚房進來的。",
+    "usage": [],
+    "frequency_rank": 364,
+    "level": "國中"
+  },
+  {
+    "word": "strawberry",
+    "phonetic": "/ˈstrɔːbɛri/",
+    "pos": "n.",
+    "definition_zh": "草莓",
+    "example": "They were not used on strawberry farms until several years ago.",
+    "example_zh": "它們直到幾年前才在草莓農場使用。",
+    "usage": [
+      {
+        "pattern": "strawberry farm",
+        "meaning_zh": "草莓農場"
+      }
+    ],
+    "frequency_rank": 365,
+    "level": "國中"
+  },
+  {
+    "word": "online",
+    "phonetic": "/ˌɒnˈlaɪn/",
+    "pos": "adj.",
+    "definition_zh": "線上的",
+    "example": "There are online videos that teach you exercises.",
+    "example_zh": "有些線上影片教你做運動。",
+    "usage": [],
+    "frequency_rank": 366,
+    "level": "國中"
+  },
+  {
+    "word": "grandchild",
+    "phonetic": "/ˈɡrændˌtʃaɪld/",
+    "pos": "n.",
+    "definition_zh": "孫子/孫女",
+    "example": "Jane's parents are always happy to see their grandchildren.",
+    "example_zh": "珍的父母總是很高興看到他們的孫子女。",
+    "usage": [],
+    "frequency_rank": 367,
+    "level": "國中"
+  },
+  {
+    "word": "favorite",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "pos": "adj.",
+    "definition_zh": "最喜歡的",
+    "example": "Tell Daphne you broke her favorite cup.",
+    "example_zh": "你應該告訴達芙妮你打破了她最喜歡的杯子。",
+    "usage": [],
+    "frequency_rank": 368,
+    "level": "國中"
+  },
+  {
+    "word": "windy",
+    "phonetic": "/ˈwɪndi/",
+    "pos": "adj.",
+    "definition_zh": "多風的",
+    "example": "It was very windy this morning.",
+    "example_zh": "今天早上風很大。",
+    "usage": [],
+    "frequency_rank": 369,
+    "level": "國中"
+  },
+  {
+    "word": "bakery",
+    "phonetic": "/ˈbeɪkəri/",
+    "pos": "n.",
+    "definition_zh": "麵包店",
+    "example": "Rex is a dog that lives at the bakery next to our school.",
+    "example_zh": "雷克斯是一隻住在我們學校旁邊麵包店的狗。",
+    "usage": [],
+    "frequency_rank": 370,
+    "level": "國中"
+  },
+  {
+    "word": "friendly",
+    "phonetic": "/ˈfrɛndli/",
+    "pos": "adj.",
+    "definition_zh": "友善的",
+    "example": "Rex is cute and friendly.",
+    "example_zh": "雷克斯很可愛又友善。",
+    "usage": [],
+    "frequency_rank": 371,
+    "level": "國中"
+  },
+  {
+    "word": "surprised",
+    "phonetic": "/sərˈpraɪzd/",
+    "pos": "adj.",
+    "definition_zh": "驚訝的",
+    "example": "I was surprised that Rex was not there.",
+    "example_zh": "我很驚訝雷克斯不在那裡。",
+    "usage": [
+      {
+        "pattern": "be surprised that...",
+        "meaning_zh": "對...感到驚訝"
+      }
+    ],
+    "frequency_rank": 372,
+    "level": "國中"
+  },
+  {
+    "word": "healthier",
+    "phonetic": "/ˈhɛlθiər/",
+    "pos": "adj.",
+    "definition_zh": "更健康的 (healthy的比較級)",
+    "example": "Rex became healthier and stronger.",
+    "example_zh": "雷克斯變得更健康、更強壯了。",
+    "usage": [],
+    "frequency_rank": 373,
+    "level": "國中"
+  },
+  {
+    "word": "handsome",
+    "phonetic": "/ˈhænsəm/",
+    "pos": "adj.",
+    "definition_zh": "英俊的",
+    "example": "He is now as handsome and strong as before!",
+    "example_zh": "牠現在和以前一樣英俊強壯！",
+    "usage": [],
+    "frequency_rank": 374,
+    "level": "國中"
+  },
+  {
+    "word": "doctor",
+    "phonetic": "/ˈdɒktər/",
+    "pos": "n.",
+    "definition_zh": "醫生",
+    "example": "Taking him to see a doctor.",
+    "example_zh": "帶牠去看醫生。",
+    "usage": [
+      {
+        "pattern": "see a doctor",
+        "meaning_zh": "看醫生"
+      }
+    ],
+    "frequency_rank": 375,
+    "level": "國中"
+  },
+  {
+    "word": "married",
+    "phonetic": "/ˈmærid/",
+    "pos": "adj.",
+    "definition_zh": "已婚的",
+    "example": "I'm getting married next year!",
+    "example_zh": "我明年要結婚了！",
+    "usage": [
+      {
+        "pattern": "get married",
+        "meaning_zh": "結婚"
+      }
+    ],
+    "frequency_rank": 376,
+    "level": "國中"
+  },
+  {
+    "word": "stealing thunder",
+    "phonetic": "/ˈstiːlɪŋ ˈθʌndər/",
+    "pos": "phrase",
+    "definition_zh": "搶鋒頭",
+    "example": "You're stealing Jenny's thunder.",
+    "example_zh": "你在搶珍妮的鋒頭。",
+    "usage": [
+      {
+        "pattern": "steal someone's thunder",
+        "meaning_zh": "搶某人的鋒頭"
+      }
+    ],
+    "frequency_rank": 377,
+    "level": "國中"
+  },
+  {
+    "word": "problem",
+    "phonetic": "/ˈprɒbləm/",
+    "pos": "n.",
+    "definition_zh": "問題",
+    "example": "All right, all right, my problem.",
+    "example_zh": "好吧，好吧，是我的問題。",
+    "usage": [],
+    "frequency_rank": 378,
+    "level": "國中"
+  },
+  {
+    "word": "choose",
+    "phonetic": "/tʃuːz/",
+    "pos": "v.",
+    "definition_zh": "選擇",
+    "example": "Alisa doesn't like the restaurant we chose.",
+    "example_zh": "艾莉莎也不喜歡我們選的餐廳。",
+    "usage": [],
+    "frequency_rank": 379,
+    "level": "國中"
+  },
+  {
+    "word": "metro",
+    "phonetic": "/ˈmɛtroʊ/",
+    "pos": "n.",
+    "definition_zh": "地鐵",
+    "example": "You can visit the city by metro, bus, or train.",
+    "example_zh": "你可以搭乘地鐵、公車或火車參觀這座城市。",
+    "usage": [],
+    "frequency_rank": 380,
+    "level": "國中"
+  },
+  {
+    "word": "weekend",
+    "phonetic": "/ˈwiːkɛnd/",
+    "pos": "n.",
+    "definition_zh": "週末",
+    "example": "The Weekend Card is for trips on weekends and holidays.",
+    "example_zh": "週末卡用於週末和假日旅行。",
+    "usage": [],
+    "frequency_rank": 381,
+    "level": "國中"
+  },
+  {
+    "word": "holiday",
+    "phonetic": "/ˈhɒlɪdeɪ/",
+    "pos": "n.",
+    "definition_zh": "假日",
+    "example": "The Weekend Card is for trips on weekends and holidays.",
+    "example_zh": "週末卡用於週末和假日旅行。",
+    "usage": [],
+    "frequency_rank": 382,
+    "level": "國中"
+  },
+  {
+    "word": "zone",
+    "phonetic": "/zoʊn/",
+    "pos": "n.",
+    "definition_zh": "區域",
+    "example": "Check the map for the zones you'll be entering.",
+    "example_zh": "查看地圖，了解你將進入的區域。",
+    "usage": [],
+    "frequency_rank": 383,
+    "level": "國中"
+  },
+  {
+    "word": "airport",
+    "phonetic": "/ˈɛərpɔːrt/",
+    "pos": "n.",
+    "definition_zh": "機場",
+    "example": "White Lake Airport is busy today.",
+    "example_zh": "白湖機場今天很繁忙。",
+    "usage": [],
+    "frequency_rank": 384,
+    "level": "國中"
+  },
+  {
+    "word": "least",
+    "phonetic": "/liːst/",
+    "pos": "adj.",
+    "definition_zh": "最少的",
+    "example": "Which choice will cost her the least?",
+    "example_zh": "哪一個選擇對她來說花費最少？",
+    "usage": [
+      {
+        "pattern": "at least",
+        "meaning_zh": "至少"
+      }
+    ],
+    "frequency_rank": 385,
+    "level": "國中"
+  },
+  {
+    "word": "mop",
+    "phonetic": "/mɒp/",
+    "pos": "v.",
+    "definition_zh": "拖地",
+    "example": "She mops the floor every morning.",
+    "example_zh": "她每天早上拖地。",
+    "usage": [
+      {
+        "pattern": "mop the floor",
+        "meaning_zh": "拖地板"
+      }
+    ],
+    "frequency_rank": 386,
+    "level": "國中"
+  },
+  {
+    "word": "mail",
+    "phonetic": "/meɪl/",
+    "pos": "n.",
+    "definition_zh": "郵件",
+    "example": "She gets the mail and the newspapers.",
+    "example_zh": "她取郵件和報紙。",
+    "usage": [],
+    "frequency_rank": 387,
+    "level": "國中"
+  },
+  {
+    "word": "sheep",
+    "phonetic": "/ʃiːp/",
+    "pos": "n.",
+    "definition_zh": "綿羊 (單複數同形)",
+    "example": "Rolling Acres used to be just a sheep farm.",
+    "example_zh": "羅林斯莊園以前只是一個綿羊農場。",
+    "usage": [],
+    "frequency_rank": 388,
+    "level": "國中"
+  },
+  {
+    "word": "fruit",
+    "phonetic": "/fruːt/",
+    "pos": "n.",
+    "definition_zh": "水果",
+    "example": "Visitors can pick fruits.",
+    "example_zh": "遊客可以採摘水果。",
+    "usage": [],
+    "frequency_rank": 389,
+    "level": "國中"
+  },
+  {
+    "word": "vegetable",
+    "phonetic": "/ˈvɛdʒtəbl/",
+    "pos": "n.",
+    "definition_zh": "蔬菜",
+    "example": "It has fruit trees and vegetable gardens.",
+    "example_zh": "它有果樹和菜園。",
+    "usage": [
+      {
+        "pattern": "vegetable garden",
+        "meaning_zh": "菜園"
+      }
+    ],
+    "frequency_rank": 390,
+    "level": "國中"
+  },
+  {
+    "word": "garden",
+    "phonetic": "/ˈɡɑːrdn/",
+    "pos": "n.",
+    "definition_zh": "花園；菜園",
+    "example": "It has vegetable gardens.",
+    "example_zh": "它有菜園。",
+    "usage": [],
+    "frequency_rank": 391,
+    "level": "國中"
+  },
+  {
+    "word": "sacrifice",
+    "phonetic": "/ˈsækrɪfaɪs/",
+    "pos": "n.",
+    "definition_zh": "犧牲",
+    "example": "Working at a family business also means making sacrifices.",
+    "example_zh": "在家族企業工作也意味著做出犧牲。",
+    "usage": [
+      {
+        "pattern": "make sacrifices",
+        "meaning_zh": "做出犧牲"
+      }
+    ],
+    "frequency_rank": 392,
+    "level": "國中"
+  },
+  {
+    "word": "closer",
+    "phonetic": "/ˈkloʊsər/",
+    "pos": "adj.",
+    "definition_zh": "更親近的 (close的比較級)",
+    "example": "You feel closer to each other.",
+    "example_zh": "你們感覺彼此更親近。",
+    "usage": [],
+    "frequency_rank": 393,
+    "level": "國中"
+  },
+  {
+    "word": "zoo",
+    "phonetic": "/zuː/",
+    "pos": "n.",
+    "definition_zh": "動物園",
+    "example": "Rolling Acres is not a zoo.",
+    "example_zh": "羅林斯莊園不是動物園。",
+    "usage": [],
+    "frequency_rank": 394,
+    "level": "國中"
+  },
+  {
+    "word": "wisely",
+    "phonetic": "/ˈwaɪzli/",
+    "pos": "adv.",
+    "definition_zh": "明智地",
+    "example": "Learning to use money wisely.",
+    "example_zh": "學習明智地使用金錢。",
+    "usage": [],
+    "frequency_rank": 395,
+    "level": "國中"
+  },
+  {
+    "word": "excuse",
+    "phonetic": "/ɪkˈskjuːs/",
+    "pos": "n.",
+    "definition_zh": "藉口",
+    "example": "Making excuses for failing.",
+    "example_zh": "為失敗找藉口。",
+    "usage": [
+      {
+        "pattern": "make excuses for",
+        "meaning_zh": "為...找藉口"
+      }
+    ],
+    "frequency_rank": 396,
+    "level": "國中"
+  },
+  {
+    "word": "island",
+    "phonetic": "/ˈaɪlənd/",
+    "pos": "n.",
+    "definition_zh": "島嶼",
+    "example": "People came to Easter Island.",
+    "example_zh": "人們來到復活節島。",
+    "usage": [],
+    "frequency_rank": 397,
+    "level": "國中"
+  },
+  {
+    "word": "statue",
+    "phonetic": "/ˈstætʃuː/",
+    "pos": "n.",
+    "definition_zh": "雕像",
+    "example": "They loved making statues with big rocks.",
+    "example_zh": "他們喜歡用大石頭製作雕像。",
+    "usage": [],
+    "frequency_rank": 398,
+    "level": "國中"
+  },
+  {
+    "word": "easily",
+    "phonetic": "/ˈiːzɪli/",
+    "pos": "adv.",
+    "definition_zh": "輕易地",
+    "example": "They could move the statues around easily.",
+    "example_zh": "他們可以輕易地移動雕像。",
+    "usage": [],
+    "frequency_rank": 399,
+    "level": "國中"
+  },
+  {
+    "word": "enough",
+    "phonetic": "/ɪˈnʌf/",
+    "pos": "adj.",
+    "definition_zh": "足夠的",
+    "example": "Without enough trees, the land became dry.",
+    "example_zh": "沒有足夠的樹木，土地變得乾燥。",
+    "usage": [],
+    "frequency_rank": 400,
+    "level": "國中"
+  },
+  {
+    "word": "ground",
+    "phonetic": "/ɡraʊnd/",
+    "pos": "n.",
+    "definition_zh": "地面；土地",
+    "example": "The land became dry.",
+    "example_zh": "土地變得乾燥。",
+    "usage": [],
+    "frequency_rank": 401,
+    "level": "國中"
+  },
+  {
+    "word": "dry",
+    "phonetic": "/draɪ/",
+    "pos": "adj.",
+    "definition_zh": "乾燥的",
+    "example": "The land became dry.",
+    "example_zh": "土地變得乾燥。",
+    "usage": [],
+    "frequency_rank": 402,
+    "level": "國中"
+  },
+  {
+    "word": "thirsty",
+    "phonetic": "/ˈθɜːrsti/",
+    "pos": "adj.",
+    "definition_zh": "口渴的",
+    "example": "I'm thirsty.",
+    "example_zh": "我口渴了。",
+    "usage": [],
+    "frequency_rank": 403,
+    "level": "國中"
+  },
+  {
+    "word": "hungry",
+    "phonetic": "/ˈhʌŋɡri/",
+    "pos": "adj.",
+    "definition_zh": "飢餓的",
+    "example": "And I'm hungry.",
+    "example_zh": "我餓了。",
+    "usage": [],
+    "frequency_rank": 404,
+    "level": "國中"
+  },
+  {
+    "word": "probably",
+    "phonetic": "/ˈprɒbəbli/",
+    "pos": "adv.",
+    "definition_zh": "大概",
+    "example": "The last trees were probably cut down at this time.",
+    "example_zh": "最後的樹木大概是在這個時候被砍伐的。",
+    "usage": [],
+    "frequency_rank": 405,
+    "level": "國中"
+  },
+  {
+    "word": "surely",
+    "phonetic": "/ˈʃʊərli/",
+    "pos": "adv.",
+    "definition_zh": "肯定地",
+    "example": "Those who cut down the last trees surely understood how important trees were.",
+    "example_zh": "那些砍伐最後樹木的人肯定明白樹木有多重要。",
+    "usage": [],
+    "frequency_rank": 406,
+    "level": "國中"
+  },
+  {
+    "word": "effect",
+    "phonetic": "/ɪˈfɛkt/",
+    "pos": "n.",
+    "definition_zh": "效應",
+    "example": "Ariely called it \"the IKEA effect.\"",
+    "example_zh": "艾瑞利稱之為「IKEA效應」。",
+    "usage": [],
+    "frequency_rank": 407,
+    "level": "國中"
+  },
+  {
+    "word": "cabinet",
+    "phonetic": "/ˈkæbɪnɪt/",
+    "pos": "n.",
+    "definition_zh": "櫃子",
+    "example": "Dan Ariely bought a cabinet from IKEA.",
+    "example_zh": "丹·艾瑞利從IKEA買了一個櫃子。",
+    "usage": [],
+    "frequency_rank": 408,
+    "level": "國中"
+  },
+  {
+    "word": "furniture",
+    "phonetic": "/ˈfɜːrnɪtʃər/",
+    "pos": "n.",
+    "definition_zh": "家具",
+    "example": "IKEA is a famous furniture store.",
+    "example_zh": "IKEA是一家著名的家具店。",
+    "usage": [
+      {
+        "pattern": "furniture store",
+        "meaning_zh": "家具店"
+      }
+    ],
+    "frequency_rank": 409,
+    "level": "國中"
+  },
+  {
+    "word": "themselves",
+    "phonetic": "/ðɛmˈsɛlvz/",
+    "pos": "pron.",
+    "definition_zh": "他們自己",
+    "example": "People have to put all the parts together themselves.",
+    "example_zh": "人們必須自己將所有零件組裝起來。",
+    "usage": [],
+    "frequency_rank": 410,
+    "level": "國中"
+  },
+  {
+    "word": "enjoy",
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "pos": "v.",
+    "definition_zh": "享受",
+    "example": "Ariely didn't really enjoy himself when building.",
+    "example_zh": "艾瑞利在組裝時並沒有真正享受其中。",
+    "usage": [
+      {
+        "pattern": "enjoy oneself",
+        "meaning_zh": "玩得開心"
+      }
+    ],
+    "frequency_rank": 411,
+    "level": "國中"
+  },
+  {
+    "word": "quite",
+    "phonetic": "/kwaɪt/",
+    "pos": "adv.",
+    "definition_zh": "相當",
+    "example": "He felt quite good about himself.",
+    "example_zh": "他對自己感覺相當良好。",
+    "usage": [],
+    "frequency_rank": 412,
+    "level": "國中"
+  },
+  {
+    "word": "origami",
+    "phonetic": "/ˌɔːrɪˈɡɑːmi/",
+    "pos": "n.",
+    "definition_zh": "摺紙",
+    "example": "Ariely did a fun origami study.",
+    "example_zh": "艾瑞利做了一個有趣的摺紙研究。",
+    "usage": [],
+    "frequency_rank": 413,
+    "level": "國中"
+  },
+  {
+    "word": "builder",
+    "phonetic": "/ˈbɪldər/",
+    "pos": "n.",
+    "definition_zh": "建造者；組裝者",
+    "example": "He called one group \"builders\".",
+    "example_zh": "他稱其中一組為「組裝者」。",
+    "usage": [],
+    "frequency_rank": 414,
+    "level": "國中"
+  },
+  {
+    "word": "buyer",
+    "phonetic": "/ˈbaɪər/",
+    "pos": "n.",
+    "definition_zh": "買家",
+    "example": "He called the other group \"buyers\".",
+    "example_zh": "他稱另一組為「買家」。",
+    "usage": [],
+    "frequency_rank": 415,
+    "level": "國中"
+  },
+  {
+    "word": "frog",
+    "phonetic": "/frɒɡ/",
+    "pos": "n.",
+    "definition_zh": "青蛙",
+    "example": "Builders were told to make paper frogs.",
+    "example_zh": "「組裝者」被告知製作紙青蛙。",
+    "usage": [
+      {
+        "pattern": "paper frog",
+        "meaning_zh": "紙青蛙"
+      }
+    ],
+    "frequency_rank": 416,
+    "level": "國中"
+  },
+  {
+    "word": "cent",
+    "phonetic": "/sɛnt/",
+    "pos": "n.",
+    "definition_zh": "分 (錢幣單位)",
+    "example": "Buyers would pay only five cents for origami.",
+    "example_zh": "買家只願為摺紙支付五分錢。",
+    "usage": [],
+    "frequency_rank": 417,
+    "level": "國中"
+  },
+  {
+    "word": "interestingly",
+    "phonetic": "/ˈɪntrəstɪŋli/",
+    "pos": "adv.",
+    "definition_zh": "有趣地",
+    "example": "Interestingly, builders believed their works were good enough.",
+    "example_zh": "有趣的是，「組裝者」相信他們的作品夠好。",
+    "usage": [],
+    "frequency_rank": 418,
+    "level": "國中"
+  },
+  {
+    "word": "blindly",
+    "phonetic": "/ˈblaɪndli/",
+    "pos": "adv.",
+    "definition_zh": "盲目地",
+    "example": "We love things more, sometimes blindly, when we make them ourselves.",
+    "example_zh": "當我們自己製作東西時，有時我們會盲目地更愛它們。",
+    "usage": [],
+    "frequency_rank": 419,
+    "level": "國中"
+  },
+  {
+    "word": "shouting",
+    "phonetic": "/ˈʃaʊtɪŋ/",
+    "pos": "n.",
+    "definition_zh": "大喊",
+    "example": "There is always a lot of shouting and crying.",
+    "example_zh": "總是有很多大喊大叫。",
+    "usage": [],
+    "frequency_rank": 420,
+    "level": "國中"
+  },
+  {
+    "word": "crying",
+    "phonetic": "/ˈkraɪɪŋ/",
+    "pos": "n.",
+    "definition_zh": "哭泣",
+    "example": "There is always a lot of shouting and crying.",
+    "example_zh": "總是有很多哭泣。",
+    "usage": [],
+    "frequency_rank": 421,
+    "level": "國中"
+  },
+  {
+    "word": "candy",
+    "phonetic": "/ˈkændi/",
+    "pos": "n.",
+    "definition_zh": "糖果",
+    "example": "Give Mia her favorite candy.",
+    "example_zh": "給蜜雅她最喜歡的糖果。",
+    "usage": [],
+    "frequency_rank": 422,
+    "level": "國中"
+  },
+  {
+    "word": "electricity",
+    "phonetic": "/ɪˌlɛkˈtrɪsɪti/",
+    "pos": "n.",
+    "definition_zh": "電力",
+    "example": "In the picture is a UK electricity worker.",
+    "example_zh": "圖中是英國的電力工人。",
+    "usage": [],
+    "frequency_rank": 423,
+    "level": "國中"
+  },
+  {
+    "word": "worker",
+    "phonetic": "/ˈwɜːrkər/",
+    "pos": "n.",
+    "definition_zh": "工人",
+    "example": "Electricity workers asked to be paid more.",
+    "example_zh": "電力工人要求加薪。",
+    "usage": [],
+    "frequency_rank": 424,
+    "level": "國中"
+  },
+  {
+    "word": "wish",
+    "phonetic": "/wɪʃ/",
+    "pos": "n.",
+    "definition_zh": "願望",
+    "example": "They decided to stop working until their wish was answered.",
+    "example_zh": "他們決定罷工，直到他們的願望得到回應。",
+    "usage": [],
+    "frequency_rank": 425,
+    "level": "國中"
+  },
+  {
+    "word": "answer",
+    "phonetic": "/ˈænsər/",
+    "pos": "v.",
+    "definition_zh": "回應",
+    "example": "Their wish was answered.",
+    "example_zh": "他們的願望得到了回應。",
+    "usage": [],
+    "frequency_rank": 426,
+    "level": "國中"
+  },
+  {
+    "word": "worry",
+    "phonetic": "/ˈwɜːri/",
+    "pos": "v.",
+    "definition_zh": "擔心",
+    "example": "The government worried that there wouldn't be enough electricity.",
+    "example_zh": "政府擔心電力不足。",
+    "usage": [
+      {
+        "pattern": "worry about",
+        "meaning_zh": "擔心關於..."
+      }
+    ],
+    "frequency_rank": 427,
+    "level": "國中"
+  },
+  {
+    "word": "pay rise",
+    "phonetic": "/ˈpeɪ raɪz/",
+    "pos": "phrase",
+    "definition_zh": "加薪",
+    "example": "The government agreed to give them the pay rise.",
+    "example_zh": "政府同意給他們加薪。",
+    "usage": [],
+    "frequency_rank": 428,
+    "level": "國中"
+  },
+  {
+    "word": "shorter",
+    "phonetic": "/ˈʃɔːrtər/",
+    "pos": "adj.",
+    "definition_zh": "更短的 (short的比較級)",
+    "example": "They worked shorter hours.",
+    "example_zh": "他們工作時間縮短了。",
+    "usage": [],
+    "frequency_rank": 429,
+    "level": "國中"
+  },
+  {
+    "word": "act",
+    "phonetic": "/ækt/",
+    "pos": "v.",
+    "definition_zh": "行動；表現",
+    "example": "They acted like they would walk away from their job.",
+    "example_zh": "他們表現得好像會辭職。",
+    "usage": [
+      {
+        "pattern": "act like",
+        "meaning_zh": "表現得像"
+      }
+    ],
+    "frequency_rank": 430,
+    "level": "國中"
+  },
+  {
+    "word": "anytime",
+    "phonetic": "/ˈɛnitaɪm/",
+    "pos": "adv.",
+    "definition_zh": "任何時候",
+    "example": "They acted like they would walk away from their job anytime.",
+    "example_zh": "他們表現得好像隨時都會辭職。",
+    "usage": [],
+    "frequency_rank": 431,
+    "level": "國中"
+  },
+  {
+    "word": "follow",
+    "phonetic": "/ˈfɒloʊ/",
+    "pos": "v.",
+    "definition_zh": "遵守；跟隨",
+    "example": "The government made new rules for people to follow.",
+    "example_zh": "政府為人們制定了新的規定。",
+    "usage": [],
+    "frequency_rank": 432,
+    "level": "國中"
+  },
+  {
+    "word": "heat",
+    "phonetic": "/hiːt/",
+    "pos": "n.",
+    "definition_zh": "暖氣；熱",
+    "example": "Each family could turn on the heat in only one room.",
+    "example_zh": "每個家庭只能在一個房間裡開暖氣。",
+    "usage": [
+      {
+        "pattern": "turn on the heat",
+        "meaning_zh": "開暖氣"
+      }
+    ],
+    "frequency_rank": 433,
+    "level": "國中"
+  },
+  {
+    "word": "greatly",
+    "phonetic": "/ˈɡreɪtli/",
+    "pos": "adv.",
+    "definition_zh": "大大地；非常",
+    "example": "People's lives were greatly changed.",
+    "example_zh": "人們的生活大大改變了。",
+    "usage": [],
+    "frequency_rank": 434,
+    "level": "國中"
+  },
+  {
+    "word": "cover",
+    "phonetic": "/ˈkʌvər/",
+    "pos": "v.",
+    "definition_zh": "覆蓋",
+    "example": "People covered themselves in blankets.",
+    "example_zh": "人們用毯子把自己蓋住。",
+    "usage": [
+      {
+        "pattern": "cover oneself in",
+        "meaning_zh": "用...覆蓋自己"
+      }
+    ],
+    "frequency_rank": 435,
+    "level": "國中"
+  },
+  {
+    "word": "blanket",
+    "phonetic": "/ˈblæŋkɪt/",
+    "pos": "n.",
+    "definition_zh": "毯子",
+    "example": "People covered themselves in blankets all the time.",
+    "example_zh": "人們一直用毯子把自己蓋住。",
+    "usage": [],
+    "frequency_rank": 436,
+    "level": "國中"
+  },
+  {
+    "word": "candle",
+    "phonetic": "/ˈkændl/",
+    "pos": "n.",
+    "definition_zh": "蠟燭",
+    "example": "Hospitals had to use candles.",
+    "example_zh": "醫院不得不使用蠟燭。",
+    "usage": [],
+    "frequency_rank": 437,
+    "level": "國中"
+  },
+  {
+    "word": "dark",
+    "phonetic": "/dɑːrk/",
+    "pos": "adj.",
+    "definition_zh": "黑暗的",
+    "example": "During the \"dark\" time.",
+    "example_zh": "在這個「黑暗」的時期。",
+    "usage": [],
+    "frequency_rank": 438,
+    "level": "國中"
+  },
+  {
+    "word": "brave",
+    "phonetic": "/breɪv/",
+    "pos": "adj.",
+    "definition_zh": "勇敢的",
+    "example": "They were not brave enough to fix their problems.",
+    "example_zh": "他們不夠勇敢去解決他們的問題。",
+    "usage": [],
+    "frequency_rank": 439,
+    "level": "國中"
+  },
+  {
+    "word": "gift",
+    "phonetic": "/ɡɪft/",
+    "pos": "n.",
+    "definition_zh": "禮物",
+    "example": "Most kids want gifts from their parents.",
+    "example_zh": "大多數孩子都想要父母的禮物。",
+    "usage": [],
+    "frequency_rank": 440,
+    "level": "國中"
+  },
+  {
+    "word": "junior high school",
+    "phonetic": "/ˈdʒuːniər haɪ skuːl/",
+    "pos": "phrase",
+    "definition_zh": "國中",
+    "example": "He started this in his first year of junior high school.",
+    "example_zh": "他從國中一年級開始這樣做。",
+    "usage": [],
+    "frequency_rank": 441,
+    "level": "國中"
+  },
+  {
+    "word": "video",
+    "phonetic": "/ˈvɪdioʊ/",
+    "pos": "n.",
+    "definition_zh": "影片",
+    "example": "He watched a video about how a baby is born.",
+    "example_zh": "他看了一部關於嬰兒如何出生的影片。",
+    "usage": [],
+    "frequency_rank": 442,
+    "level": "國中"
+  },
+  {
+    "word": "hold",
+    "phonetic": "/hoʊld/",
+    "pos": "v.",
+    "definition_zh": "抱著",
+    "example": "He held his mom in his arms for a long time.",
+    "example_zh": "他抱著媽媽很久。",
+    "usage": [
+      {
+        "pattern": "hold in one's arms",
+        "meaning_zh": "抱在懷裡"
+      }
+    ],
+    "frequency_rank": 443,
+    "level": "國中"
+  },
+  {
+    "word": "hard work",
+    "phonetic": "/ˈhɑːrd wɜːrk/",
+    "pos": "phrase",
+    "definition_zh": "辛苦工作",
+    "example": "His mom was doing all the hard work.",
+    "example_zh": "他的媽媽在做所有的辛苦工作。",
+    "usage": [],
+    "frequency_rank": 444,
+    "level": "國中"
+  },
+  {
+    "word": "taste",
+    "phonetic": "/teɪst/",
+    "pos": "v.",
+    "definition_zh": "嚐起來",
+    "example": "The cookies tasted so bad.",
+    "example_zh": "這些餅乾嚐起來很難吃。",
+    "usage": [],
+    "frequency_rank": 445,
+    "level": "國中"
+  },
+  {
+    "word": "thank",
+    "phonetic": "/θæŋk/",
+    "pos": "v.",
+    "definition_zh": "感謝",
+    "example": "He makes a gift for his mother to thank her.",
+    "example_zh": "他為媽媽準備禮物來感謝她。",
+    "usage": [
+      {
+        "pattern": "thank sb for sth",
+        "meaning_zh": "感謝某人某事"
+      }
+    ],
+    "frequency_rank": 446,
+    "level": "國中"
+  },
+  {
+    "word": "dress",
+    "phonetic": "/drɛs/",
+    "pos": "n.",
+    "definition_zh": "洋裝",
+    "example": "Cameron is going to give his mom a nice dress.",
+    "example_zh": "卡麥隆打算送他媽媽一件漂亮的洋裝。",
+    "usage": [],
+    "frequency_rank": 447,
+    "level": "國中"
+  },
+  {
+    "word": "hang",
+    "phonetic": "/hæŋ/",
+    "pos": "v.",
+    "definition_zh": "掛著",
+    "example": "The dress is hanging behind Cameron's bedroom door.",
+    "example_zh": "這件洋裝掛在卡麥隆臥室門後。",
+    "usage": [],
+    "frequency_rank": 448,
+    "level": "國中"
+  },
+  {
+    "word": "bedroom",
+    "phonetic": "/ˈbɛdruːm/",
+    "pos": "n.",
+    "definition_zh": "臥室",
+    "example": "The dress is hanging behind Cameron's bedroom door.",
+    "example_zh": "這件洋裝掛在卡麥隆臥室門後。",
+    "usage": [],
+    "frequency_rank": 449,
+    "level": "國中"
+  },
+  {
+    "word": "mind",
+    "phonetic": "/maɪnd/",
+    "pos": "n.",
+    "definition_zh": "想法；心意",
+    "example": "The experience made him change his mind.",
+    "example_zh": "這個經驗讓他改變了心意。",
+    "usage": [
+      {
+        "pattern": "change one's mind",
+        "meaning_zh": "改變心意"
+      }
+    ],
+    "frequency_rank": 450,
+    "level": "國中"
+  }
+]
