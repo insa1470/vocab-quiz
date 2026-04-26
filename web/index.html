@@ -12,8 +12,37 @@
 </head>
 <body>
 
+<!-- 登入畫面 -->
+<div id="screen-login" class="screen active">
+  <div class="login-container">
+    <div class="select-logo">📚</div>
+    <h1>英文單字複習</h1>
+    <p class="login-subtitle">輸入名字和 PIN 碼，跨裝置同步進度</p>
+    <div class="login-form">
+      <input type="text"
+             id="login-name"
+             class="login-input"
+             placeholder="你的名字（例如：小明）"
+             maxlength="20"
+             autocomplete="off"
+             autocorrect="off">
+      <input type="tel"
+             id="login-pin"
+             class="login-input"
+             placeholder="4 位數字 PIN"
+             maxlength="4"
+             pattern="[0-9]*"
+             inputmode="numeric">
+      <p class="login-error" id="login-error"></p>
+      <button class="btn-login" onclick="doLogin()">開始練習 →</button>
+      <p class="login-hint">首次使用會自動建立帳號・PIN 可自訂</p>
+    </div>
+    <button class="btn-skip" onclick="skipLogin()">暫時跳過（不同步）</button>
+  </div>
+</div>
+
 <!-- 選擇畫面 -->
-<div id="screen-select" class="screen active">
+<div id="screen-select" class="screen">
   <div class="select-container">
     <div class="select-logo">📚</div>
     <h1>英文單字複習</h1>
@@ -21,6 +50,10 @@
     <div class="streak-badge">
       🔥 <strong id="streak-count">0</strong> 天連續
       <span id="streak-label">今天還沒練習</span>
+    </div>
+
+    <div id="user-badge" class="user-badge hidden">
+      👤 <span id="user-name"></span>
     </div>
 
     <!-- 國中 -->
@@ -82,6 +115,7 @@
       <div class="word-phonetic">
         <span id="back-phonetic"></span>
         <button class="btn-speak" onclick="speak()">🔊</button>
+        <span id="back-freq" class="freq-badge hidden"></span>
       </div>
       <div class="word-definition" id="back-definition"></div>
       <div class="word-example">

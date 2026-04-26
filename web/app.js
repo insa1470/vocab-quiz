@@ -10,10 +10,129 @@ let againCount = 0;
 let graduatedCount = 0;
 let currentLevel = "";
 let currentMode = "all"; // "all" | "weak"
+let currentUser = null;  // { userId, name }
 
 // ── 啟動 ──────────────────────────────────────────────
-initStreak();
-updateWeakBadges();
+initAuth();
+
+// ── 認證 ──────────────────────────────────────────────
+function initAuth() {
+  try { currentUser = JSON.parse(localStorage.getItem('vocab_user') || 'null'); }
+  catch { currentUser = null; }
+
+  if (currentUser) {
+    updateUserBadge();
+    initStreak();
+    updateWeakBadges();
+    show('screen-select');
+    syncFromServer(); // 背景同步
+  } else {
+    show('screen-login');
+  }
+}
+
+async function doLogin() {
+  const name = document.getElementById('login-name').value.trim();
+  const pin  = document.getElementById('login-pin').value.trim();
+  const btn  = document.querySelector('.btn-login');
+  const errEl = document.getElementById('login-error');
+
+  if (!name)              { errEl.textContent = '請輸入名字'; return; }
+  if (!/^\d{4}$/.test(pin)) { errEl.textContent = 'PIN 需為 4 位數字'; return; }
+
+  btn.textContent = '登入中…';
+  btn.disabled = true;
+  errEl.textContent = '';
+
+  try {
+    const res = await fetch('/api/login', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name, pin })
+    });
+    const data = await res.json();
+
+    if (!res.ok) {
+      errEl.textContent = data.error || '登入失敗';
+      btn.textContent = '開始練習 →';
+      btn.disabled = false;
+      return;
+    }
+
+    currentUser = { userId: data.userId, name: data.name };
+    localStorage.setItem('vocab_user', JSON.stringify(currentUser));
+    updateUserBadge();
+    initStreak();
+    updateWeakBadges();
+    show('screen-select');
+    syncFromServer();
+  } catch {
+    // 離線時仍可使用，只是不同步
+    currentUser = { userId: null, name };
+    localStorage.setItem('vocab_user', JSON.stringify(currentUser));
+    updateUserBadge();
+    initStreak();
+    updateWeakBadges();
+    show('screen-select');
+  }
+
+  btn.textContent = '開始練習 →';
+  btn.disabled = false;
+}
+
+function skipLogin() {
+  currentUser = { userId: null, name: '訪客' };
+  initStreak();
+  updateWeakBadges();
+  show('screen-select');
+}
+
+function updateUserBadge() {
+  const badge  = document.getElementById('user-badge');
+  const nameEl = document.getElementById('user-name');
+  if (badge && nameEl && currentUser) {
+    nameEl.textContent = currentUser.name;
+    badge.classList.remove('hidden');
+  }
+}
+
+// ── 雲端同步 ──────────────────────────────────────────
+async function syncFromServer() {
+  if (!currentUser?.userId) return;
+  try {
+    const res = await fetch(`/api/sync?userId=${currentUser.userId}`);
+    if (!res.ok) return;
+    const data = await res.json();
+
+    // 伺服器資料優先（代表另一台裝置的最新進度）
+    if (data.weak) {
+      for (const [level, words] of Object.entries(data.weak)) {
+        localStorage.setItem(weakKey(level), JSON.stringify(words));
+      }
+      updateWeakBadges();
+    }
+    if (data.streak) {
+      localStorage.setItem('streak', JSON.stringify(data.streak));
+      initStreak();
+    }
+  } catch { /* 離線，忽略 */ }
+}
+
+async function syncToServer() {
+  if (!currentUser?.userId) return;
+  try {
+    const weak = {};
+    for (const level of ['高中', '國中']) {
+      const d = getWeakData(level);
+      if (Object.keys(d).length > 0) weak[level] = d;
+    }
+    await fetch('/api/sync', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ userId: currentUser.userId, weak, streak: getStreak() })
+    });
+  } catch { /* 離線，忽略 */ }
+}
 
 // ── 進入練習 ──────────────────────────────────────────
 async function startSession(level, mode) {
@@ -116,6 +235,22 @@ function showBack(isCorrect) {
   document.getElementById("back-word").textContent = current.word;
   document.getElementById("back-pos").textContent = current.pos || "";
   document.getElementById("back-phonetic").textContent = current.phonetic || "";
+
+  // 考試頻率徽章
+  const freqEl = document.getElementById("back-freq");
+  const years = current.appeared_years || 0;
+  if (years >= 3) {
+    freqEl.textContent = `🔥 近年考過 ${years} 次`;
+    freqEl.className = "freq-badge high";
+  } else if (years === 2) {
+    freqEl.textContent = `📌 考過 ${years} 次`;
+    freqEl.className = "freq-badge mid";
+  } else if (years === 1) {
+    freqEl.textContent = `考過 1 次`;
+    freqEl.className = "freq-badge low";
+  } else {
+    freqEl.className = "freq-badge hidden";
+  }
   document.getElementById("back-definition").textContent = current.definition_zh || "";
   document.getElementById("back-example").textContent = current.example || "";
   document.getElementById("back-example-zh").textContent = current.example_zh || "";
@@ -195,6 +330,7 @@ function showDone() {
 
   updateWeakBadges();
   show("screen-done");
+  syncToServer(); // 背景上傳進度
 }
 
 // ── 返回 ──────────────────────────────────────────────

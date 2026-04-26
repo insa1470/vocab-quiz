@@ -307,6 +307,17 @@ body {
   font-size: 0.92rem;
 }
 
+.freq-badge {
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.15rem 0.55rem;
+  border-radius: 20px;
+  margin-left: auto;
+}
+.freq-badge.high  { background: rgba(255,59,48,0.12);  color: #C0392B; }
+.freq-badge.mid   { background: rgba(255,149,0,0.12);  color: #B7700A; }
+.freq-badge.low   { background: rgba(120,120,128,0.1); color: var(--label2); }
+
 .btn-speak {
   background: var(--fill2);
   border: none;
@@ -448,3 +459,98 @@ body {
   box-shadow: var(--shadow-md);
 }
 .btn-restart:active { transform: scale(0.97); }
+
+/* ── 登入畫面 ── */
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  padding: 2rem 1.5rem;
+  gap: 1rem;
+}
+
+.login-subtitle {
+  font-size: 0.95rem;
+  color: var(--label2);
+  text-align: center;
+}
+
+.login-form {
+  width: 100%;
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.login-input {
+  width: 100%;
+  padding: 0.95rem 1.2rem;
+  border: 1.5px solid var(--separator);
+  border-radius: var(--r-lg);
+  font-size: 1.05rem;
+  font-family: inherit;
+  background: var(--bg2);
+  color: var(--label);
+  outline: none;
+  box-shadow: var(--shadow-sm);
+  transition: border-color 0.15s;
+  -webkit-appearance: none;
+}
+.login-input:focus { border-color: var(--brand); }
+
+.btn-login {
+  width: 100%;
+  padding: 1rem;
+  background: linear-gradient(135deg, var(--brand), var(--brand-mid));
+  color: white;
+  border: none;
+  border-radius: var(--r-lg);
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  box-shadow: var(--shadow-md);
+  margin-top: 0.25rem;
+  transition: transform 0.1s;
+}
+.btn-login:active   { transform: scale(0.97); }
+.btn-login:disabled { opacity: 0.6; pointer-events: none; }
+
+.login-error {
+  font-size: 0.88rem;
+  color: var(--red);
+  text-align: center;
+  min-height: 1.1rem;
+}
+
+.login-hint {
+  font-size: 0.82rem;
+  color: var(--label2);
+  text-align: center;
+}
+
+.btn-skip {
+  background: none;
+  border: none;
+  color: var(--label2);
+  font-size: 0.88rem;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 0.25rem;
+}
+
+/* ── 使用者徽章 ── */
+.user-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.85rem;
+  color: var(--label2);
+  font-weight: 500;
+  background: var(--fill2);
+  padding: 0.3rem 0.9rem;
+  border-radius: 20px;
+}
